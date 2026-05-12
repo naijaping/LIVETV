@@ -16,7 +16,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: true  # Permette di fare push dopo commit
+          persist-credentials: true
+          fetch-depth: 0  # Questo scarica TUTTA la storia del branch
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -44,10 +45,11 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-      
+          
           git add -A
-      
-          git diff --quiet && git diff --staged --quiet || (
-            git commit -m "Update liste - $(date '+%Y-%m-%d %H:%M:%S')" &&
-            git push
-          )
+          
+          if ! git diff --quiet && ! git diff --staged --quiet; then
+            git commit -m "Update liste - $(date '+%Y-%m-%d %H:%M:%S')"
+            git pull --rebase origin main  # Integra cambiamenti remoti
+            git push origin main
+          fi
