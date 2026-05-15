@@ -291,6 +291,10 @@ https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport5)/manifest.mp
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69982165690d4fef90d3f4d4e245fc27:49711e568736d9ae3ea7993571c9bcce
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport6)/manifest.mpd
+#EXTINF:-1 tvg-id="dctv" tvg-logo="" group-title="Altro",DCTV [UK] [UAZNAO]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyIxMWM4M2Y3MTc0NGU0MDIwOWVkMTJiMWNlMjM0ZDA1NSI6IjgzMjc5YmQ4NmM4ZjcxNjU2NDQwYWYxYWJhZjQzZjBhIn0
+https://dctv.mocdn.tv/out/v1/53b5ed79722b4b23932dd86262242e03/manifest_L1.mpd
 #EXTINF:-1 tvg-id="tntsports1" tvg-logo="" group-title="Sport",TNT Sports 1 [UK] [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
