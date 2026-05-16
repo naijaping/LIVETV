@@ -1,12 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="Sky.Sport.Arena" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-arena.svg",[Volleyball] 2026-05-16 15:00 - Volleyball -  vs  (Sky Sport Arena)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+arena&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Arena" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-arena.svg",[Volleyball] 2026-05-16 18:30 - Volleyball -  vs  (Sky Sport Arena)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+arena&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Arena" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-arena.svg",[Volleyball] 2026-05-16 15:00 - Volleyball -  vs  (Sky Sport Arena)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+arena&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Arena" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-arena.svg",[Volleyball] 2026-05-16 18:30 - Volleyball -  vs  (Sky Sport Arena)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+arena&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Match.TV" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/russia/match-tv.webp",[Soccer] 2026-05-16 10:00 - FNL - Arsenal Tula vs Rodina Moskva (Match TV)
 https://cdnlivetv.tv/api/v1/channels/player/?name=match+tv&code=ru&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sport.TV.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg",[Soccer] 2026-05-16 10:00 - Segunda liga - Academico Viseu vs Sporting CP II (Sport TV 1)
