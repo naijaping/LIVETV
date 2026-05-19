@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="rai1.it" tvg-logo="https://channels.zappr.stream/logos/it/optimized/rai1.svg" group-title="Rai",Rai 1 [ZAPPR]
-https://netplus.zappr.stream/rai1.m3u8
+https://lb.adriatelekom.com/Rai1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="rai2.it" tvg-logo="https://channels.zappr.stream/logos/it/optimized/rai2.svg" group-title="Rai",Rai 2 [ZAPPR]
-https://netplus.zappr.stream/rai2.m3u8
+https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
 #EXTINF:-1 tvg-id="rai3.it" tvg-logo="https://channels.zappr.stream/logos/it/optimized/rai3.svg" group-title="Rai",Rai 3 [ZAPPR]
-https://netplus.zappr.stream/rai3.m3u8
+https://lb.adriatelekom.com/Rai3/index.m3u8
 #EXTINF:-1 tvg-id="rete.4.it" tvg-logo="https://channels.zappr.stream/logos/it/optimized/rete4.svg" group-title="Mediaset",Rete 4 [ZAPPR]
-https://netplus.zappr.stream/rete4.m3u8
+https://wp7-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09242/stb-dash-fhd-avc/SV09242.mpd?clearkeyPlayer.audioLanguage=it
 #EXTINF:-1 tvg-id="canale.5.it" tvg-logo="https://channels.zappr.stream/logos/it/optimized/canale5.svg" group-title="Mediaset",Canale 5 [ZAPPR]
-https://netplus.zappr.stream/canale5.m3u8
+https://wp10-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09241/stb-dash-fhd-avc/SV09241.mpd?clearkeyPlayer.audioLanguage=it
 #EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://channels.zappr.stream/logos/it/optimized/italia1.svg" group-title="Mediaset",Italia 1 [ZAPPR]
-https://netplus.zappr.stream/italia1.m3u8
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(italia1)/manifest.mpd
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://channels.zappr.stream/logos/it/optimized/la7.svg" group-title="Altro",LA7 [ZAPPR]
 https://d15umi5iaezxgx.cloudfront.net/LA7/DRM/DASH/Live.mpd
 #EXTINF:-1 tvg-id="tv8.hd.it" tvg-logo="https://channels.zappr.stream/logos/it/optimized/tv8.svg" group-title="Altro",TV8 [ZAPPR]
@@ -62,7 +62,7 @@ https://feapi.turner.streamity.com/api/v1/Config/getConfig?platformId=ae56bf6a-c
 #EXTINF:-1 tvg-id="k2.it" tvg-logo="https://channels.zappr.stream/logos/it/optimized/k2.svg" group-title="Bambini",K2 [ZAPPR]
 https://alwaysdata-api.zappr.stream/k2.mpd
 #EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://channels.zappr.stream/logos/it/optimized/raigulp.svg" group-title="Rai",Rai Gulp [ZAPPR]
-https://rai.zappr.stream/raigulp.m3u8
+https://www.rai.it/dl/RaiParlamento/diretta.html?videoURL=https://mediapolis.rai.it/relinker/relinkerServlet.htm&cont=746953&autoplay=true&muted=false
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-logo="https://channels.zappr.stream/logos/it/optimized/raiyoyo.svg" group-title="Rai",Rai Yoyo [ZAPPR]
 https://raiyoyo1-live.akamaized.net/hls/live/598330/raiyoyo1/raiyoyo1/playlist.m3u8
 #EXTINF:-1 tvg-id="frisbee.it" tvg-logo="https://channels.zappr.stream/logos/it/optimized/frisbee" group-title="Bambini",Frisbee [ZAPPR]
@@ -80,19 +80,19 @@ https://live02-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://channels.zappr.stream/logos/it/optimized/skytg24.svg" group-title="News",Sky TG24 [ZAPPR]
 https://uvotv.zappr.stream/293.m3u8
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-logo="https://channels.zappr.stream/logos/it/optimized/tgcom24.svg" group-title="News",TGcom24 [ZAPPR]
-https://live02-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
 #EXTINF:-1 tvg-id="dmax.it" tvg-logo="https://channels.zappr.stream/logos/it/optimized/dmax.svg" group-title="Altro",DMAX [ZAPPR]
 https://d24suwc4j2wvyy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-09ap0j3u2xm1u/out/v1/1ef9705b7c534751889b6e01bb032f80/HLS_CMAF_DRM/index.m3u8
 #EXTINF:-1 tvg-id="casaitalia53" tvg-logo="https://channels.zappr.stream/logos/it/optimized/casaitalia53.svg" group-title="Altro",Casa Italia 53 [ZAPPR]
 https://liveac915ha.streamcloud.it/channel09/playlist.m3u8
 #EXTINF:-1 tvg-id="raistoria.it" tvg-logo="https://channels.zappr.stream/logos/it/optimized/raistoria.svg" group-title="Rai",Rai Storia [ZAPPR]
-https://netplus.zappr.stream/raistoria.m3u8
+https://lb.adriatelekom.com/RaiStoria/index.m3u8
 #EXTINF:-1 tvg-id="mediaset.extra.it" tvg-logo="https://channels.zappr.stream/logos/it/optimized/mediasetextra.svg" group-title="Mediaset",Mediaset Extra [ZAPPR]
 https://live02-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="hgtvhomegarden" tvg-logo="https://channels.zappr.stream/logos/it/optimized/hgtv.svg" group-title="Altro",HGTV - Home & Garden [ZAPPR]
 https://d21emhonubg8zy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yspg3gkuqw4f2/out/v1/063d830ad098456e8c76bd198dea0122/HLS_CMAF_DRM/index.m3u8
 #EXTINF:-1 tvg-id="raiscuola.it" tvg-logo="https://channels.zappr.stream/logos/it/optimized/raiscuola.svg" group-title="Rai",Rai Scuola [ZAPPR]
-https://netplus.zappr.stream/raiscuola.m3u8
+https://ilglobotv-live.akamaized.net/channels/RAIScuola/Live.m3u8
 #EXTINF:-1 tvg-id="raisport.it" tvg-logo="https://channels.zappr.stream/logos/it/optimized/raisport.svg" group-title="Rai",Rai Sport [ZAPPR]
 https://raisportuno1-live.akamaized.net/hls/live/598320/raisportuno1/raisportuno1/playlist_mo_1800-5000.m3u8
 #EXTINF:-1 tvg-id="discoveryturbo.it" tvg-logo="https://channels.zappr.stream/logos/it/optimized/discoveryturbo.svg" group-title="Documentari",Discovery Turbo [ZAPPR]
