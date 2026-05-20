@@ -5,16 +5,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=rai+sport&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sport.Uno" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-uno.svg",[Soccer] 2026-05-20 19:00 - UEFA Europa League - Freiburg vs Aston Villa (Sky Sport Uno)
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Rai.2" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/rai-2.svg",[Cycling] 2026-05-20 10:30 - Cycling -  vs  (Rai 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=rai+2&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png",[Cycling] 2026-05-20 10:30 - Cycling -  vs  (Euro Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Rai.2" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/rai-2.svg",[Cycling] 2026-05-20 10:30 - Cycling -  vs  (Rai 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=rai+2&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png",[Cycling] 2026-05-20 10:30 - Cycling -  vs  (Euro Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Italia.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/italia-1.svg",[MLB] 2026-05-20 17:10 - MLB - Tampa Bay Rays vs Baltimore Orioles (Italia 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=italia+1&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TNT.Sports.7" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-7.png",[Soccer] 2026-05-20 15:00 - Virsliga - Tukums vs Riga (TNT Sports 7)
 https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sport.5.Plus" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-plus.png",[Soccer] 2026-05-20 15:45 - Liga Leumit - Hapoel Kfar Shalem vs Kiryat Yam SC (Sport 5 Plus)
