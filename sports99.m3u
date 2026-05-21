@@ -1,8 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="Rai.Sport" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/rai-sport.webp",[Basketball] 2026-05-21 18:45 - Basketball -  vs  (Rai Sport)
-https://cdnlivetv.tv/api/v1/channels/player/?name=rai+sport&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Rai.Sport" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/rai-sport.webp",[Basketball] 2026-05-21 18:45 - Basketball -  vs  (Rai Sport)
-https://cdnlivetv.tv/api/v1/channels/player/?name=rai+sport&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Nova.Sports.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/greece/nova-sports-2.png",[Soccer] 2026-05-21 16:00 - Super League - Atromitos vs Panserraikos (Nova Sports 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+2&code=gr&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Cosmote.Sport.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/greece/cosmote-sport-2.webp",[Soccer] 2026-05-21 16:00 - Super League - Kifisia vs Larissa (Cosmote Sport 2)
