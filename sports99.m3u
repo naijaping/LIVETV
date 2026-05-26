@@ -1,10 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
 #EXTINF:-1 tvg-id="Sky.Sport.Uno" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-uno.svg",[NBA] 2026-05-27 00:30 - NBA - Oklahoma City Thunder vs San Antonio Spurs (Sky Sport Uno)
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Rai.Sport" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/rai-sport.webp",[Basketball] 2026-05-26 18:45 - Basketball -  vs  (Rai Sport)
-https://cdnlivetv.tv/api/v1/channels/player/?name=rai+sport&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Rai.Sport" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/rai-sport.webp",[Basketball] 2026-05-26 18:45 - Basketball -  vs  (Rai Sport)
-https://cdnlivetv.tv/api/v1/channels/player/?name=rai+sport&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Arena.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1.webp",[Soccer] 2026-05-26 15:00 - Premijer Liga - Sloga Doboj vs Rudar Prijedor (Arena Sport 1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=rs&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.7" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-7.png",[Soccer] 2026-05-26 16:00 - Premijer Liga - Borac Banja Luka vs Posušje (Sky Sport Bundesliga 7)
