@@ -1,10 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="Sky.Sport.Uno" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-uno.svg",[Soccer] 2026-06-02 19:15 - Serie C - Union Brescia vs Ascoli (Sky Sport Uno)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Euro.Sport.2" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-2.png",[Cycling] 2026-06-02 12:15 - Cycling -  vs  (Euro Sport 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+2&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Euro.Sport.2" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-2.png",[Cycling] 2026-06-02 12:15 - Cycling -  vs  (Euro Sport 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+2&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="beIN.SPORTS.MENA.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg",[Soccer] 2026-06-02 16:00 - Friendly - Croatia vs Belgium (beIN SPORTS MENA 1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TNT.Sports.7" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-7.png",[Soccer] 2026-06-02 16:00 - Friendly - Croatia vs Belgium (TNT Sports 7)
