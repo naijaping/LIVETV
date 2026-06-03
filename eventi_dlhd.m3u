@@ -1,1 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="friendlynetherlandsvsalgeria" tvg-name="Soccer | Friendly : Netherlands vs Algeria (18:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Netherlands_vs_Algeria.png" group-title="Eventi Live DLHD",Soccer | Friendly : Netherlands vs Algeria (18:45)
+https://dlhd.pk/watch.php?id=870
+
+#EXTINF:-1 tvg-id="friendlyluxembourgvsitaly" tvg-name="Soccer | Friendly : Luxembourg vs Italy (18:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Luxembourg_vs_Italy.png" group-title="Eventi Live DLHD",Soccer | Friendly : Luxembourg vs Italy (18:45)
+https://dlhd.pk/watch.php?id=850
+
+#EXTINF:-1 tvg-id="friendlyluxembourgvsitaly" tvg-name="Soccer | Friendly : Luxembourg vs Italy (18:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Luxembourg_vs_Italy.png" group-title="Eventi Live DLHD",Soccer | Friendly : Luxembourg vs Italy (18:45)
+https://dlhd.pk/watch.php?id=3047
+
+#EXTINF:-1 tvg-id="worldathleticscontinentaltourgold2026" tvg-name="Athletics | World Athletics Continental Tour Gold 2026 (16:00)" tvg-logo="https://fox56.com/resources/media2/16x9/full/1015/center/80/727aeb2d-fb76-48e0-8be5-e4d55a45fb74-large16x9_WyomingAreaRegionalPolice.jpg" group-title="Eventi Live DLHD",Athletics | World Athletics Continental Tour Gold 2026 (16:00)
+https://dlhd.pk/watch.php?id=461
+
+#EXTINF:-1 tvg-id="leagueofnationsitalyvstrkiye" tvg-name="Volleyball | League of Nations : Italy vs. T?rkiye (15:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Italy_vs_T?rkiye.png" group-title="Eventi Live DLHD",Volleyball | League of Nations : Italy vs. T?rkiye (15:00)
+https://dlhd.pk/watch.php?id=882
+
