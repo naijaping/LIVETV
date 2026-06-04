@@ -1,10 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
 #EXTINF:-1 tvg-id="Sky.Sport.Calcio" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-calcio.svg",[Soccer] 2026-06-04 19:10 - Friendly - France vs Côte d'Ivoire (Sky Sport Calcio)
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Italia.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/italia-1.svg",[Handball] 2026-06-04 18:00 - Handball -  vs  (Italia 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=italia+1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Italia.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/italia-1.svg",[Handball] 2026-06-04 18:00 - Handball -  vs  (Italia 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=italia+1&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="SuperSport.Maximo.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-maximo-1.webp",[Soccer] 2026-06-04 15:00 - Friendly - Sweden U21 vs Finland U21 (SuperSport Maximo 1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TNT.Sports.7" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-7.png",[Soccer] 2026-06-04 16:00 - Friendly - Northern Ireland vs Guinea (TNT Sports 7)
