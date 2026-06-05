@@ -2,18 +2,9 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="worldfifawomensworldcupqualifyingitalyvsserbia" tvg-name="Soccer | World - FIFA Women's World Cup Qualifying : Italy vs Serbia (16:15)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Italy_vs_Serbia.png" group-title="Eventi Live DLHD",Soccer | World - FIFA Women's World Cup Qualifying : Italy vs Serbia (16:15)
-https://dlhd.pk/watch.php?id=851
-
-#EXTINF:-1 tvg-id="worldfifawomensworldcupqualifyingitalyvsserbia" tvg-name="Soccer | World - FIFA Women's World Cup Qualifying : Italy vs Serbia (16:15)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Italy_vs_Serbia.png" group-title="Eventi Live DLHD",Soccer | World - FIFA Women's World Cup Qualifying : Italy vs Serbia (16:15)
-https://dlhd.pk/watch.php?id=3047
-
 #EXTINF:-1 tvg-id="friendlyhungaryvsfinland" tvg-name="Soccer | Friendly : Hungary vs Finland (17:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Hungary_vs_Finland.png" group-title="Eventi Live DLHD",Soccer | Friendly : Hungary vs Finland (17:45)
 https://dlhd.pk/watch.php?id=870
 
-#EXTINF:-1 tvg-id="formula1louisvuittonmonacogppractice2" tvg-name="Motorsport | Formula 1 : Louis Vuitton Monaco GP - Practice 2 (15:00)" tvg-logo="https://i.pinimg.com/736x/75/81/b5/7581b5974ff028e67e4817b884e3c41d.jpg" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Louis Vuitton Monaco GP - Practice 2 (15:00)
-https://dlhd.pk/watch.php?id=577
-
-#EXTINF:-1 tvg-id="worldseriesboulderingpraguefinaletheman" tvg-name="Climbing | World Series Bouldering | Prague Finale | The Man (17:30)" tvg-logo="https://www.pewpewtactical.com/wp-content/uploads/2018/01/A-Couple-AR-15-Optics-1024x677.jpg" group-title="Eventi Live DLHD",Climbing | World Series Bouldering | Prague Finale | The Man (17:30)
+#EXTINF:-1 tvg-id="worldseriesboulderingpraguefinaletheman" tvg-name="Climbing | World Series Bouldering | Prague Finale | The Man (17:30)" tvg-logo="https://fi.wizcase.com/wp-content/uploads/2020/02/Powerpoint-logo.png" group-title="Eventi Live DLHD",Climbing | World Series Bouldering | Prague Finale | The Man (17:30)
 https://dlhd.pk/watch.php?id=879
 
