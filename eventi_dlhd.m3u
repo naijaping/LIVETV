@@ -1,1 +1,43 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="friendlybelgiumvstunisia" tvg-name="All Soccer Event | Friendly : Belgium vs Tunisia (13:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1ffac3b5-a5aa-4d5c-9fd8-b2ea531eb856/dj4fjrc-b72ed125-cfc9-4363-918c-f9b88b55beaa.png/v1/fit/w_375,h_672,q_70,strp/slaves_at_work_8___________________________________by_huskysauce_dj4fjrc-375w.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFmZmFjM2I1LWE1YWEtNGQ1Yy05ZmQ4LWIyZWE1MzFlYjg1NlwvZGo0ZmpyYy1iNzJlZDEyNS1jZmM5LTQzNjMtOTE4Yy1mOWI4OGI1NWJlYWEucG5nIiwiaGVpZ2h0IjoiPD0xMDc1Iiwid2lkdGgiOiI8PTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC8xZmZhYzNiNS1hNWFhLTRkNWMtOWZkOC1iMmVhNTMxZWI4NTZcL2h1c2t5c2F1Y2UtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.lM1oPJKIbpUVHjaoIGPEsvaXMZbJDZcbm_LCRCUXagg" group-title="Eventi Live DLHD",All Soccer Event | Friendly : Belgium vs Tunisia (13:00)
+https://dlhd.pk/watch.php?id=870
+
+#EXTINF:-1 tvg-id="friendlyportugalvschile" tvg-name="All Soccer Event | Friendly : Portugal vs Chile (17:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Portugal_vs_Chile.png" group-title="Eventi Live DLHD",All Soccer Event | Friendly : Portugal vs Chile (17:45)
+https://dlhd.pk/watch.php?id=6
+
+#EXTINF:-1 tvg-id="friendlyenglandvsnewzealand" tvg-name="All Soccer Event | Friendly : England vs New Zealand (20:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",All Soccer Event | Friendly : England vs New Zealand (20:00)
+https://dlhd.pk/watch.php?id=870
+
+#EXTINF:-1 tvg-id="moto2round8hungaryqualifying" tvg-name="Motorsport | Moto2 : Round 8 | Hungary Qualifying (11:35)" tvg-logo="https://i.pinimg.com/originals/83/6b/89/836b89ac1fa786d445f824f8aa0081d7.jpg" group-title="Eventi Live DLHD",Motorsport | Moto2 : Round 8 | Hungary Qualifying (11:35)
+https://dlhd.pk/watch.php?id=575
+
+#EXTINF:-1 tvg-id="formula2louisvuittonmonacogpsprintrace" tvg-name="Motorsport | Formula 2 : Louis Vuitton Monaco GP - Sprint Race (12:15)" tvg-logo="https://i.redd.it/4sdk8hdrpcx81.jpg" group-title="Eventi Live DLHD",Motorsport | Formula 2 : Louis Vuitton Monaco GP - Sprint Race (12:15)
+https://dlhd.pk/watch.php?id=577
+
+#EXTINF:-1 tvg-id="motogpround8hungarysprintrace" tvg-name="Motorsport | MotoGP : Round 8 | Hungary Sprint Race (12:45)" tvg-logo="https://pnganime.com/web/images/s/snakehashira.png" group-title="Eventi Live DLHD",Motorsport | MotoGP : Round 8 | Hungary Sprint Race (12:45)
+https://dlhd.pk/watch.php?id=575
+
+#EXTINF:-1 tvg-id="formula1louisvuittonmonacogpqualifying" tvg-name="Motorsport | Formula 1 : Louis Vuitton Monaco GP - Qualifying (14:00)" tvg-logo="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2018/03/por-que-caaricaturas-se-llaman-asi.jpg" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Louis Vuitton Monaco GP - Qualifying (14:00)
+https://dlhd.pk/watch.php?id=577
+
+#EXTINF:-1 tvg-id="fimenduranceworldchampionship8hoursofspafrancorchampsrace" tvg-name="Motorsport | FIM Endurance World Championship 8 Hours of Spa-Francorchamps | Race (16:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Motorsport | FIM Endurance World Championship 8 Hours of Spa-Francorchamps | Race (16:30)
+https://dlhd.pk/watch.php?id=879
+
+#EXTINF:-1 tvg-id="athleticscontinentalseriesusatflonestargrandprix" tvg-name="Athletics | Athletics Continental Series USATF Lone Star Grand Prix (20:00)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUpfWQW1ha6JVvukK4VYFMYZIagquk8zvHEAAyX-F5pkOp6ruv0YAHFePGxg342xQAH2HsYjAIRS_DnosFybG6QYR0Po1oZijCMsywY2dNaQrQDmASzCzOwO6RAWFOX1Rnf6K36KG-pANcEyj2RvD6gvIiZ4LGsxdGnfI8iIWp8eIXxppFWuwW_gtz2Q/s2421/MA Mis Materiales Educativos Carta TC BN Unir Dibujos Iguales_Página_1.jpg" group-title="Eventi Live DLHD",Athletics | Athletics Continental Series USATF Lone Star Grand Prix (20:00)
+https://dlhd.pk/watch.php?id=461
+
+#EXTINF:-1 tvg-id="giroditaliawomenstage8rivolisestriere105km" tvg-name="Cycling | Giro d'Italia Women Stage 8 | Rivoli - Sestriere (105km) (13:00)" tvg-logo="https://t1.pictoa.com/media/galleries/285/473/2854735fc81121f3514/36620055fc811463b3b4.jpg" group-title="Eventi Live DLHD",Cycling | Giro d'Italia Women Stage 8 | Rivoli - Sestriere (105km) (13:00)
+https://dlhd.pk/watch.php?id=878
+
+#EXTINF:-1 tvg-id="longinesglobalchampionstourcannesshowjumping" tvg-name="Equestrian | Longines Global Champions Tour Cannes | Show Jumping (18:30)" tvg-logo="https://imx.to/u/t/2020/01/31/27qgvj.jpg" group-title="Eventi Live DLHD",Equestrian | Longines Global Champions Tour Cannes | Show Jumping (18:30)
+https://dlhd.pk/watch.php?id=878
+
+#EXTINF:-1 tvg-id="championsleaguewomenmetzwvscsmbucurestiw" tvg-name="Handball | Champions League Women : Metz W vs CSM Bucuresti W (13:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Metz W_vs_CSM Bucuresti W.png" group-title="Eventi Live DLHD",Handball | Champions League Women : Metz W vs CSM Bucuresti W (13:00)
+https://dlhd.pk/watch.php?id=460
+
+#EXTINF:-1 tvg-id="championsleaguewomenbrestbretagnewvsgyorw" tvg-name="Handball | Champions League Women : Brest Bretagne W vs Gyor W (16:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Brest Bretagne W_vs_Gyor W.png" group-title="Eventi Live DLHD",Handball | Champions League Women : Brest Bretagne W vs Gyor W (16:00)
+https://dlhd.pk/watch.php?id=460
+
