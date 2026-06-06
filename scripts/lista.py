@@ -2369,6 +2369,15 @@ def main():
         except Exception as e:
             print(f"Errore durante l'esecuzione di italy_channels: {e}")
             return
+
+        # Canali World (solo se WORLD=si)
+        try:
+            if world_flag == "si":
+                world_channels_generator()
+            else:
+                print("[INFO] Generazione world.m3u saltata: WORLD non è 'si'.")
+        except Exception as e:
+            print(f"Errore durante l'esecuzione di world_channels_generator: {e}")
             
         try:
             sportsonline()
