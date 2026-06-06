@@ -2,18 +2,12 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="friendlyportugalvschile" tvg-name="All Soccer Event | Friendly : Portugal vs Chile (17:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Portugal_vs_Chile.png" group-title="Eventi Live DLHD",All Soccer Event | Friendly : Portugal vs Chile (17:45)
-https://dlhd.pk/watch.php?id=6
-
 #EXTINF:-1 tvg-id="friendlyenglandvsnewzealand" tvg-name="All Soccer Event | Friendly : England vs New Zealand (20:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/England_vs_New Zealand.png" group-title="Eventi Live DLHD",All Soccer Event | Friendly : England vs New Zealand (20:00)
 https://dlhd.pk/watch.php?id=870
 
-#EXTINF:-1 tvg-id="fimenduranceworldchampionship8hoursofspafrancorchampsrace" tvg-name="Motorsport | FIM Endurance World Championship 8 Hours of Spa-Francorchamps | Race (16:30)" tvg-logo="https://footeducation.com/wp-content/uploads/2019/03/Figure-1-Bones-of-the-Foot-and-Ankle.png" group-title="Eventi Live DLHD",Motorsport | FIM Endurance World Championship 8 Hours of Spa-Francorchamps | Race (16:30)
-https://dlhd.pk/watch.php?id=879
-
-#EXTINF:-1 tvg-id="athleticscontinentalseriesusatflonestargrandprix" tvg-name="Athletics | Athletics Continental Series USATF Lone Star Grand Prix (20:00)" tvg-logo="https://www.serebii.net/anime/pictures/houen/386/AG141.jpg" group-title="Eventi Live DLHD",Athletics | Athletics Continental Series USATF Lone Star Grand Prix (20:00)
+#EXTINF:-1 tvg-id="athleticscontinentalseriesusatflonestargrandprix" tvg-name="Athletics | Athletics Continental Series USATF Lone Star Grand Prix (20:00)" tvg-logo="https://cdn.techtitute.com/cursosenfermeria/media/uploads/experto-nutricion-dietetica-enfermeria2.jpg" group-title="Eventi Live DLHD",Athletics | Athletics Continental Series USATF Lone Star Grand Prix (20:00)
 https://dlhd.pk/watch.php?id=461
 
-#EXTINF:-1 tvg-id="longinesglobalchampionstourcannesshowjumping" tvg-name="Equestrian | Longines Global Champions Tour Cannes | Show Jumping (18:30)" tvg-logo="https://i.pinimg.com/originals/d3/fb/8e/d3fb8eb34eb285ca038012b5562ad5b3.jpg" group-title="Eventi Live DLHD",Equestrian | Longines Global Champions Tour Cannes | Show Jumping (18:30)
+#EXTINF:-1 tvg-id="longinesglobalchampionstourcannesshowjumping" tvg-name="Equestrian | Longines Global Champions Tour Cannes | Show Jumping (18:30)" tvg-logo="https://i.fbcd.co/products/resized/resized-750-500/obl-clipart-db-4-2ee5d95834a28c40e45c3277b26b62d639bbd655296641c81d0cba5dba6c6d25.jpg" group-title="Eventi Live DLHD",Equestrian | Longines Global Champions Tour Cannes | Show Jumping (18:30)
 https://dlhd.pk/watch.php?id=878
 
