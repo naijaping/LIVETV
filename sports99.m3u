@@ -13,15 +13,7 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Rai.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/rai-1.svg",[Soccer] 2026-06-07 19:00 - Friendly - Greece vs Italy (Rai 1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=rai+1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png",[Tennis] 2026-06-07 12:30 - Tennis -  vs  (Euro Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png",[Tennis] 2026-06-07 12:30 - Tennis -  vs  (Euro Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Euro.Sport.2" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-2.png",[Cycling] 2026-06-07 11:05 - Cycling -  vs  (Euro Sport 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+2&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Euro.Sport.2" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-2.png",[Cycling] 2026-06-07 13:00 - Cycling -  vs  (Euro Sport 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+2&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Euro.Sport.2" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-2.png",[Cycling] 2026-06-07 11:05 - Cycling -  vs  (Euro Sport 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+2&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Euro.Sport.2" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-2.png",[Cycling] 2026-06-07 13:00 - Cycling -  vs  (Euro Sport 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+2&code=it&user=streamsports99&plan=vip
@@ -33,17 +25,9 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=rai+sport&code=it&user=streams
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+arena&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sport.F1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-f1.svg",[Motorsport] 2026-06-08 05:55 - Motorsport -  vs  (Sky Sport F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+f1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Moto.GP" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-motogp.svg",[Motorsport] 2026-06-07 11:15 - Motorsport -  vs  (Sky Sport Moto GP)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+moto+gp&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.F1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-f1.svg",[Motorsport] 2026-06-07 12:00 - Motorsport -  vs  (Sky Sport F1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+f1&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sport.F1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-f1.svg",[Motorsport] 2026-06-07 13:00 - Motorsport -  vs  (Sky Sport F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+f1&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sport.F1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-f1.svg",[Motorsport] 2026-06-08 05:55 - Motorsport -  vs  (Sky Sport F1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+f1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Moto.GP" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-motogp.svg",[Motorsport] 2026-06-07 11:15 - Motorsport -  vs  (Sky Sport Moto GP)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+moto+gp&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.F1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-f1.svg",[Motorsport] 2026-06-07 12:00 - Motorsport -  vs  (Sky Sport F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+f1&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sport.F1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-f1.svg",[Motorsport] 2026-06-07 13:00 - Motorsport -  vs  (Sky Sport F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+f1&code=it&user=streamsports99&plan=vip
