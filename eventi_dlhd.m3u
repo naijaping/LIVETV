@@ -1,1 +1,64 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="friendlyliechtensteinvscyprus" tvg-name="Soccer | Friendly : Liechtenstein vs Cyprus (13:00)" tvg-logo="https://blog.rotoplas.com.pe/wp-content/uploads/2020/01/Pe-Recomendaciones-para-cuidar-el-agua-en-casa-01.png" group-title="Eventi Live DLHD",Soccer | Friendly : Liechtenstein vs Cyprus (13:00)
+https://dlhd.pk/watch.php?id=870
+
+#EXTINF:-1 tvg-id="italyseriecascolivsunionbrescia" tvg-name="Soccer | Italy - Serie C : Ascoli vs Union Brescia (16:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Ascoli_vs_Union Brescia.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ascoli vs Union Brescia (16:00)
+https://dlhd.pk/watch.php?id=3
+
+#EXTINF:-1 tvg-id="italyseriecascolivsunionbrescia" tvg-name="Soccer | Italy - Serie C : Ascoli vs Union Brescia (16:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Ascoli_vs_Union Brescia.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ascoli vs Union Brescia (16:00)
+https://dlhd.pk/watch.php?id=851
+
+#EXTINF:-1 tvg-id="italyseriecascolivsunionbrescia" tvg-name="Soccer | Italy - Serie C : Ascoli vs Union Brescia (16:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Ascoli_vs_Union Brescia.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ascoli vs Union Brescia (16:00)
+https://dlhd.pk/watch.php?id=461
+
+#EXTINF:-1 tvg-id="friendlydenmarkvsukraine" tvg-name="Soccer | Friendly : Denmark vs Ukraine (16:30)" tvg-logo="https://thumb-nss.xhcdn.com/a/0rZEXp6xvjlYU0IM-K4jjg/025/938/619/1280x720.17392372.jpg" group-title="Eventi Live DLHD",Soccer | Friendly : Denmark vs Ukraine (16:30)
+https://dlhd.pk/watch.php?id=870
+
+#EXTINF:-1 tvg-id="friendlycroatiavsslovenia" tvg-name="Soccer | Friendly : Croatia vs Slovenia (18:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Croatia_vs_Slovenia.png" group-title="Eventi Live DLHD",Soccer | Friendly : Croatia vs Slovenia (18:45)
+https://dlhd.pk/watch.php?id=870
+
+#EXTINF:-1 tvg-id="friendlycroatiavsslovenia" tvg-name="Soccer | Friendly : Croatia vs Slovenia (18:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Croatia_vs_Slovenia.png" group-title="Eventi Live DLHD",Soccer | Friendly : Croatia vs Slovenia (18:45)
+https://dlhd.pk/watch.php?id=461
+
+#EXTINF:-1 tvg-id="friendlygreecevsitaly" tvg-name="Soccer | Friendly : Greece vs Italy (19:00)" group-title="Eventi Live DLHD",Soccer | Friendly : Greece vs Italy (19:00)
+https://dlhd.pk/watch.php?id=850
+
+#EXTINF:-1 tvg-id="friendlygreecevsitaly" tvg-name="Soccer | Friendly : Greece vs Italy (19:00)" tvg-logo="https://wallpaper-house.com/data/out/12/wallpaper2you_582971.png" group-title="Eventi Live DLHD",Soccer | Friendly : Greece vs Italy (19:00)
+https://dlhd.pk/watch.php?id=3047
+
+#EXTINF:-1 tvg-id="rolandgarrosmensinglesfinalcobollifvszvereva" tvg-name="Tennis | Roland-Garros Men | Singles | Final : Cobolli F. vs Zverev A. (12:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Cobolli F._vs_Zverev A..png" group-title="Eventi Live DLHD",Tennis | Roland-Garros Men | Singles | Final : Cobolli F. vs Zverev A. (12:30)
+https://dlhd.pk/watch.php?id=878
+
+#EXTINF:-1 tvg-id="motogpround8hungaryrace" tvg-name="Motorsport | MotoGP : Round 8 | Hungary Race (11:15)" tvg-logo="https://downloads.yahoo.com/static/55127e828075acdc94d6210263eaa858/f9ff4/yhomepage_image_hero.png" group-title="Eventi Live DLHD",Motorsport | MotoGP : Round 8 | Hungary Race (11:15)
+https://dlhd.pk/watch.php?id=575
+
+#EXTINF:-1 tvg-id="formula1louisvuittonmonacogpgrandprixsunday" tvg-name="Motorsport | Formula 1 : Louis Vuitton Monaco GP - Grand Prix Sunday (12:00)" tvg-logo="https://www.denofgeek.com/wp-content/uploads/2019/01/tree_of_might.jpg" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Louis Vuitton Monaco GP - Grand Prix Sunday (12:00)
+https://dlhd.pk/watch.php?id=577
+
+#EXTINF:-1 tvg-id="formula1louisvuittonmonacogprace" tvg-name="Motorsport | Formula 1 : Louis Vuitton Monaco GP - Race (13:00)" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/9/97/Dora_the_Explorer_poster.jpg/revision/latest?cb=20240329154901" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Louis Vuitton Monaco GP - Race (13:00)
+https://dlhd.pk/watch.php?id=577
+
+#EXTINF:-1 tvg-id="iaafdiamondleaguestockholmsweden" tvg-name="Athletics | IAAF Diamond League - Stockholm, Sweden (16:00)" tvg-logo="https://www.gunsamerica.com/UserImages/6160/979391546/wm_5473772.jpg" group-title="Eventi Live DLHD",Athletics | IAAF Diamond League - Stockholm, Sweden (16:00)
+https://dlhd.pk/watch.php?id=462
+
+#EXTINF:-1 tvg-id="mlbatlantabravesvspittsburghpirates" tvg-name="Baseball (MLB) | MLB : Atlanta Braves vs Pittsburgh Pirates (17:35)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Atlanta Braves_vs_Pittsburgh Pirates.png" group-title="Eventi Live DLHD",Baseball (MLB) | MLB : Atlanta Braves vs Pittsburgh Pirates (17:35)
+https://dlhd.pk/watch.php?id=462
+
+#EXTINF:-1 tvg-id="seriea2veronavsrimini" tvg-name="Basketball | Serie A2 : Verona vs Rimini (18:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Verona_vs_Rimini.png" group-title="Eventi Live DLHD",Basketball | Serie A2 : Verona vs Rimini (18:45)
+https://dlhd.pk/watch.php?id=882
+
+#EXTINF:-1 tvg-id="worldseriespraguemensandwomensleadfinal" tvg-name="Climbing | World Series | Prague Men's and Women's Lead | Final (16:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Climbing | World Series | Prague Men's and Women's Lead | Final (16:00)
+https://dlhd.pk/watch.php?id=879
+
+#EXTINF:-1 tvg-id="tourauvergnerhonealpesstage1menvizillesaintismier1462km" tvg-name="Cycling | Tour Auvergne Rhone Alpes | Stage 1 Men | Vizille - Saint-Ismier (146.2 km) (11:05)" tvg-logo="https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/5c71bb30-d5ab-4c6d-a20b-bec187d2388d/AIR+JORDAN+1+MID.png" group-title="Eventi Live DLHD",Cycling | Tour Auvergne Rhone Alpes | Stage 1 Men | Vizille - Saint-Ismier (146.2 km) (11:05)
+https://dlhd.pk/watch.php?id=879
+
+#EXTINF:-1 tvg-id="giroditaliawomenstage9saluzzo145km" tvg-name="Cycling | Giro d'Italia Women Stage 9 | Saluzzo (145km) (13:00)" tvg-logo="https://goupillieres-27.fr/wp-content/uploads/2025/10/sur_l_image_une_a_image_-3-1024x775.jpg" group-title="Eventi Live DLHD",Cycling | Giro d'Italia Women Stage 9 | Saluzzo (145km) (13:00)
+https://dlhd.pk/watch.php?id=879
+
+#EXTINF:-1 tvg-id="jumpingcannesglobalchampionstour" tvg-name="Equestrian | Jumping | Cannes Global Champions Tour (18:20)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Equestrian | Jumping | Cannes Global Champions Tour (18:20)
+https://dlhd.pk/watch.php?id=878
+
