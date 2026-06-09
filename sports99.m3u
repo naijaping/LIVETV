@@ -1,421 +1,491 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="Rai.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/rai-2.svg",[Soccer] 2026-06-08 16:15 - Friendly - Italy U21 vs Albania U21 (Rai 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=rai+2&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="FOX.Soccer.Plus" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-soccer-plus.svg",[Soccer] 2026-06-08 18:45 - Friendly - Netherlands vs Uzbekistan (FOX Soccer Plus)
-https://cdnlivetv.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="beIN.SPORTS.MENA.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-2.svg",[Soccer] 2026-06-08 18:45 - Friendly - Netherlands vs Uzbekistan (beIN SPORTS MENA 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+2&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TNT.Sports.7" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-7.png",[Soccer] 2026-06-08 18:45 - Friendly - Netherlands vs Uzbekistan (TNT Sports 7)
-https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Polsat.Sport.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-3.svg",[Soccer] 2026-06-08 18:45 - Friendly - Netherlands vs Uzbekistan (Polsat Sport 3)
-https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+3&code=pl&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Diema.Sport.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/diema-sports-3.png",[Soccer] 2026-06-08 18:45 - Friendly - Netherlands vs Uzbekistan (Diema Sport 3)
-https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+3&code=bg&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Cytavision.Sports.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/cyprus/cytavision-sports-4.png",[Soccer] 2026-06-08 18:45 - Friendly - Netherlands vs Uzbekistan (Cytavision Sports 4)
-https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+4&code=cy&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sport.Klub.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-3.png.webp",[Soccer] 2026-06-08 18:45 - Friendly - Netherlands vs Uzbekistan (Sport Klub 3)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+3&code=rs&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Arena.2.Premium" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp",[Soccer] 2026-06-08 18:45 - Friendly - Netherlands vs Uzbekistan (Arena 2 Premium)
-https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="ESPN" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/brazil/espn.svg",[Soccer] 2026-06-08 18:45 - Friendly - Netherlands vs Uzbekistan (ESPN)
-https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Digi.Sport.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/digi-sport-2.png",[Soccer] 2026-06-08 18:45 - Friendly - Netherlands vs Uzbekistan (Digi Sport 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+2&code=ro&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Prima.Sport.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/prima-sport-2.svg",[Soccer] 2026-06-08 18:45 - Friendly - Netherlands vs Uzbekistan (Prima Sport 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sport.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/israel/sport-2.png",[Soccer] 2026-06-08 18:45 - Friendly - Netherlands vs Uzbekistan (Sport 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="beIN.SPORTS.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-3.webp",[Soccer] 2026-06-08 18:45 - Friendly - Netherlands vs Uzbekistan (beIN SPORTS 3)
-https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="FOX.Sports.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sport-2.svg",[Soccer] 2026-06-08 19:10 - Friendly - France vs Northern Ireland (FOX Sports 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="beIN.SPORTS.MENA.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg",[Soccer] 2026-06-08 19:10 - Friendly - France vs Northern Ireland (beIN SPORTS MENA 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="BBC.Three" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-three.webp",[Soccer] 2026-06-08 19:10 - Friendly - France vs Northern Ireland (BBC Three)
-https://cdnlivetv.tv/api/v1/channels/player/?name=bbc+three&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-2.png",[Soccer] 2026-06-08 19:10 - Friendly - France vs Northern Ireland (Sky Sport 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="SuperSport.Maximo.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-maximo-1.webp",[Soccer] 2026-06-08 19:10 - Friendly - France vs Northern Ireland (SuperSport Maximo 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="SuperSport.PSL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-pls.webp",[Soccer] 2026-06-08 19:10 - Friendly - France vs Northern Ireland (SuperSport PSL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+psl&code=za&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Calcio" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-calcio.svg",[Soccer] 2026-06-08 19:10 - Friendly - France vs Northern Ireland (Sky Sport Calcio)
+#EXTINF:-1 tvg-id="Sky.Sport.Calcio" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-calcio.svg",[Soccer] 2026-06-09 17:00 - Friendly - Hungary vs Kazakhstan (Sky Sport Calcio)
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Uno" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-uno.svg",[Soccer] 2026-06-08 19:10 - Friendly - France vs Northern Ireland (Sky Sport Uno)
+#EXTINF:-1 tvg-id="Sky.Sport.Uno" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-uno.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Sky Sport Uno)
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sport.TV.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg",[Soccer] 2026-06-08 19:10 - Friendly - France vs Northern Ireland (Sport TV 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Ziggo.Sport.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-2.png",[Soccer] 2026-06-08 19:10 - Friendly - France vs Northern Ireland (Ziggo Sport 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+2&code=nl&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Nova.Sports.Start" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/greece/nova-sports-start.png",[Soccer] 2026-06-08 19:10 - Friendly - France vs Northern Ireland (Nova Sports Start)
-https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+start&code=gr&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TV2.Sport.X" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/denmark/tv2-sports-x.svg",[Soccer] 2026-06-08 19:10 - Friendly - France vs Northern Ireland (TV2 Sport X)
-https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport+x&code=dk&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Polsat.Sport.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-2.svg",[Soccer] 2026-06-08 19:10 - Friendly - France vs Northern Ireland (Polsat Sport 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+2&code=pl&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/euro-sport-1.png",[Soccer] 2026-06-08 19:10 - Friendly - France vs Northern Ireland (Euro Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=bg&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Diema.Sport.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/diema-sports-2.png",[Soccer] 2026-06-08 19:10 - Friendly - France vs Northern Ireland (Diema Sport 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+2&code=bg&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Cytavision.Sports.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/cyprus/cytavision-sports-3.png",[Soccer] 2026-06-08 19:10 - Friendly - France vs Northern Ireland (Cytavision Sports 3)
-https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Arena.3.Premium" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-3.webp",[Soccer] 2026-06-08 19:10 - Friendly - France vs Northern Ireland (Arena 3 Premium)
-https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="ESPN" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/argentina/espn.svg",[Soccer] 2026-06-08 19:10 - Friendly - France vs Northern Ireland (ESPN)
-https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Digi.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/digi-sport-1.png",[Soccer] 2026-06-08 19:10 - Friendly - France vs Northern Ireland (Digi Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Prima.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/prima-sport-1.svg",[Soccer] 2026-06-08 19:10 - Friendly - France vs Northern Ireland (Prima Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/israel/sport-1.png",[Soccer] 2026-06-08 19:10 - Friendly - France vs Northern Ireland (Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="beIN.SPORTS.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-1.webp",[Soccer] 2026-06-08 19:10 - Friendly - France vs Northern Ireland (beIN SPORTS 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Win.Futbol" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/colombia/win-futbol.webp",[Soccer] 2026-06-08 22:00 - Primera A - Atlético Nacional vs Junior (Win Futbol)
-https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="FOX.Sports.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sport-2.svg",[Soccer] 2026-06-09 02:00 - Friendly - Peru vs Spain (FOX Sports 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-2.png",[Soccer] 2026-06-09 02:00 - Friendly - Peru vs Spain (Sky Sport 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="SuperSport.PSL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-pls.webp",[Soccer] 2026-06-09 02:00 - Friendly - Peru vs Spain (SuperSport PSL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+psl&code=za&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TVE.La.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/tve-la-1.webp",[Soccer] 2026-06-09 02:00 - Friendly - Peru vs Spain (TVE La 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=tve+la+1&code=es&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="DAZN.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/dazn-2.png",[Soccer] 2026-06-09 02:00 - Friendly - Peru vs Spain (DAZN 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+2&code=de&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sport.TV.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg",[Soccer] 2026-06-09 02:00 - Friendly - Peru vs Spain (Sport TV 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Ziggo.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-1.png",[Soccer] 2026-06-09 02:00 - Friendly - Peru vs Spain (Ziggo Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+1&code=nl&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Polsat.Sport" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport.svg",[Soccer] 2026-06-09 02:00 - Friendly - Peru vs Spain (Polsat Sport)
-https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Diema.Sport.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/diema-sports-3.png",[Soccer] 2026-06-09 02:00 - Friendly - Peru vs Spain (Diema Sport 3)
-https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+3&code=bg&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Arena.1.Premium" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp",[Soccer] 2026-06-09 02:00 - Friendly - Peru vs Spain (Arena 1 Premium)
-https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="ESPN" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/brazil/espn.svg",[Soccer] 2026-06-09 02:00 - Friendly - Peru vs Spain (ESPN)
-https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="ESPN" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/argentina/espn.svg",[Soccer] 2026-06-09 02:00 - Friendly - Peru vs Spain (ESPN)
-https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="ESPN" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/mexico/espn.svg",[Soccer] 2026-06-09 02:00 - Friendly - Peru vs Spain (ESPN)
-https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=mx&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Digi.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/digi-sport-1.png",[Soccer] 2026-06-09 02:00 - Friendly - Peru vs Spain (Digi Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Prima.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/prima-sport-1.svg",[Soccer] 2026-06-09 02:00 - Friendly - Peru vs Spain (Prima Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sport.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/israel/sport-2.png",[Soccer] 2026-06-09 02:00 - Friendly - Peru vs Spain (Sport 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="beIN.SPORTS.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-2.svg",[Soccer] 2026-06-09 02:00 - Friendly - Peru vs Spain (beIN SPORTS 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="ABC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/abc.png",[NBA] 2026-06-09 00:30 - NBA - New York Knicks vs San Antonio Spurs (ABC)
-https://cdnlivetv.tv/api/v1/channels/player/?name=abc&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="ESPN" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/espn.svg",[NBA] 2026-06-09 00:30 - NBA - New York Knicks vs San Antonio Spurs (ESPN)
-https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="ESPN.Deportes" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-deportes.png",[NBA] 2026-06-09 00:30 - NBA - New York Knicks vs San Antonio Spurs (ESPN Deportes)
-https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="beIN.SPORTS.MENA.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-2.svg",[NBA] 2026-06-09 00:30 - NBA - New York Knicks vs San Antonio Spurs (beIN SPORTS MENA 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+2&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-3.svg",[NBA] 2026-06-09 00:30 - NBA - New York Knicks vs San Antonio Spurs (TSN 3)
-https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+3&code=ca&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-4.svg",[NBA] 2026-06-09 00:30 - NBA - New York Knicks vs San Antonio Spurs (TSN 4)
-https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+4&code=ca&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="RDS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png",[NBA] 2026-06-09 00:30 - NBA - New York Knicks vs San Antonio Spurs (RDS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=rds&code=ca&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-1.svg",[NBA] 2026-06-09 00:30 - NBA - New York Knicks vs San Antonio Spurs (TSN 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+1&code=ca&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="ESPN" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/netherlands/espn.svg",[NBA] 2026-06-09 00:30 - NBA - New York Knicks vs San Antonio Spurs (ESPN)
-https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=nl&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TVP.Sport" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/tvp-sport.svg",[NBA] 2026-06-09 00:30 - NBA - New York Knicks vs San Antonio Spurs (TVP Sport)
-https://cdnlivetv.tv/api/v1/channels/player/?name=tvp+sport&code=pl&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="beIN.SPORTS.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-1.webp",[NBA] 2026-06-09 00:30 - NBA - New York Knicks vs San Antonio Spurs (beIN SPORTS 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Willow.Cricket" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg",[Cricket] 2026-06-09 04:00 - Cricket -  vs  (Willow Cricket)
-https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TNT.Sports.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-3.png",[Cricket] 2026-06-09 04:00 - Cricket -  vs  (TNT Sports 3)
-https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TNT.Sports.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-1.png",[Cricket] 2026-06-09 04:00 - Cricket -  vs  (TNT Sports 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-2.png",[Cricket] 2026-06-09 04:00 - Cricket -  vs  (Sky Sport 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.6" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-6.png",[Cricket] 2026-06-09 04:00 - Cricket -  vs  (Sky Sport 6)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Willow.Cricket" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg",[Cricket] 2026-06-08 09:00 - Cricket -  vs  (Willow Cricket)
-https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sports.Mix" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-mix.svg",[Cricket] 2026-06-08 09:00 - Cricket -  vs  (Sky Sports Mix)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Fox.Cricket" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-cricket.svg",[Cricket] 2026-06-08 10:00 - Cricket -  vs  (Fox Cricket)
-https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sports.Cricket" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-cricket.svg",[Cricket] 2026-06-08 10:00 - Cricket -  vs  (Sky Sports Cricket)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg",[Cricket] 2026-06-08 10:00 - Cricket -  vs  (Sky Sports Main Event)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-1.png",[Cricket] 2026-06-08 10:00 - Cricket -  vs  (Sky Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="SuperSport.Cricket" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp",[Cricket] 2026-06-08 10:00 - Cricket -  vs  (SuperSport Cricket)
-https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Viaplay.Sports.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.png",[Cricket] 2026-06-08 10:30 - Cricket -  vs  (Viaplay Sports 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Premier.Sports.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/premier-sports-2.svg",[Cricket] 2026-06-08 10:30 - Cricket -  vs  (Premier Sports 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="BBC.Two" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-two.svg",[Cricket] 2026-06-08 12:00 - Cricket -  vs  (BBC Two)
-https://cdnlivetv.tv/api/v1/channels/player/?name=bbc+two&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sports.Mix" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-mix.svg",[Cricket] 2026-06-08 14:00 - Cricket -  vs  (Sky Sports Mix)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Viaplay.Sports.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.png",[Cricket] 2026-06-08 14:30 - Cricket -  vs  (Viaplay Sports 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Premier.Sports.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/premier-sports-2.svg",[Cricket] 2026-06-08 14:30 - Cricket -  vs  (Premier Sports 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Willow.Cricket" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg",[Cricket] 2026-06-09 04:00 - Cricket -  vs  (Willow Cricket)
-https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TNT.Sports.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-3.png",[Cricket] 2026-06-09 04:00 - Cricket -  vs  (TNT Sports 3)
-https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TNT.Sports.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-1.png",[Cricket] 2026-06-09 04:00 - Cricket -  vs  (TNT Sports 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-2.png",[Cricket] 2026-06-09 04:00 - Cricket -  vs  (Sky Sport 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.6" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-6.png",[Cricket] 2026-06-09 04:00 - Cricket -  vs  (Sky Sport 6)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Willow.Cricket" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg",[Cricket] 2026-06-08 09:00 - Cricket -  vs  (Willow Cricket)
-https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sports.Mix" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-mix.svg",[Cricket] 2026-06-08 09:00 - Cricket -  vs  (Sky Sports Mix)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Fox.Cricket" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-cricket.svg",[Cricket] 2026-06-08 10:00 - Cricket -  vs  (Fox Cricket)
-https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sports.Cricket" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-cricket.svg",[Cricket] 2026-06-08 10:00 - Cricket -  vs  (Sky Sports Cricket)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg",[Cricket] 2026-06-08 10:00 - Cricket -  vs  (Sky Sports Main Event)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-1.png",[Cricket] 2026-06-08 10:00 - Cricket -  vs  (Sky Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="SuperSport.Cricket" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp",[Cricket] 2026-06-08 10:00 - Cricket -  vs  (SuperSport Cricket)
-https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Viaplay.Sports.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.png",[Cricket] 2026-06-08 10:30 - Cricket -  vs  (Viaplay Sports 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Premier.Sports.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/premier-sports-2.svg",[Cricket] 2026-06-08 10:30 - Cricket -  vs  (Premier Sports 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="BBC.Two" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-two.svg",[Cricket] 2026-06-08 12:00 - Cricket -  vs  (BBC Two)
-https://cdnlivetv.tv/api/v1/channels/player/?name=bbc+two&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sports.Mix" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-mix.svg",[Cricket] 2026-06-08 14:00 - Cricket -  vs  (Sky Sports Mix)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Viaplay.Sports.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.png",[Cricket] 2026-06-08 14:30 - Cricket -  vs  (Viaplay Sports 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Premier.Sports.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/premier-sports-2.svg",[Cricket] 2026-06-08 14:30 - Cricket -  vs  (Premier Sports 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="GOLF.TV" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/golf-tv.png",[Golf] 2026-06-08 22:00 - Golf -  vs  (GOLF TV)
-https://cdnlivetv.tv/api/v1/channels/player/?name=golf+tv&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="GOLF.TV" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/golf-tv.png",[Golf] 2026-06-08 22:00 - Golf -  vs  (GOLF TV)
-https://cdnlivetv.tv/api/v1/channels/player/?name=golf+tv&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Tennis.Channel" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/tennis-channel.png",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Tennis Channel)
-https://cdnlivetv.tv/api/v1/channels/player/?name=tennis+channel&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="beIN.SPORTS.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-2.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (beIN SPORTS 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="beIN.SPORTS.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (beIN SPORTS 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="beIN.SPORTS.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-3.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (beIN SPORTS 3)
-https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sports.Arena" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-arena.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Sky Sports Arena)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sports.Tennis" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-tennis.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Sky Sports Tennis)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+tennis&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="beIN.SPORTS.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/australia/bein-sports-1.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (beIN SPORTS 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=au&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="beIN.SPORTS.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/australia/bein-sports-2.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (beIN SPORTS 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=au&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Movistar.Deportes.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-deportes-1.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Movistar Deportes 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=movistar+deportes+1&code=es&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Movistar.Deportes.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-deportes-2.webp",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Movistar Deportes 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=movistar+deportes+2&code=es&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Movistar.Deportes.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-deportes-3.webp",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Movistar Deportes 3)
-https://cdnlivetv.tv/api/v1/channels/player/?name=movistar+deportes+3&code=es&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Movistar.Deportes.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-deportes-4.webp",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Movistar Deportes 4)
-https://cdnlivetv.tv/api/v1/channels/player/?name=movistar+deportes+4&code=es&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Uno" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-uno.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Sky Sport Uno)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Tennis" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-tennis.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Sky Sport Tennis)
+#EXTINF:-1 tvg-id="Sky.Sport.Tennis" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-tennis.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Sky Sport Tennis)
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+tennis&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Tennis" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-tennis.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Sky Sport Tennis)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+tennis&code=de&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Nova.Sports.6" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/greece/nova-sports-6.png",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Nova Sports 6)
-https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+6&code=gr&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Max.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/max-sport-1.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Max Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+1&code=bg&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Max.Sport.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/max-sport-2.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Max Sport 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+2&code=bg&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Max.Sport.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/max-sport-3.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Max Sport 3)
-https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+3&code=bg&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Cytavision.Sports.6" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/cyprus/cytavision-sports-6.png",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Cytavision Sports 6)
-https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+6&code=cy&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sport.Klub.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-1.png.webp",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Sport Klub 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sport.Klub.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-2.png.webp",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Sport Klub 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+2&code=rs&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sport.Klub.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-4.png.webp",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Sport Klub 4)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+4&code=rs&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="ESPN.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-2.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (ESPN 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=br&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="ESPN.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-2.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (ESPN 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=ar&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Digi.Sport.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/digi-sport-2.png",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Digi Sport 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+2&code=ro&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Digi.Sport.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/digi-sport-4.png",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Digi Sport 4)
-https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="SONY.TEN.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/india/sony-sports-ten-2.webp",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (SONY TEN 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sony+ten+2&code=in&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="SONY.TEN.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/india/sony-sports-ten-3.webp",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (SONY TEN 3)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sony+ten+3&code=in&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Tennis.Channel" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/tennis-channel.png",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Tennis Channel)
-https://cdnlivetv.tv/api/v1/channels/player/?name=tennis+channel&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="beIN.SPORTS.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-2.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (beIN SPORTS 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="beIN.SPORTS.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (beIN SPORTS 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="beIN.SPORTS.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-3.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (beIN SPORTS 3)
-https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sports.Arena" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-arena.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Sky Sports Arena)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sports.Tennis" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-tennis.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Sky Sports Tennis)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+tennis&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="beIN.SPORTS.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/australia/bein-sports-1.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (beIN SPORTS 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=au&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="beIN.SPORTS.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/australia/bein-sports-2.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (beIN SPORTS 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=au&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Movistar.Deportes.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-deportes-1.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Movistar Deportes 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=movistar+deportes+1&code=es&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Movistar.Deportes.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-deportes-2.webp",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Movistar Deportes 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=movistar+deportes+2&code=es&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Movistar.Deportes.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-deportes-3.webp",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Movistar Deportes 3)
-https://cdnlivetv.tv/api/v1/channels/player/?name=movistar+deportes+3&code=es&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Movistar.Deportes.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-deportes-4.webp",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Movistar Deportes 4)
-https://cdnlivetv.tv/api/v1/channels/player/?name=movistar+deportes+4&code=es&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Uno" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-uno.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Sky Sport Uno)
+#EXTINF:-1 tvg-id="Sky.Sport.Uno" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-uno.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Sky Sport Uno)
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Tennis" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-tennis.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Sky Sport Tennis)
+#EXTINF:-1 tvg-id="Sky.Sport.Tennis" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-tennis.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Sky Sport Tennis)
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+tennis&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Tennis" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-tennis.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Sky Sport Tennis)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+tennis&code=de&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Nova.Sports.6" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/greece/nova-sports-6.png",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Nova Sports 6)
-https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+6&code=gr&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Max.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/max-sport-1.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Max Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+1&code=bg&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Max.Sport.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/max-sport-2.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Max Sport 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+2&code=bg&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Max.Sport.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/max-sport-3.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Max Sport 3)
-https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+3&code=bg&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Cytavision.Sports.6" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/cyprus/cytavision-sports-6.png",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Cytavision Sports 6)
-https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+6&code=cy&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sport.Klub.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-1.png.webp",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Sport Klub 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sport.Klub.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-2.png.webp",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Sport Klub 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+2&code=rs&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sport.Klub.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-4.png.webp",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Sport Klub 4)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+4&code=rs&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="ESPN.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-2.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (ESPN 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=br&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="ESPN.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-2.svg",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (ESPN 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=ar&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Digi.Sport.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/digi-sport-2.png",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Digi Sport 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+2&code=ro&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Digi.Sport.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/digi-sport-4.png",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (Digi Sport 4)
-https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="SONY.TEN.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/india/sony-sports-ten-2.webp",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (SONY TEN 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sony+ten+2&code=in&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="SONY.TEN.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/india/sony-sports-ten-3.webp",[Tennis] 2026-06-08 09:00 - Tennis -  vs  (SONY TEN 3)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sony+ten+3&code=in&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TNT.Sports.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-1.png",[Cycling] 2026-06-08 13:00 - Cycling -  vs  (TNT Sports 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/euro-sport-1.png",[Cycling] 2026-06-08 13:00 - Cycling -  vs  (Euro Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="SuperSport.Variety.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-variety-1.webp",[Cycling] 2026-06-08 13:00 - Cycling -  vs  (SuperSport Variety 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+variety+1&code=za&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="SuperSport.Grandstand" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-grandstand.webp",[Cycling] 2026-06-08 13:00 - Cycling -  vs  (SuperSport Grandstand)
-https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/euro-sport-1.png",[Cycling] 2026-06-08 13:00 - Cycling -  vs  (Euro Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=es&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png",[Cycling] 2026-06-08 13:00 - Cycling -  vs  (Euro Sport 1)
+#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png",[Cycling] 2026-06-09 13:00 - Cycling -  vs  (Euro Sport 1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TNT.Sports.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-1.png",[Cycling] 2026-06-08 13:00 - Cycling -  vs  (TNT Sports 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/euro-sport-1.png",[Cycling] 2026-06-08 13:00 - Cycling -  vs  (Euro Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="SuperSport.Variety.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-variety-1.webp",[Cycling] 2026-06-08 13:00 - Cycling -  vs  (SuperSport Variety 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+variety+1&code=za&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="SuperSport.Grandstand" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-grandstand.webp",[Cycling] 2026-06-08 13:00 - Cycling -  vs  (SuperSport Grandstand)
-https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/euro-sport-1.png",[Cycling] 2026-06-08 13:00 - Cycling -  vs  (Euro Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=es&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png",[Cycling] 2026-06-08 13:00 - Cycling -  vs  (Euro Sport 1)
+#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png",[Cycling] 2026-06-09 13:00 - Cycling -  vs  (Euro Sport 1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sports.Racing" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-racing.svg",[Horse Racing] 2026-06-08 12:00 - HorseRacing -  vs  (Sky Sports Racing)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+racing&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sports.Racing" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-racing.svg",[Horse Racing] 2026-06-08 12:00 - HorseRacing -  vs  (Sky Sports Racing)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+racing&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Arena.2.Premium" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp",[Basketball] 2026-06-08 16:30 - Basketball -  vs  (Arena 2 Premium)
-https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Arena.3.Premium" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-3.webp",[Basketball] 2026-06-08 17:00 - Basketball -  vs  (Arena 3 Premium)
-https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Polsat.Sport" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport.svg",[Basketball] 2026-06-08 17:45 - Basketball -  vs  (Polsat Sport)
-https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Arena.1.Premium" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp",[Basketball] 2026-06-08 18:00 - Basketball -  vs  (Arena 1 Premium)
-https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sport.Klub.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-1.png.webp",[Basketball] 2026-06-08 18:00 - Basketball -  vs  (Sport Klub 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sport.Klub.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-2.png.webp",[Basketball] 2026-06-08 19:00 - Basketball -  vs  (Sport Klub 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+2&code=rs&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Tyc.Sports" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/argentina/tyc-sports.svg",[Basketball] 2026-06-09 00:00 - Basketball -  vs  (Tyc Sports)
-https://cdnlivetv.tv/api/v1/channels/player/?name=tyc+sports&code=ar&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Arena.2.Premium" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp",[Basketball] 2026-06-08 16:30 - Basketball -  vs  (Arena 2 Premium)
-https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Arena.3.Premium" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-3.webp",[Basketball] 2026-06-08 17:00 - Basketball -  vs  (Arena 3 Premium)
-https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Polsat.Sport" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport.svg",[Basketball] 2026-06-08 17:45 - Basketball -  vs  (Polsat Sport)
-https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Arena.1.Premium" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp",[Basketball] 2026-06-08 18:00 - Basketball -  vs  (Arena 1 Premium)
-https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sport.Klub.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-1.png.webp",[Basketball] 2026-06-08 18:00 - Basketball -  vs  (Sport Klub 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sport.Klub.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-2.png.webp",[Basketball] 2026-06-08 19:00 - Basketball -  vs  (Sport Klub 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+2&code=rs&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Tyc.Sports" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/argentina/tyc-sports.svg",[Basketball] 2026-06-09 00:00 - Basketball -  vs  (Tyc Sports)
-https://cdnlivetv.tv/api/v1/channels/player/?name=tyc+sports&code=ar&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TVP.Sport" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/tvp-sport.svg",[Futsal] 2026-06-08 16:00 - Futsal -  vs  (TVP Sport)
-https://cdnlivetv.tv/api/v1/channels/player/?name=tvp+sport&code=pl&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="M4.Sports" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/hungary/m4-sport.svg",[Futsal] 2026-06-08 17:45 - Futsal -  vs  (M4 Sports)
-https://cdnlivetv.tv/api/v1/channels/player/?name=m4+sports&code=hu&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TVP.Sport" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/tvp-sport.svg",[Futsal] 2026-06-08 16:00 - Futsal -  vs  (TVP Sport)
-https://cdnlivetv.tv/api/v1/channels/player/?name=tvp+sport&code=pl&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="M4.Sports" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/hungary/m4-sport.svg",[Futsal] 2026-06-08 17:45 - Futsal -  vs  (M4 Sports)
-https://cdnlivetv.tv/api/v1/channels/player/?name=m4+sports&code=hu&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="MASN" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/masn.png",[MLB] 2026-06-08 22:35 - MLB - Baltimore Orioles vs Seattle Mariners (MASN)
-https://cdnlivetv.tv/api/v1/channels/player/?name=masn&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TSN.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-2.svg",[MLB] 2026-06-08 22:35 - MLB - Baltimore Orioles vs Seattle Mariners (TSN 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=tsn+2&code=ca&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="NESN" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nesn.png",[MLB] 2026-06-08 22:40 - MLB - Tampa Bay Rays vs Boston Red Sox (NESN)
-https://cdnlivetv.tv/api/v1/channels/player/?name=nesn&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.7" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-7.png",[MLB] 2026-06-08 22:40 - MLB - Tampa Bay Rays vs Boston Red Sox (Sky Sport Bundesliga 7)
+#EXTINF:-1 tvg-id="Rai.Sport" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/rai-sport.webp",[Basketball] 2026-06-09 18:45 - Basketball -  vs  (Rai Sport)
+https://cdnlivetv.tv/api/v1/channels/player/?name=rai+sport&code=it&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Rai.Sport" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/rai-sport.webp",[Basketball] 2026-06-09 18:45 - Basketball -  vs  (Rai Sport)
+https://cdnlivetv.tv/api/v1/channels/player/?name=rai+sport&code=it&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TNT.Sports.7" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-7.png",[Soccer] 2026-06-09 12:00 - Friendly - Oman vs Kuwait (TNT Sports 7)
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.7" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-7.png",[Soccer] 2026-06-09 14:30 - Friendly - Kyrgyzstan vs Palestine (Sky Sport Bundesliga 7)
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+7&code=de&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="FOX.Sports.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sport-1.svg",[MLB] 2026-06-08 22:40 - MLB - Cleveland Guardians vs New York Yankees (FOX Sports 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+1&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Yes.Network" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/yes.png",[MLB] 2026-06-08 22:40 - MLB - Cleveland Guardians vs New York Yankees (Yes Network)
-https://cdnlivetv.tv/api/v1/channels/player/?name=yes+network&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="FOX.Deportes" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-deportes.svg",[MLB] 2026-06-08 22:40 - MLB - Cleveland Guardians vs New York Yankees (FOX Deportes)
-https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.6" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-6.png",[MLB] 2026-06-08 22:40 - MLB - Cleveland Guardians vs New York Yankees (Sky Sport Bundesliga 6)
+#EXTINF:-1 tvg-id="Sky.Sport.Select" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-select.png",[Soccer] 2026-06-09 15:00 - Friendly - Armenia vs Moldova (Sky Sport Select)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+select&code=nz&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Diema.Sport.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/diema-sports-3.png",[Soccer] 2026-06-09 15:00 - Friendly - Armenia vs Moldova (Diema Sport 3)
+https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+3&code=bg&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Prima.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/prima-sport-1.svg",[Soccer] 2026-06-09 15:00 - Friendly - Armenia vs Moldova (Prima Sport 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Digi.Sport.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/digi-sport-4.png",[Soccer] 2026-06-09 15:00 - Friendly - Armenia vs Moldova (Digi Sport 4)
+https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="beIN.SPORTS.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-2.svg",[Soccer] 2026-06-09 15:00 - Friendly - Armenia vs Moldova (beIN SPORTS 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.6" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-6.png",[Soccer] 2026-06-09 15:00 - Friendly - Congo DR vs Chile (Sky Sport Bundesliga 6)
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="NBCS.Philadelphia" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png",[MLB] 2026-06-08 23:07 - MLB - Toronto Blue Jays vs Philadelphia Phillies (NBCS Philadelphia)
-https://cdnlivetv.tv/api/v1/channels/player/?name=nbcs+philadelphia&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TNT.Sports.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png",[MLB] 2026-06-08 23:07 - MLB - Toronto Blue Jays vs Philadelphia Phillies (TNT Sports 2)
+#EXTINF:-1 tvg-id="FOX.Soccer.Plus" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-soccer-plus.svg",[Soccer] 2026-06-09 16:30 - Friendly - Belarus vs Burkina Faso (FOX Soccer Plus)
+https://cdnlivetv.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="beIN.SPORTS.MENA.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg",[Soccer] 2026-06-09 16:30 - Friendly - Belarus vs Burkina Faso (beIN SPORTS MENA 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sport.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-4.png",[Soccer] 2026-06-09 16:30 - Friendly - Belarus vs Burkina Faso (Sky Sport 4)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Digi.Sport.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/digi-sport-3.png",[Soccer] 2026-06-09 16:30 - Friendly - Belarus vs Burkina Faso (Digi Sport 3)
+https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+3&code=ro&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Prima.Sport.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/prima-sport-4.svg",[Soccer] 2026-06-09 16:30 - Friendly - Belarus vs Burkina Faso (Prima Sport 4)
+https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+4&code=ro&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="FOX.Sports.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sport-2.svg",[Soccer] 2026-06-09 17:00 - Friendly - Hungary vs Kazakhstan (FOX Sports 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sport.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-2.png",[Soccer] 2026-06-09 17:00 - Friendly - Hungary vs Kazakhstan (Sky Sport 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="SuperSport.PSL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-pls.webp",[Soccer] 2026-06-09 17:00 - Friendly - Hungary vs Kazakhstan (SuperSport PSL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+psl&code=za&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sport.Calcio" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-calcio.svg",[Soccer] 2026-06-09 17:00 - Friendly - Hungary vs Kazakhstan (Sky Sport Calcio)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Polsat.Sport" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport.svg",[Soccer] 2026-06-09 17:00 - Friendly - Hungary vs Kazakhstan (Polsat Sport)
+https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Diema.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/diema-sports-1.png",[Soccer] 2026-06-09 17:00 - Friendly - Hungary vs Kazakhstan (Diema Sport 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Cytavision.Sports.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/cyprus/cytavision-sports-3.png",[Soccer] 2026-06-09 17:00 - Friendly - Hungary vs Kazakhstan (Cytavision Sports 3)
+https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Digi.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/digi-sport-1.png",[Soccer] 2026-06-09 17:00 - Friendly - Hungary vs Kazakhstan (Digi Sport 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Prima.Sport.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/prima-sport-2.svg",[Soccer] 2026-06-09 17:00 - Friendly - Hungary vs Kazakhstan (Prima Sport 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="beIN.SPORTS.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-1.webp",[Soccer] 2026-06-09 17:00 - Friendly - Hungary vs Kazakhstan (beIN SPORTS 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="M4.Sports" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/hungary/m4-sport.svg",[Soccer] 2026-06-09 17:00 - Friendly - Hungary vs Kazakhstan (M4 Sports)
+https://cdnlivetv.tv/api/v1/channels/player/?name=m4+sports&code=hu&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TV4.Football" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/sweden/tv4-football.png",[Soccer] 2026-06-09 17:00 - Superettan - Oddevold vs Norrköping (TV4 Football)
+https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+football&code=se&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TV4.Sportkanalen" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/sweden/tv4-sportkanalen.png",[Soccer] 2026-06-09 17:00 - Superettan - Öster vs Värnamo (TV4 Sportkanalen)
+https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sportkanalen&code=se&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sport.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-3.png",[Soccer] 2026-06-09 18:00 - Friendly - Azerbaijan vs San Marino (Sky Sport 3)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+3&code=nz&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="SuperSport.Premier.League" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-premier-league.webp",[Soccer] 2026-06-09 18:00 - Friendly - Azerbaijan vs San Marino (SuperSport Premier League)
+https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+premier+league&code=za&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Diema.Sport.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/diema-sports-3.png",[Soccer] 2026-06-09 18:00 - Friendly - Azerbaijan vs San Marino (Diema Sport 3)
+https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+3&code=bg&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sport.Klub.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-4.png.webp",[Soccer] 2026-06-09 18:00 - Friendly - Azerbaijan vs San Marino (Sport Klub 4)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+4&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="SporTV.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/brazil/sportv-2.png",[Soccer] 2026-06-09 18:00 - Friendly - Azerbaijan vs San Marino (SporTV 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+2&code=br&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Prima.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/prima-sport-1.svg",[Soccer] 2026-06-09 18:00 - Friendly - Azerbaijan vs San Marino (Prima Sport 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Digi.Sport.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/digi-sport-4.png",[Soccer] 2026-06-09 18:00 - Friendly - Azerbaijan vs San Marino (Digi Sport 4)
+https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="beIN.SPORTS.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-3.webp",[Soccer] 2026-06-09 18:00 - Friendly - Azerbaijan vs San Marino (beIN SPORTS 3)
+https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="ESPN.Deportes" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-deportes.png",[Soccer] 2026-06-09 19:00 - Segunda Division - Almería vs CD Castellon (ESPN Deportes)
+https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="beIN.SPORTS.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg",[Soccer] 2026-06-09 19:00 - Segunda Division - Almería vs CD Castellon (beIN SPORTS 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Viaplay.Sports.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1.png",[Soccer] 2026-06-09 19:00 - Segunda Division - Almería vs CD Castellon (Viaplay Sports 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Premier.Sports.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/premier-sports-1.svg",[Soccer] 2026-06-09 19:00 - Segunda Division - Almería vs CD Castellon (Premier Sports 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+1&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-4.svg",[Soccer] 2026-06-09 19:00 - Segunda Division - Almería vs CD Castellon (beIN SPORTS MAX 4)
+https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+4&code=fr&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="LaLiga.TV.Hypermotion.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/laliga-tv-hypermotion.svg",[Soccer] 2026-06-09 19:00 - Segunda Division - Almería vs CD Castellon (LaLiga TV Hypermotion 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv+hypermotion+1&code=es&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="DAZN.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/portugal/dazn-1.png",[Soccer] 2026-06-09 19:00 - Segunda Division - Almería vs CD Castellon (DAZN 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=pt&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Eleven.Sports.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/eleven-sport-1.svg",[Soccer] 2026-06-09 19:00 - Segunda Division - Almería vs CD Castellon (Eleven Sports 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=eleven+sports+1&code=pl&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Max.Sport.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/max-sport-4.svg",[Soccer] 2026-06-09 19:00 - Segunda Division - Almería vs CD Castellon (Max Sport 4)
+https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Cytavision.Sports.7" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/cyprus/cytavision-sports-7.png",[Soccer] 2026-06-09 19:00 - Segunda Division - Almería vs CD Castellon (Cytavision Sports 7)
+https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+7&code=cy&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Arena.3.Premium" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-3.webp",[Soccer] 2026-06-09 19:00 - Segunda Division - Almería vs CD Castellon (Arena 3 Premium)
+https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Nova.Sport.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/czech-republic/nova-sports-3.png",[Soccer] 2026-06-09 19:00 - Segunda Division - Almería vs CD Castellon (Nova Sport 3)
+https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+3&code=cz&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Digi.Sport.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/digi-sport-3.png",[Soccer] 2026-06-09 19:00 - Segunda Division - Almería vs CD Castellon (Digi Sport 3)
+https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+3&code=ro&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Prima.Sport.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/prima-sport-2.svg",[Soccer] 2026-06-09 19:00 - Segunda Division - Almería vs CD Castellon (Prima Sport 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="ESPN" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/espn.svg",[Soccer] 2026-06-10 01:00 - Friendly - Argentina vs Iceland (ESPN)
+https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="FOX.Soccer.Plus" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-soccer-plus.svg",[Soccer] 2026-06-10 01:00 - Friendly - Argentina vs Iceland (FOX Soccer Plus)
+https://cdnlivetv.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="ESPN.Deportes" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-deportes.png",[Soccer] 2026-06-10 01:00 - Friendly - Argentina vs Iceland (ESPN Deportes)
+https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TNT.Sports.7" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-7.png",[Soccer] 2026-06-10 01:00 - Friendly - Argentina vs Iceland (TNT Sports 7)
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-1.png",[Soccer] 2026-06-10 01:00 - Friendly - Argentina vs Iceland (Sky Sport 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Polsat.Sport" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport.svg",[Soccer] 2026-06-10 01:00 - Friendly - Argentina vs Iceland (Polsat Sport)
+https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Arena.1.Premium" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp",[Soccer] 2026-06-10 01:00 - Friendly - Argentina vs Iceland (Arena 1 Premium)
+https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Abu.Dhabi.Sports.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/dubai/abu-dhabi-sports.png",[Soccer] 2026-06-10 01:00 - Friendly - Argentina vs Iceland (Abu Dhabi Sports 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=abu+dhabi+sports+1&code=ae&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Fox.Cricket" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-cricket.svg",[Cricket] 2026-06-10 04:00 - Cricket -  vs  (Fox Cricket)
+https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TNT.Sports.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-3.png",[Cricket] 2026-06-10 04:00 - Cricket -  vs  (TNT Sports 3)
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TNT.Sports.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-1.png",[Cricket] 2026-06-10 04:00 - Cricket -  vs  (TNT Sports 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sport.6" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-6.png",[Cricket] 2026-06-10 04:00 - Cricket -  vs  (Sky Sport 6)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="SuperSport.Cricket" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp",[Cricket] 2026-06-10 04:00 - Cricket -  vs  (SuperSport Cricket)
+https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Fox.Cricket" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-cricket.svg",[Cricket] 2026-06-10 04:45 - Cricket -  vs  (Fox Cricket)
+https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TNT.Sports.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-3.png",[Cricket] 2026-06-10 04:45 - Cricket -  vs  (TNT Sports 3)
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sport.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-2.png",[Cricket] 2026-06-10 04:45 - Cricket -  vs  (Sky Sport 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Viaplay.Sports.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.png",[Cricket] 2026-06-09 10:30 - Cricket -  vs  (Viaplay Sports 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Premier.Sports.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/premier-sports-2.svg",[Cricket] 2026-06-09 10:30 - Cricket -  vs  (Premier Sports 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Willow.2.Cricket" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/willow-cricket-2.webp",[Cricket] 2026-06-09 14:00 - Cricket -  vs  (Willow 2 Cricket)
+https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Viaplay.Sports.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.png",[Cricket] 2026-06-09 14:30 - Cricket -  vs  (Viaplay Sports 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Premier.Sports.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/premier-sports-2.svg",[Cricket] 2026-06-09 14:30 - Cricket -  vs  (Premier Sports 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Willow.Cricket" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg",[Cricket] 2026-06-09 18:00 - Cricket -  vs  (Willow Cricket)
+https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sports.Cricket" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-cricket.svg",[Cricket] 2026-06-09 18:00 - Cricket -  vs  (Sky Sports Cricket)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg",[Cricket] 2026-06-09 18:00 - Cricket -  vs  (Sky Sports Main Event)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-1.png",[Cricket] 2026-06-09 18:00 - Cricket -  vs  (Sky Sport 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="SuperSport.Cricket" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp",[Cricket] 2026-06-09 18:00 - Cricket -  vs  (SuperSport Cricket)
+https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Fox.Cricket" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-cricket.svg",[Cricket] 2026-06-10 04:00 - Cricket -  vs  (Fox Cricket)
+https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TNT.Sports.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-3.png",[Cricket] 2026-06-10 04:00 - Cricket -  vs  (TNT Sports 3)
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TNT.Sports.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-1.png",[Cricket] 2026-06-10 04:00 - Cricket -  vs  (TNT Sports 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sport.6" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-6.png",[Cricket] 2026-06-10 04:00 - Cricket -  vs  (Sky Sport 6)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+6&code=nz&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="SuperSport.Cricket" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp",[Cricket] 2026-06-10 04:00 - Cricket -  vs  (SuperSport Cricket)
+https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Fox.Cricket" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-cricket.svg",[Cricket] 2026-06-10 04:45 - Cricket -  vs  (Fox Cricket)
+https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TNT.Sports.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-3.png",[Cricket] 2026-06-10 04:45 - Cricket -  vs  (TNT Sports 3)
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+3&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sport.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-2.png",[Cricket] 2026-06-10 04:45 - Cricket -  vs  (Sky Sport 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Viaplay.Sports.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.png",[Cricket] 2026-06-09 10:30 - Cricket -  vs  (Viaplay Sports 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Premier.Sports.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/premier-sports-2.svg",[Cricket] 2026-06-09 10:30 - Cricket -  vs  (Premier Sports 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Willow.2.Cricket" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/willow-cricket-2.webp",[Cricket] 2026-06-09 14:00 - Cricket -  vs  (Willow 2 Cricket)
+https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Viaplay.Sports.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.png",[Cricket] 2026-06-09 14:30 - Cricket -  vs  (Viaplay Sports 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Premier.Sports.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/premier-sports-2.svg",[Cricket] 2026-06-09 14:30 - Cricket -  vs  (Premier Sports 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Willow.Cricket" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg",[Cricket] 2026-06-09 18:00 - Cricket -  vs  (Willow Cricket)
+https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sports.Cricket" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-cricket.svg",[Cricket] 2026-06-09 18:00 - Cricket -  vs  (Sky Sports Cricket)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg",[Cricket] 2026-06-09 18:00 - Cricket -  vs  (Sky Sports Main Event)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-1.png",[Cricket] 2026-06-09 18:00 - Cricket -  vs  (Sky Sport 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="SuperSport.Cricket" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp",[Cricket] 2026-06-09 18:00 - Cricket -  vs  (SuperSport Cricket)
+https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Tennis.Channel" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/tennis-channel.png",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Tennis Channel)
+https://cdnlivetv.tv/api/v1/channels/player/?name=tennis+channel&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="beIN.SPORTS.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-2.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (beIN SPORTS 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="beIN.SPORTS.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (beIN SPORTS 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="beIN.SPORTS.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-3.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (beIN SPORTS 3)
+https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sports.Arena" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-arena.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Sky Sports Arena)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-tennis.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Sky Sports Tennis)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+tennis&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="beIN.SPORTS.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/australia/bein-sports-1.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (beIN SPORTS 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=au&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="beIN.SPORTS.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/australia/bein-sports-2.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (beIN SPORTS 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=au&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Movistar.Deportes.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-deportes-1.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Movistar Deportes 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=movistar+deportes+1&code=es&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Movistar.Deportes.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-deportes-2.webp",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Movistar Deportes 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=movistar+deportes+2&code=es&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Movistar.Deportes.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-deportes-3.webp",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Movistar Deportes 3)
+https://cdnlivetv.tv/api/v1/channels/player/?name=movistar+deportes+3&code=es&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Movistar.Deportes.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-deportes-4.webp",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Movistar Deportes 4)
+https://cdnlivetv.tv/api/v1/channels/player/?name=movistar+deportes+4&code=es&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sport.Uno" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-uno.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Sky Sport Uno)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sport.Tennis" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-tennis.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Sky Sport Tennis)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+tennis&code=it&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sport.Tennis" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-tennis.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Sky Sport Tennis)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+tennis&code=de&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Nova.Sports.6" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/greece/nova-sports-6.png",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Nova Sports 6)
+https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+6&code=gr&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Max.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/max-sport-1.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Max Sport 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+1&code=bg&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Max.Sport.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/max-sport-2.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Max Sport 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+2&code=bg&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Max.Sport.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/max-sport-3.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Max Sport 3)
+https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+3&code=bg&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Cytavision.Sports.6" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/cyprus/cytavision-sports-6.png",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Cytavision Sports 6)
+https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+6&code=cy&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="ESPN.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-2.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (ESPN 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=br&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="ESPN.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-2.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (ESPN 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=ar&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Digi.Sport.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/digi-sport-2.png",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Digi Sport 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+2&code=ro&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Digi.Sport.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/digi-sport-4.png",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Digi Sport 4)
+https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="SONY.TEN.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/india/sony-sports-ten-2.webp",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (SONY TEN 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sony+ten+2&code=in&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="SONY.TEN.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/india/sony-sports-ten-3.webp",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (SONY TEN 3)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sony+ten+3&code=in&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sport.Klub.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-1.png.webp",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Sport Klub 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sport.Klub.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-2.png.webp",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Sport Klub 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+2&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sport.Klub.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-4.png.webp",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Sport Klub 4)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+4&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sport.Klub.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-1.png.webp",[Tennis] 2026-06-09 11:00 - Tennis -  vs  (Sport Klub 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sport.Klub.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-2.png.webp",[Tennis] 2026-06-09 11:00 - Tennis -  vs  (Sport Klub 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+2&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sport.Klub.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-4.png.webp",[Tennis] 2026-06-09 11:00 - Tennis -  vs  (Sport Klub 4)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+4&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sport.Klub.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-2.png.webp",[Tennis] 2026-06-09 11:00 - Tennis -  vs  (Sport Klub 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+2&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="BBC.One" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-one.svg",[Tennis] 2026-06-09 12:00 - Tennis -  vs  (BBC One)
+https://cdnlivetv.tv/api/v1/channels/player/?name=bbc+one&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Tennis.Channel" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/tennis-channel.png",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Tennis Channel)
+https://cdnlivetv.tv/api/v1/channels/player/?name=tennis+channel&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="beIN.SPORTS.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-2.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (beIN SPORTS 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="beIN.SPORTS.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (beIN SPORTS 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="beIN.SPORTS.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-3.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (beIN SPORTS 3)
+https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sports.Arena" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-arena.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Sky Sports Arena)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sports.Tennis" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-tennis.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Sky Sports Tennis)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+tennis&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="beIN.SPORTS.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/australia/bein-sports-1.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (beIN SPORTS 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=au&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="beIN.SPORTS.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/australia/bein-sports-2.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (beIN SPORTS 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=au&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Movistar.Deportes.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-deportes-1.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Movistar Deportes 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=movistar+deportes+1&code=es&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Movistar.Deportes.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-deportes-2.webp",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Movistar Deportes 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=movistar+deportes+2&code=es&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Movistar.Deportes.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-deportes-3.webp",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Movistar Deportes 3)
+https://cdnlivetv.tv/api/v1/channels/player/?name=movistar+deportes+3&code=es&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Movistar.Deportes.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-deportes-4.webp",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Movistar Deportes 4)
+https://cdnlivetv.tv/api/v1/channels/player/?name=movistar+deportes+4&code=es&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sport.Uno" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-uno.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Sky Sport Uno)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sport.Tennis" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-tennis.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Sky Sport Tennis)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+tennis&code=it&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sport.Tennis" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-tennis.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Sky Sport Tennis)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+tennis&code=de&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Nova.Sports.6" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/greece/nova-sports-6.png",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Nova Sports 6)
+https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+6&code=gr&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Max.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/max-sport-1.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Max Sport 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+1&code=bg&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Max.Sport.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/max-sport-2.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Max Sport 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+2&code=bg&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Max.Sport.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/max-sport-3.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Max Sport 3)
+https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+3&code=bg&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Cytavision.Sports.6" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/cyprus/cytavision-sports-6.png",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Cytavision Sports 6)
+https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+6&code=cy&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="ESPN.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-2.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (ESPN 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=br&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="ESPN.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-2.svg",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (ESPN 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=ar&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Digi.Sport.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/digi-sport-2.png",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Digi Sport 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+2&code=ro&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Digi.Sport.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/romania/digi-sport-4.png",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Digi Sport 4)
+https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="SONY.TEN.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/india/sony-sports-ten-2.webp",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (SONY TEN 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sony+ten+2&code=in&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="SONY.TEN.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/india/sony-sports-ten-3.webp",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (SONY TEN 3)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sony+ten+3&code=in&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sport.Klub.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-1.png.webp",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Sport Klub 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sport.Klub.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-2.png.webp",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Sport Klub 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+2&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sport.Klub.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-4.png.webp",[Tennis] 2026-06-09 09:00 - Tennis -  vs  (Sport Klub 4)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+4&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sport.Klub.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-1.png.webp",[Tennis] 2026-06-09 11:00 - Tennis -  vs  (Sport Klub 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sport.Klub.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-2.png.webp",[Tennis] 2026-06-09 11:00 - Tennis -  vs  (Sport Klub 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+2&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sport.Klub.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-4.png.webp",[Tennis] 2026-06-09 11:00 - Tennis -  vs  (Sport Klub 4)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+4&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sport.Klub.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-2.png.webp",[Tennis] 2026-06-09 11:00 - Tennis -  vs  (Sport Klub 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+2&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="BBC.One" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-one.svg",[Tennis] 2026-06-09 12:00 - Tennis -  vs  (BBC One)
+https://cdnlivetv.tv/api/v1/channels/player/?name=bbc+one&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TNT.Sports.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png",[Cycling] 2026-06-09 13:00 - Cycling -  vs  (TNT Sports 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sportsnet.One" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-one.png",[MLB] 2026-06-08 23:07 - MLB - Toronto Blue Jays vs Philadelphia Phillies (Sportsnet One)
+#EXTINF:-1 tvg-id="TNT.Sports.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-1.png",[Cycling] 2026-06-09 13:00 - Cycling -  vs  (TNT Sports 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/euro-sport-1.png",[Cycling] 2026-06-09 13:00 - Cycling -  vs  (Euro Sport 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="SuperSport.Variety.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-variety-1.webp",[Cycling] 2026-06-09 13:00 - Cycling -  vs  (SuperSport Variety 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+variety+1&code=za&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="SuperSport.Grandstand" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-grandstand.webp",[Cycling] 2026-06-09 13:00 - Cycling -  vs  (SuperSport Grandstand)
+https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/euro-sport-1.png",[Cycling] 2026-06-09 13:00 - Cycling -  vs  (Euro Sport 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=es&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png",[Cycling] 2026-06-09 13:00 - Cycling -  vs  (Euro Sport 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=it&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TNT.Sports.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png",[Cycling] 2026-06-09 13:00 - Cycling -  vs  (TNT Sports 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TNT.Sports.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-1.png",[Cycling] 2026-06-09 13:00 - Cycling -  vs  (TNT Sports 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/euro-sport-1.png",[Cycling] 2026-06-09 13:00 - Cycling -  vs  (Euro Sport 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="SuperSport.Variety.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-variety-1.webp",[Cycling] 2026-06-09 13:00 - Cycling -  vs  (SuperSport Variety 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+variety+1&code=za&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="SuperSport.Grandstand" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/south-africa/supersport-grandstand.webp",[Cycling] 2026-06-09 13:00 - Cycling -  vs  (SuperSport Grandstand)
+https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/euro-sport-1.png",[Cycling] 2026-06-09 13:00 - Cycling -  vs  (Euro Sport 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=es&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png",[Cycling] 2026-06-09 13:00 - Cycling -  vs  (Euro Sport 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=it&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TVP.Sport" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/tvp-sport.svg",[Badminton] 2026-06-09 11:00 - Badminton -  vs  (TVP Sport)
+https://cdnlivetv.tv/api/v1/channels/player/?name=tvp+sport&code=pl&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TVP.Sport" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/tvp-sport.svg",[Badminton] 2026-06-09 11:00 - Badminton -  vs  (TVP Sport)
+https://cdnlivetv.tv/api/v1/channels/player/?name=tvp+sport&code=pl&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sports.Racing" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-racing.svg",[Horse Racing] 2026-06-09 12:00 - HorseRacing -  vs  (Sky Sports Racing)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+racing&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sports.Racing" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sport-racing.svg",[Horse Racing] 2026-06-09 12:00 - HorseRacing -  vs  (Sky Sports Racing)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+racing&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Cosmote.Sport.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/greece/cosmote-sport-4.webp",[Basketball] 2026-06-09 10:00 - Basketball -  vs  (Cosmote Sport 4)
+https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+4&code=gr&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Arena.2.Premium" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp",[Basketball] 2026-06-09 16:30 - Basketball -  vs  (Arena 2 Premium)
+https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Polsat.Sport.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-3.svg",[Basketball] 2026-06-09 16:50 - Basketball -  vs  (Polsat Sport 3)
+https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+3&code=pl&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Arena.1.Premium" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp",[Basketball] 2026-06-09 17:00 - Basketball -  vs  (Arena 1 Premium)
+https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sport.Klub.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-3.png.webp",[Basketball] 2026-06-09 18:00 - Basketball -  vs  (Sport Klub 3)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+3&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Arena.2.Premium" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp",[Basketball] 2026-06-09 18:30 - Basketball -  vs  (Arena 2 Premium)
+https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Rai.Sport" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/rai-sport.webp",[Basketball] 2026-06-09 18:45 - Basketball -  vs  (Rai Sport)
+https://cdnlivetv.tv/api/v1/channels/player/?name=rai+sport&code=it&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Cosmote.Sport.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/greece/cosmote-sport-4.webp",[Basketball] 2026-06-09 10:00 - Basketball -  vs  (Cosmote Sport 4)
+https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+4&code=gr&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Arena.2.Premium" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp",[Basketball] 2026-06-09 16:30 - Basketball -  vs  (Arena 2 Premium)
+https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Polsat.Sport.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-3.svg",[Basketball] 2026-06-09 16:50 - Basketball -  vs  (Polsat Sport 3)
+https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+3&code=pl&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Arena.1.Premium" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp",[Basketball] 2026-06-09 17:00 - Basketball -  vs  (Arena 1 Premium)
+https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sport.Klub.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/sk-3.png.webp",[Basketball] 2026-06-09 18:00 - Basketball -  vs  (Sport Klub 3)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+3&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Arena.2.Premium" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp",[Basketball] 2026-06-09 18:30 - Basketball -  vs  (Arena 2 Premium)
+https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Rai.Sport" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/rai-sport.webp",[Basketball] 2026-06-09 18:45 - Basketball -  vs  (Rai Sport)
+https://cdnlivetv.tv/api/v1/channels/player/?name=rai+sport&code=it&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Arena.1.Premium" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp",[Futsal] 2026-06-09 08:00 - Futsal -  vs  (Arena 1 Premium)
+https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Arena.1.Premium" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-1.webp",[Futsal] 2026-06-09 08:00 - Futsal -  vs  (Arena 1 Premium)
+https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="MASN" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/masn.png",[MLB] 2026-06-09 22:35 - MLB - Baltimore Orioles vs Seattle Mariners (MASN)
+https://cdnlivetv.tv/api/v1/channels/player/?name=masn&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.6" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-6.png",[MLB] 2026-06-09 22:35 - MLB - Baltimore Orioles vs Seattle Mariners (Sky Sport Bundesliga 6)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="NESN" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nesn.png",[MLB] 2026-06-09 22:40 - MLB - Tampa Bay Rays vs Boston Red Sox (NESN)
+https://cdnlivetv.tv/api/v1/channels/player/?name=nesn&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TNT.Sports.8" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-8.png",[MLB] 2026-06-09 22:40 - MLB - Tampa Bay Rays vs Boston Red Sox (TNT Sports 8)
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+8&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Pittsburgh.Pirates" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg",[MLB] 2026-06-09 22:40 - MLB - Pittsburgh Pirates vs Los Angeles Dodgers (Pittsburgh Pirates)
+https://cdnlivetv.tv/api/v1/channels/player/?name=pittsburgh+pirates&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Los.Angeles.Dodgers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg",[MLB] 2026-06-09 22:40 - MLB - Pittsburgh Pirates vs Los Angeles Dodgers (Los Angeles Dodgers)
+https://cdnlivetv.tv/api/v1/channels/player/?name=los+angeles+dodgers&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="SportsNet.Pittsburgh" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/sportsnet-pittsburgh.png",[MLB] 2026-06-09 22:40 - MLB - Pittsburgh Pirates vs Los Angeles Dodgers (SportsNet Pittsburgh)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+pittsburgh&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.4" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-4.svg",[MLB] 2026-06-09 22:40 - MLB - Pittsburgh Pirates vs Los Angeles Dodgers (beIN SPORTS MAX 4)
+https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+4&code=fr&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Arena.3.Premium" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-premium-3.webp",[MLB] 2026-06-09 22:40 - MLB - Pittsburgh Pirates vs Los Angeles Dodgers (Arena 3 Premium)
+https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Detroit.Tigers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg",[MLB] 2026-06-09 22:40 - MLB - Detroit Tigers vs Minnesota Twins (Detroit Tigers)
+https://cdnlivetv.tv/api/v1/channels/player/?name=detroit+tigers&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Minnesota.Twins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg",[MLB] 2026-06-09 22:40 - MLB - Detroit Tigers vs Minnesota Twins (Minnesota Twins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=minnesota+twins&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Cleveland.Guardians" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg",[MLB] 2026-06-09 22:40 - MLB - Cleveland Guardians vs New York Yankees (Cleveland Guardians)
+https://cdnlivetv.tv/api/v1/channels/player/?name=cleveland+guardians&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="New.York.Yankees" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg",[MLB] 2026-06-09 22:40 - MLB - Cleveland Guardians vs New York Yankees (New York Yankees)
+https://cdnlivetv.tv/api/v1/channels/player/?name=new+york+yankees&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TBS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/tbs.png",[MLB] 2026-06-09 22:40 - MLB - Cleveland Guardians vs New York Yankees (TBS)
+https://cdnlivetv.tv/api/v1/channels/player/?name=tbs&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="truTV" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg",[MLB] 2026-06-09 22:40 - MLB - Cleveland Guardians vs New York Yankees (truTV)
+https://cdnlivetv.tv/api/v1/channels/player/?name=trutv&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="TNT.Sports.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-1.png",[MLB] 2026-06-09 22:40 - MLB - Cleveland Guardians vs New York Yankees (TNT Sports 1)
+https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+1&code=gb&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Toronto.Blue.Jays" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg",[MLB] 2026-06-09 23:07 - MLB - Toronto Blue Jays vs Philadelphia Phillies (Toronto Blue Jays)
+https://cdnlivetv.tv/api/v1/channels/player/?name=toronto+blue+jays&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Philadelphia.Phillies" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg",[MLB] 2026-06-09 23:07 - MLB - Toronto Blue Jays vs Philadelphia Phillies (Philadelphia Phillies)
+https://cdnlivetv.tv/api/v1/channels/player/?name=philadelphia+phillies&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="NBCS.Philadelphia" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png",[MLB] 2026-06-09 23:07 - MLB - Toronto Blue Jays vs Philadelphia Phillies (NBCS Philadelphia)
+https://cdnlivetv.tv/api/v1/channels/player/?name=nbcs+philadelphia&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Sportsnet.One" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-one.png",[MLB] 2026-06-09 23:07 - MLB - Toronto Blue Jays vs Philadelphia Phillies (Sportsnet One)
 https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+one&code=ca&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TVA.Sports" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-league-pass.png",[MLB] 2026-06-08 23:07 - MLB - Toronto Blue Jays vs Philadelphia Phillies (TVA Sports)
-https://cdnlivetv.tv/api/v1/channels/player/?name=tva+sports&code=ca&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Space.City.Home.Network" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/space-city.png",[MLB] 2026-06-09 01:38 - MLB - Los Angeles Angels vs Houston Astros (Space City Home Network)
+#EXTINF:-1 tvg-id="New.York.Mets" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg",[MLB] 2026-06-09 23:10 - MLB - New York Mets vs St. Louis Cardinals (New York Mets)
+https://cdnlivetv.tv/api/v1/channels/player/?name=new+york+mets&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="St..Louis.Cardinals" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg",[MLB] 2026-06-09 23:10 - MLB - New York Mets vs St. Louis Cardinals (St. Louis Cardinals)
+https://cdnlivetv.tv/api/v1/channels/player/?name=st+louis+cardinals&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="SportsNet.New.York" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/sny.png",[MLB] 2026-06-09 23:10 - MLB - New York Mets vs St. Louis Cardinals (SportsNet New York)
+https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+new+york&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Chicago.White.Sox" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg",[MLB] 2026-06-09 23:40 - MLB - Chicago White Sox vs Atlanta Braves (Chicago White Sox)
+https://cdnlivetv.tv/api/v1/channels/player/?name=chicago+white+sox&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Atlanta.Braves" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg",[MLB] 2026-06-09 23:40 - MLB - Chicago White Sox vs Atlanta Braves (Atlanta Braves)
+https://cdnlivetv.tv/api/v1/channels/player/?name=atlanta+braves&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Chicago.Sports.Network" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg",[MLB] 2026-06-09 23:40 - MLB - Chicago White Sox vs Atlanta Braves (Chicago Sports Network)
+https://cdnlivetv.tv/api/v1/channels/player/?name=chicago+sports+network&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Kansas.City.Royals" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg",[MLB] 2026-06-09 23:40 - MLB - Kansas City Royals vs Texas Rangers (Kansas City Royals)
+https://cdnlivetv.tv/api/v1/channels/player/?name=kansas+city+royals&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Texas.Rangers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg",[MLB] 2026-06-09 23:40 - MLB - Kansas City Royals vs Texas Rangers (Texas Rangers)
+https://cdnlivetv.tv/api/v1/channels/player/?name=texas+rangers&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Colorado.Rockies" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg",[MLB] 2026-06-10 00:40 - MLB - Colorado Rockies vs Chicago Cubs (Colorado Rockies)
+https://cdnlivetv.tv/api/v1/channels/player/?name=colorado+rockies&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Chicago.Cubs" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg",[MLB] 2026-06-10 00:40 - MLB - Colorado Rockies vs Chicago Cubs (Chicago Cubs)
+https://cdnlivetv.tv/api/v1/channels/player/?name=chicago+cubs&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Marquee.Sports.Network" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/marquee.png",[MLB] 2026-06-10 00:40 - MLB - Colorado Rockies vs Chicago Cubs (Marquee Sports Network)
+https://cdnlivetv.tv/api/v1/channels/player/?name=marquee+sports+network&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Los.Angeles.Angels" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg",[MLB] 2026-06-10 01:38 - MLB - Los Angeles Angels vs Houston Astros (Los Angeles Angels)
+https://cdnlivetv.tv/api/v1/channels/player/?name=los+angeles+angels&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Houston.Astros" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg",[MLB] 2026-06-10 01:38 - MLB - Los Angeles Angels vs Houston Astros (Houston Astros)
+https://cdnlivetv.tv/api/v1/channels/player/?name=houston+astros&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Space.City.Home.Network" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/space-city.png",[MLB] 2026-06-10 01:38 - MLB - Los Angeles Angels vs Houston Astros (Space City Home Network)
 https://cdnlivetv.tv/api/v1/channels/player/?name=space+city+home+network&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="TNT.Sports.9" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-9.png",[MLB] 2026-06-09 01:40 - MLB - San Diego Padres vs Cincinnati Reds (TNT Sports 9)
-https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+9&code=gb&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="NBCS.Bay.Area" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports.png",[MLB] 2026-06-09 01:45 - MLB - San Francisco Giants vs Washington Nationals (NBCS Bay Area)
+#EXTINF:-1 tvg-id="San.Diego.Padres" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg",[MLB] 2026-06-10 01:40 - MLB - San Diego Padres vs Cincinnati Reds (San Diego Padres)
+https://cdnlivetv.tv/api/v1/channels/player/?name=san+diego+padres&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Cincinnati.Reds" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg",[MLB] 2026-06-10 01:40 - MLB - San Diego Padres vs Cincinnati Reds (Cincinnati Reds)
+https://cdnlivetv.tv/api/v1/channels/player/?name=cincinnati+reds&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="San.Francisco.Giants" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg",[MLB] 2026-06-10 01:45 - MLB - San Francisco Giants vs Washington Nationals (San Francisco Giants)
+https://cdnlivetv.tv/api/v1/channels/player/?name=san+francisco+giants&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Washington.Nationals" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg",[MLB] 2026-06-10 01:45 - MLB - San Francisco Giants vs Washington Nationals (Washington Nationals)
+https://cdnlivetv.tv/api/v1/channels/player/?name=washington+nationals&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="NBCS.Bay.Area" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports.png",[MLB] 2026-06-10 01:45 - MLB - San Francisco Giants vs Washington Nationals (NBCS Bay Area)
 https://cdnlivetv.tv/api/v1/channels/player/?name=nbcs+bay+area&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="MLB.Network" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg",[MLB] 2026-06-09 01:45 - MLB - San Francisco Giants vs Washington Nationals (MLB Network)
-https://cdnlivetv.tv/api/v1/channels/player/?name=mlb+network&code=us&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="NBCS.California" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports.png",[MLB] 2026-06-09 02:05 - MLB - Oakland Athletics vs Milwaukee Brewers (NBCS California)
+#EXTINF:-1 tvg-id="Oakland.Athletics" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg",[MLB] 2026-06-10 02:05 - MLB - Oakland Athletics vs Milwaukee Brewers (Oakland Athletics)
+https://cdnlivetv.tv/api/v1/channels/player/?name=oakland+athletics&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="Milwaukee.Brewers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.svg",[MLB] 2026-06-10 02:05 - MLB - Oakland Athletics vs Milwaukee Brewers (Milwaukee Brewers)
+https://cdnlivetv.tv/api/v1/channels/player/?name=milwaukee+brewers&code=us&user=streamsports99&plan=vip
+#EXTINF:-1 tvg-id="NBCS.California" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports.png",[MLB] 2026-06-10 02:05 - MLB - Oakland Athletics vs Milwaukee Brewers (NBCS California)
 https://cdnlivetv.tv/api/v1/channels/player/?name=nbcs+california&code=us&user=streamsports99&plan=vip
