@@ -290,6 +290,60 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "21:40",
+                "event": "Indiana Midget Week opener at Circle City Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "207"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Summer Shootout at Charlotte Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "208"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5003"
+                    }
+                ]
+            },
+            {
+                "time": "22:40",
+                "event": "HLR Eagle Nationals at Eagle Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "209"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5001"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "USAC Indiana Midget Week at Circle City Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "210"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5002"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "19:00",
@@ -1404,6 +1458,10 @@
                     {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "3083"
+                    },
+                    {
+                        "channel_name": "Backup stream",
+                        "channel_id": "5005"
                     }
                 ]
             },
@@ -1418,6 +1476,10 @@
                     {
                         "channel_name": "Al Iraqiya Sports",
                         "channel_id": "3065"
+                    },
+                    {
+                        "channel_name": "Backup stream",
+                        "channel_id": "5006"
                     }
                 ]
             }
@@ -3044,6 +3106,10 @@
                     {
                         "channel_name": "ABC USA",
                         "channel_id": "3001"
+                    },
+                    {
+                        "channel_name": "Backup stream",
+                        "channel_id": "5004"
                     }
                 ]
             }
