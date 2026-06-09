@@ -1106,6 +1106,10 @@
                 "event": "FIFA Women's World Cup Qualifying : Iceland vs Spain",
                 "channels": [
                     {
+                        "channel_name": "TVE La 2 Spain",
+                        "channel_id": "536"
+                    },
+                    {
                         "channel_name": "Teledeporte Spain (TDP)",
                         "channel_id": "529"
                     },
@@ -2781,6 +2785,10 @@
                 "time": "18:30",
                 "event": "Spanish League : Semi-final 1 G1 Barcelona vs Tenerife",
                 "channels": [
+                    {
+                        "channel_name": "ACB Dazn",
+                        "channel_id": "26"
+                    },
                     {
                         "channel_name": "Arena 2 Premium Serbia",
                         "channel_id": "135"
