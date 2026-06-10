@@ -1,1 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="friendlyportugalvsnigeria" tvg-name="Soccer | Friendly : Portugal vs Nigeria (19:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Portugal_vs_Nigeria.png" group-title="Eventi Live DLHD",Soccer | Friendly : Portugal vs Nigeria (19:45)
+https://dlhd.pk/watch.php?id=462
+
+#EXTINF:-1 tvg-id="friendlyenglandvscostarica" tvg-name="Soccer | Friendly : England vs Costa Rica (20:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/England_vs_Costa Rica.png" group-title="Eventi Live DLHD",Soccer | Friendly : England vs Costa Rica (20:00)
+https://dlhd.pk/watch.php?id=870
+
+#EXTINF:-1 tvg-id="fiawecround424hoursoflemansfreepractice1" tvg-name="Motorsport | FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 1 (11:45)" tvg-logo="https://wallpapercave.com/wp/wp15731574.png" group-title="Eventi Live DLHD",Motorsport | FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 1 (11:45)
+https://dlhd.pk/watch.php?id=879
+
+#EXTINF:-1 tvg-id="fiawecround424hoursoflemansqualifying" tvg-name="Motorsport | FIA WEC | Round 4 | 24 Hours of Le Mans Qualifying (16:30)" tvg-logo="https://play-lh.googleusercontent.com/6am0i3walYwNLc08QOOhRJttQENNGkhlKajXSERf3JnPVRQczIyxw2w3DxeMRTOSdsY" group-title="Eventi Live DLHD",Motorsport | FIA WEC | Round 4 | 24 Hours of Le Mans Qualifying (16:30)
+https://dlhd.pk/watch.php?id=878
+
+#EXTINF:-1 tvg-id="fiawecround424hoursoflemansfreepractice2" tvg-name="Motorsport | FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 2 (19:45)" tvg-logo="https://myteenwebcam.com/fapp/gifs/2311fc7449dd2d58820de53b9a8e0caa.gif" group-title="Eventi Live DLHD",Motorsport | FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 2 (19:45)
+https://dlhd.pk/watch.php?id=878
+
+#EXTINF:-1 tvg-id="francobelgiancircuititournaimontdelenclus1956km" tvg-name="Cycling | Franco-Belgian Circuit I | Tournai - Mont de l'Enclus (195.6km) (14:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Franco-Belgian Circuit I | Tournai - Mont de l'Enclus (195.6km) (14:30)
+https://dlhd.pk/watch.php?id=878
+
