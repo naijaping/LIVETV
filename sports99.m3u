@@ -1,12 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png",[Cycling] 2026-06-12 15:00 - Cycling -  vs  (Euro Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png",[Cycling] 2026-06-12 15:00 - Cycling -  vs  (Euro Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.F1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-f1.svg",[Motorsport] 2026-06-12 15:00 - Motorsport -  vs  (Sky Sport F1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+f1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.F1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-f1.svg",[Motorsport] 2026-06-12 15:00 - Motorsport -  vs  (Sky Sport F1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+f1&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TNT.Sports" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/chile/tnt-sports.png",[Soccer] 2026-06-13 00:00 - Primera Division - Audax Italiano vs La Serena (TNT Sports)
 https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Viaplay.Sports.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.png",[Cricket] 2026-06-12 10:30 - Cricket -  vs  (Viaplay Sports 2)
