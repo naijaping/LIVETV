@@ -1,5 +1,177 @@
 {
     "Friday 12th June 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "21:15",
+                "event": "Weekly Racing Stafford",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "211"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "USAC Indiana Midget Week Bloomington",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "212"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "CMP Boxing: Hall of Fame Fight Night - Allen vs Pasillas",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "213"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "IRA Sprints Outagamie",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "214"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "World of Outlaws Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "215"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "NASCAR Weekly Racing Autodrome Granby",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "216"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "NAPA OH Speedweek Attica",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "217"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "World of Outlaws Sprint Cars Knoxville",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "218"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Williams Grove Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "219"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Appalachian LM Speedweek Bedford",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "220"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Albany Saratoga Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "221"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "DIRTcar Summer Nationals Late Models Coles",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "222"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "Jacksonville Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "224"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "IMCA Clash the Creek 141",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "225"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "Diamond Cup Meridian",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "226"
+                    }
+                ]
+            },
+            {
+                "time": "00:45",
+                "event": "NARC Fastest 5 Days Douglas",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "227"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "USAC WS Midgets Plaza",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "228"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "09:30",
