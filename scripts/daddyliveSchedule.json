@@ -3,11 +3,15 @@
         "PPV Events": [
             {
                 "time": "21:15",
-                "event": "Weekly Racing Stafford",
+                "event": "Weekly Racing at Stafford Speedway",
                 "channels": [
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "211"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5016"
                     }
                 ]
             },
@@ -18,6 +22,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "212"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5017"
                     }
                 ]
             },
@@ -38,6 +46,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "214"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5018"
                     }
                 ]
             },
@@ -48,6 +60,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "215"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5019"
                     }
                 ]
             },
@@ -58,16 +74,24 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "216"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5020"
                     }
                 ]
             },
             {
                 "time": "22:30",
-                "event": "NAPA OH Speedweek Attica",
+                "event": "NAPA ASCoC Ohio Sprint Speedweek at Attica Raceway Park",
                 "channels": [
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "217"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5021"
                     }
                 ]
             },
@@ -78,6 +102,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "218"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5022"
                     }
                 ]
             },
@@ -88,6 +116,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "219"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5023"
                     }
                 ]
             },
@@ -98,6 +130,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "220"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5024"
                     }
                 ]
             },
@@ -108,6 +144,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "221"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5025"
                     }
                 ]
             },
@@ -118,6 +158,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "222"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5026"
                     }
                 ]
             },
@@ -128,6 +172,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "224"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5027"
                     }
                 ]
             },
@@ -138,16 +186,44 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "225"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5028"
                     }
                 ]
             },
             {
                 "time": "23:45",
-                "event": "Diamond Cup Meridian",
+                "event": "IMCA Weekly Racing at Marshalltown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5014"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "Diamond Cup Meridian Speedway",
                 "channels": [
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "226"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5029"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "HTF Ollie\u2019s Clash at The MAG Night One - Magnolia Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "HTF PPV",
+                        "channel_id": "5025"
                     }
                 ]
             },
@@ -158,6 +234,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "227"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5030"
                     }
                 ]
             },
@@ -168,6 +248,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "228"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5015"
                     }
                 ]
             }
@@ -5338,6 +5422,170 @@
                     {
                         "channel_name": "TRT Spor TR",
                         "channel_id": "3091"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ENG)",
+                        "channel_id": "5000"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ENG)",
+                        "channel_id": "5001"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ENG)",
+                        "channel_id": "5002"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ENG)",
+                        "channel_id": "5003"
+                    },
+                    {
+                        "channel_name": "Backup Stream (BIH)",
+                        "channel_id": "5004"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ESP)",
+                        "channel_id": "5005"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ESP)",
+                        "channel_id": "5006"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ENG)",
+                        "channel_id": "5007"
+                    },
+                    {
+                        "channel_name": "Backup Stream (AR)",
+                        "channel_id": "5008"
+                    },
+                    {
+                        "channel_name": "Backup Stream (FR)",
+                        "channel_id": "5009"
+                    },
+                    {
+                        "channel_name": "Backup Stream (PL)",
+                        "channel_id": "5010"
+                    },
+                    {
+                        "channel_name": "SBS AU",
+                        "channel_id": "3009"
+                    },
+                    {
+                        "channel_name": "TSN3",
+                        "channel_id": "3031"
+                    },
+                    {
+                        "channel_name": "MagentaTV DE",
+                        "channel_id": "3011"
+                    },
+                    {
+                        "channel_name": "DAZN Mundial ES",
+                        "channel_id": "4000"
+                    },
+                    {
+                        "channel_name": "YLE TV2 FI",
+                        "channel_id": "3072"
+                    },
+                    {
+                        "channel_name": "M6 France",
+                        "channel_id": "3056"
+                    },
+                    {
+                        "channel_name": "BBC One",
+                        "channel_id": "3001"
+                    },
+                    {
+                        "channel_name": "ERT 2 Greece",
+                        "channel_id": "3024"
+                    },
+                    {
+                        "channel_name": "HRT 2 Crotia",
+                        "channel_id": "3070"
+                    },
+                    {
+                        "channel_name": "RAI 1 IT",
+                        "channel_id": "3047"
+                    },
+                    {
+                        "channel_name": "NPO 1 NL",
+                        "channel_id": "3088"
+                    },
+                    {
+                        "channel_name": "TVP Sport Poland",
+                        "channel_id": "3060"
+                    },
+                    {
+                        "channel_name": "Sport TV1 Portugal",
+                        "channel_id": "3021"
+                    },
+                    {
+                        "channel_name": "SVT 1 SE",
+                        "channel_id": "3074"
+                    },
+                    {
+                        "channel_name": "TRT Spor TR",
+                        "channel_id": "3091"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8002"
                     }
                 ]
             }
