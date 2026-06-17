@@ -1,5 +1,37 @@
 {
     "Wednesday 17th June 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "22:15",
+                "event": "USAC Eastern Storm Bridgeport",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "24"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "World of Outlaws Sprints Hussets",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "25"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "Summer Nationals Late Models Davenport",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "27"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "09:30",
