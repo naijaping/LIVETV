@@ -1820,7 +1820,7 @@
                         "channel_id": "5001"
                     },
                     {
-                        "channel_name": "Backup Stream (ENG)",
+                        "channel_name": "Backup Stream (ESP)",
                         "channel_id": "5002"
                     },
                     {
@@ -1828,11 +1828,11 @@
                         "channel_id": "5003"
                     },
                     {
-                        "channel_name": "Backup Stream (ESP)",
+                        "channel_name": "Backup Stream (ENG) (4K Quality)",
                         "channel_id": "5004"
                     },
                     {
-                        "channel_name": "Backup Stream (ESP)",
+                        "channel_name": "Backup Stream (PT)",
                         "channel_id": "5005"
                     },
                     {
@@ -1848,19 +1848,19 @@
                         "channel_id": "5008"
                     },
                     {
-                        "channel_name": "Backup Stream (ENG) (4K Quality)",
+                        "channel_name": "Backup Stream (AR)",
                         "channel_id": "5009"
                     },
                     {
-                        "channel_name": "Backup Stream (AR)",
+                        "channel_name": "Backup Stream (ENG)",
                         "channel_id": "5010"
                     },
                     {
-                        "channel_name": "Backup Stream (FR) (4K Quality)",
+                        "channel_name": "Backup Stream (FR)",
                         "channel_id": "5011"
                     },
                     {
-                        "channel_name": "Backup Stream (FR)",
+                        "channel_name": "Backup Stream (ENG)",
                         "channel_id": "5012"
                     },
                     {
@@ -1868,32 +1868,16 @@
                         "channel_id": "5013"
                     },
                     {
-                        "channel_name": "Backup Stream (PT)",
+                        "channel_name": "Backup Stream (AR)",
                         "channel_id": "5014"
                     },
                     {
-                        "channel_name": "Backup Stream (ENG)",
+                        "channel_name": "Backup Stream (ESP)",
                         "channel_id": "5015"
                     },
                     {
-                        "channel_name": "Backup Stream (AR)",
+                        "channel_name": "Backup Stream (ESP)",
                         "channel_id": "5016"
-                    },
-                    {
-                        "channel_name": "Backup Stream (AR)",
-                        "channel_id": "5017"
-                    },
-                    {
-                        "channel_name": "Backup Stream (ESP)",
-                        "channel_id": "5018"
-                    },
-                    {
-                        "channel_name": "Backup Stream (DE)",
-                        "channel_id": "5019"
-                    },
-                    {
-                        "channel_name": "Backup Stream (ESP)",
-                        "channel_id": "5020"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -2274,10 +2258,6 @@
                         "channel_id": "2001"
                     },
                     {
-                        "channel_name": "SBS AU",
-                        "channel_id": "3009"
-                    },
-                    {
                         "channel_name": "TSN1",
                         "channel_id": "3031"
                     },
@@ -2290,10 +2270,6 @@
                         "channel_id": "4000"
                     },
                     {
-                        "channel_name": "YLE TV2",
-                        "channel_id": "3072"
-                    },
-                    {
                         "channel_name": "M6 France",
                         "channel_id": "3056"
                     },
@@ -2302,28 +2278,32 @@
                         "channel_id": "3001"
                     },
                     {
-                        "channel_name": "ERT 2 Greece",
-                        "channel_id": "3024"
-                    },
-                    {
                         "channel_name": "HRT 2 Crotia",
                         "channel_id": "3070"
-                    },
-                    {
-                        "channel_name": "NPO 1 NL",
-                        "channel_id": "3088"
                     },
                     {
                         "channel_name": "TVP Sport Poland",
                         "channel_id": "3060"
                     },
                     {
-                        "channel_name": "SVT 1",
-                        "channel_id": "3071"
+                        "channel_name": "TV4 SE",
+                        "channel_id": "3074"
                     },
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "9001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003"
                     }
                 ]
             },
@@ -2696,8 +2676,8 @@
                         "channel_id": "2001"
                     },
                     {
-                        "channel_name": "SBS AU",
-                        "channel_id": "3009"
+                        "channel_name": "Fox Sports 1 USA",
+                        "channel_id": "3081"
                     },
                     {
                         "channel_name": "TSN1",
@@ -2712,20 +2692,12 @@
                         "channel_id": "4000"
                     },
                     {
-                        "channel_name": "YLE TV2",
-                        "channel_id": "3072"
-                    },
-                    {
-                        "channel_name": "M6 France",
-                        "channel_id": "3056"
+                        "channel_name": "beIN Sports 1 FR",
+                        "channel_id": "3051"
                     },
                     {
                         "channel_name": "ITV 1 UK",
                         "channel_id": "3001"
-                    },
-                    {
-                        "channel_name": "ERT 2 Greece",
-                        "channel_id": "3024"
                     },
                     {
                         "channel_name": "HRT 2 Crotia",
@@ -2740,12 +2712,24 @@
                         "channel_id": "3060"
                     },
                     {
-                        "channel_name": "SVT 1",
-                        "channel_id": "3071"
+                        "channel_name": "TV4 SE",
+                        "channel_id": "3074"
                     },
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "9001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003"
                     }
                 ]
             },
@@ -3106,8 +3090,8 @@
                         "channel_id": "2001"
                     },
                     {
-                        "channel_name": "SBS AU",
-                        "channel_id": "3009"
+                        "channel_name": "Fox Sports 1 USA",
+                        "channel_id": "3081"
                     },
                     {
                         "channel_name": "TSN1",
@@ -3122,20 +3106,12 @@
                         "channel_id": "4000"
                     },
                     {
-                        "channel_name": "YLE TV2",
-                        "channel_id": "3072"
-                    },
-                    {
-                        "channel_name": "M6 France",
-                        "channel_id": "3056"
+                        "channel_name": "beIN Sports 1 FR",
+                        "channel_id": "3051"
                     },
                     {
                         "channel_name": "ITV 1 UK",
                         "channel_id": "3001"
-                    },
-                    {
-                        "channel_name": "ERT 2 Greece",
-                        "channel_id": "3024"
                     },
                     {
                         "channel_name": "HRT 2 Crotia",
@@ -3150,12 +3126,24 @@
                         "channel_id": "3060"
                     },
                     {
-                        "channel_name": "SVT 1",
-                        "channel_id": "3071"
+                        "channel_name": "TV4 SE",
+                        "channel_id": "3074"
                     },
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "9001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003"
                     }
                 ]
             }
