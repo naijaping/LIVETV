@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="fifaworldcupportugalvsuzbekistan" tvg-name="⚽ FIFA World Cup 2026 — 🇵🇹 Portugal vs 🇺🇿 Uzbekistan Jun 23 🏆 | FIFA World Cup : Portugal vs Uzbekistan (17:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Portugal_vs_Uzbekistan.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🇵🇹 Portugal vs 🇺🇿 Uzbekistan Jun 23 🏆 | FIFA World Cup : Portugal vs Uzbekistan (17:00)
-https://dlhd.pk/watch.php?id=262
-
 #EXTINF:-1 tvg-id="fifaworldcupenglandvsghana" tvg-name="⚽ FIFA World Cup 2026 — 🏴󠁧󠁢󠁥󠁮󠁧󠁿󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇬🇭 Ghana Jun 23 🏆 | FIFA World Cup : England vs Ghana (20:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/England_vs_Ghana.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🏴󠁧󠁢󠁥󠁮󠁧󠁿󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇬🇭 Ghana Jun 23 🏆 | FIFA World Cup : England vs Ghana (20:00)
 https://dlhd.pk/watch.php?id=262
 
@@ -14,19 +11,13 @@ https://dlhd.pk/watch.php?id=850
 #EXTINF:-1 tvg-id="fifaworldcuppanamavscroatia" tvg-name="⚽ FIFA World Cup 2026 — 🇵🇦 Panama vs 🇭🇷 Croatia Jun 23 🏆 | FIFA World Cup : Panama vs Croatia (23:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Panama_vs_Croatia.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🇵🇦 Panama vs 🇭🇷 Croatia Jun 23 🏆 | FIFA World Cup : Panama vs Croatia (23:00)
 https://dlhd.pk/watch.php?id=262
 
-#EXTINF:-1 tvg-id="fifaworldcupportugalvsuzbekistan" tvg-name="All Soccer Events | FIFA World Cup : Portugal vs Uzbekistan (17:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Portugal_vs_Uzbekistan.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Portugal vs Uzbekistan (17:00)
-https://dlhd.pk/watch.php?id=262
-
-#EXTINF:-1 tvg-id="fifaworldcupportugalvsuzbekistan" tvg-name="All Soccer Events | FIFA World Cup : Portugal vs Uzbekistan (17:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Portugal_vs_Uzbekistan.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Portugal vs Uzbekistan (17:00)
-https://dlhd.pk/watch.php?id=3047
-
 #EXTINF:-1 tvg-id="fifaworldcupenglandvsghana" tvg-name="All Soccer Events | FIFA World Cup : England vs Ghana (20:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/England_vs_Ghana.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : England vs Ghana (20:00)
 https://dlhd.pk/watch.php?id=262
 
 #EXTINF:-1 tvg-id="fifaworldcupenglandvsghana" tvg-name="All Soccer Events | FIFA World Cup : England vs Ghana (20:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/England_vs_Ghana.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : England vs Ghana (20:00)
 https://dlhd.pk/watch.php?id=850
 
-#EXTINF:-1 tvg-id="brazilbrasileirãosériebaméricamineirovscriciúma" tvg-name="All Soccer Events | Brazil Brasileirão Série B : América Mineiro vs Criciúma (23:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/América Mineiro_vs_Criciúma.png" group-title="Eventi Live DLHD",All Soccer Events | Brazil Brasileirão Série B : América Mineiro vs Criciúma (23:00)
+#EXTINF:-1 tvg-id="fifaworldcupenglandvsghana" tvg-name="All Soccer Events | FIFA World Cup : England vs Ghana (20:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/England_vs_Ghana.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : England vs Ghana (20:00)
 https://dlhd.pk/watch.php?id=3047
 
 #EXTINF:-1 tvg-id="fifaworldcuppanamavscroatia" tvg-name="All Soccer Events | FIFA World Cup : Panama vs Croatia (23:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Panama_vs_Croatia.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Panama vs Croatia (23:00)
