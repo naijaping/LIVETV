@@ -1,1 +1,43 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="fifaworldcupportugalvsuzbekistan" tvg-name="⚽ FIFA World Cup 2026 — 🇵🇹 Portugal vs 🇺🇿 Uzbekistan Jun 23 🏆 | FIFA World Cup : Portugal vs Uzbekistan (17:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Portugal_vs_Uzbekistan.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🇵🇹 Portugal vs 🇺🇿 Uzbekistan Jun 23 🏆 | FIFA World Cup : Portugal vs Uzbekistan (17:00)
+https://dlhd.pk/watch.php?id=262
+
+#EXTINF:-1 tvg-id="fifaworldcupenglandvsghana" tvg-name="⚽ FIFA World Cup 2026 — 🏴󠁧󠁢󠁥󠁮󠁧󠁿󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇬🇭 Ghana Jun 23 🏆 | FIFA World Cup : England vs Ghana (20:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/England_vs_Ghana.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🏴󠁧󠁢󠁥󠁮󠁧󠁿󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇬🇭 Ghana Jun 23 🏆 | FIFA World Cup : England vs Ghana (20:00)
+https://dlhd.pk/watch.php?id=262
+
+#EXTINF:-1 tvg-id="fifaworldcupenglandvsghana" tvg-name="⚽ FIFA World Cup 2026 — 🏴󠁧󠁢󠁥󠁮󠁧󠁿󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇬🇭 Ghana Jun 23 🏆 | FIFA World Cup : England vs Ghana (20:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/England_vs_Ghana.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🏴󠁧󠁢󠁥󠁮󠁧󠁿󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇬🇭 Ghana Jun 23 🏆 | FIFA World Cup : England vs Ghana (20:00)
+https://dlhd.pk/watch.php?id=850
+
+#EXTINF:-1 tvg-id="fifaworldcuppanamavscroatia" tvg-name="⚽ FIFA World Cup 2026 — 🇵🇦 Panama vs 🇭🇷 Croatia Jun 23 🏆 | FIFA World Cup : Panama vs Croatia (23:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Panama_vs_Croatia.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🇵🇦 Panama vs 🇭🇷 Croatia Jun 23 🏆 | FIFA World Cup : Panama vs Croatia (23:00)
+https://dlhd.pk/watch.php?id=262
+
+#EXTINF:-1 tvg-id="fifaworldcupportugalvsuzbekistan" tvg-name="All Soccer Events | FIFA World Cup : Portugal vs Uzbekistan (17:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Portugal_vs_Uzbekistan.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Portugal vs Uzbekistan (17:00)
+https://dlhd.pk/watch.php?id=262
+
+#EXTINF:-1 tvg-id="fifaworldcupportugalvsuzbekistan" tvg-name="All Soccer Events | FIFA World Cup : Portugal vs Uzbekistan (17:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Portugal_vs_Uzbekistan.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Portugal vs Uzbekistan (17:00)
+https://dlhd.pk/watch.php?id=3047
+
+#EXTINF:-1 tvg-id="fifaworldcupenglandvsghana" tvg-name="All Soccer Events | FIFA World Cup : England vs Ghana (20:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/England_vs_Ghana.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : England vs Ghana (20:00)
+https://dlhd.pk/watch.php?id=262
+
+#EXTINF:-1 tvg-id="fifaworldcupenglandvsghana" tvg-name="All Soccer Events | FIFA World Cup : England vs Ghana (20:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/England_vs_Ghana.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : England vs Ghana (20:00)
+https://dlhd.pk/watch.php?id=850
+
+#EXTINF:-1 tvg-id="brazilbrasileirãosériebaméricamineirovscriciúma" tvg-name="All Soccer Events | Brazil Brasileirão Série B : América Mineiro vs Criciúma (23:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/América Mineiro_vs_Criciúma.png" group-title="Eventi Live DLHD",All Soccer Events | Brazil Brasileirão Série B : América Mineiro vs Criciúma (23:00)
+https://dlhd.pk/watch.php?id=3047
+
+#EXTINF:-1 tvg-id="fifaworldcuppanamavscroatia" tvg-name="All Soccer Events | FIFA World Cup : Panama vs Croatia (23:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Panama_vs_Croatia.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Panama vs Croatia (23:00)
+https://dlhd.pk/watch.php?id=262
+
+#EXTINF:-1 tvg-id="fifaworldcuppanamavscroatia" tvg-name="All Soccer Events | FIFA World Cup : Panama vs Croatia (23:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Panama_vs_Croatia.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Panama vs Croatia (23:00)
+https://dlhd.pk/watch.php?id=3047
+
+#EXTINF:-1 tvg-id="wimbledonqualifierswta500wimbledonqualifiersatp250lexuseastbourneopenatp250mallorcaatp250eastbourne" tvg-name="Tennis | Wimbledon | Qualifiers | WTA500 Wimbledon | Qualifiers | ATP 250: Lexus Eastbourne Open | ATP 250 - MALLORCA | ATP 250 Eastbourne (08:30)" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/048/027/105/small_2x/rough-texture-arrow-isolated-transparent-background-png.png" group-title="Eventi Live DLHD",Tennis | Wimbledon | Qualifiers | WTA500 Wimbledon | Qualifiers | ATP 250: Lexus Eastbourne Open | ATP 250 - MALLORCA | ATP 250 Eastbourne (08:30)
+https://dlhd.pk/watch.php?id=461
+
+#EXTINF:-1 tvg-id="wimbledonqualifierswta500wimbledonqualifiersatp250lexuseastbourneopenatp250mallorcaatp250eastbourne" tvg-name="Tennis | Wimbledon | Qualifiers | WTA500 Wimbledon | Qualifiers | ATP 250: Lexus Eastbourne Open | ATP 250 - MALLORCA | ATP 250 Eastbourne (08:30)" tvg-logo="https://i.pinimg.com/originals/ff/a4/76/ffa4767e93a394a5c8f08e3914676b49.png" group-title="Eventi Live DLHD",Tennis | Wimbledon | Qualifiers | WTA500 Wimbledon | Qualifiers | ATP 250: Lexus Eastbourne Open | ATP 250 - MALLORCA | ATP 250 Eastbourne (08:30)
+https://dlhd.pk/watch.php?id=576
+
