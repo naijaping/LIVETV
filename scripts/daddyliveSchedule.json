@@ -1,5 +1,67 @@
 {
     "Tuesday 23rd June 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "17:00",
+                "event": "AMA Amateur National MX Champs",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "23"
+                    }
+                ]
+            },
+            {
+                "time": "21:15",
+                "event": "Nascar Weekly Racing RPM",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "24"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Summer Shootout Charlotte",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "25"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Super Dirtcar Series Ransomville",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "26"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "Millbridge Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "27"
+                    }
+                ]
+            },
+            {
+                "time": "23:45",
+                "event": "DIRTcar Summer Nationals Benton",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "28"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "09:30",
