@@ -1352,6 +1352,14 @@
                         "channel_id": "115"
                     },
                     {
+                        "channel_name": "Backup stream Arabic",
+                        "channel_id": "9001"
+                    },
+                    {
+                        "channel_name": "Backup stream Eng",
+                        "channel_id": "9008"
+                    },
+                    {
                         "channel_name": "TRT 1 Turkey",
                         "channel_id": "1012"
                     },
@@ -1756,6 +1764,14 @@
                     {
                         "channel_name": "RDS CA",
                         "channel_id": "839"
+                    },
+                    {
+                        "channel_name": "Backup stream Arabic",
+                        "channel_id": "9002"
+                    },
+                    {
+                        "channel_name": "Backup stream Eng",
+                        "channel_id": "9009"
                     },
                     {
                         "channel_name": "TRT 1 Turkey",
@@ -2198,6 +2214,14 @@
                         "channel_id": "839"
                     },
                     {
+                        "channel_name": "Backup stream Arabic",
+                        "channel_id": "9001"
+                    },
+                    {
+                        "channel_name": "Backup stream Eng",
+                        "channel_id": "9008"
+                    },
+                    {
                         "channel_name": "TRT 1 Turkey",
                         "channel_id": "1012"
                     },
@@ -2590,6 +2614,14 @@
                     {
                         "channel_name": "RDS CA",
                         "channel_id": "839"
+                    },
+                    {
+                        "channel_name": "Backup stream Arabic",
+                        "channel_id": "9002"
+                    },
+                    {
+                        "channel_name": "Backup stream Eng",
+                        "channel_id": "9009"
                     },
                     {
                         "channel_name": "TRT 1 Turkey",
