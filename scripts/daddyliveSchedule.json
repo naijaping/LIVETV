@@ -32,22 +32,22 @@
                 ]
             },
             {
+                "time": "22:00",
+                "event": "BAPS Motor Speedway - Pa Speedweek",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV 2",
+                        "channel_id": "5061"
+                    }
+                ]
+            },
+            {
                 "time": "22:15",
                 "event": "DIRTcar Summer Nationals Late Models Windy Hollow",
                 "channels": [
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "156"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "AEW Forbidden Door",
-                "channels": [
-                    {
-                        "channel_name": "Event PPV",
-                        "channel_id": "157"
                     }
                 ]
             },
@@ -3296,6 +3296,10 @@
                 "event": "IMSA Sportscar Championship 2025: 6 Hours of the Glen",
                 "channels": [
                     {
+                        "channel_name": "Peacock Feed",
+                        "channel_id": "161"
+                    },
+                    {
                         "channel_name": "Ziggo Sport 3 NL",
                         "channel_id": "919"
                     }
@@ -3373,6 +3377,20 @@
             }
         ],
         "Wrestling (NXT)": [
+            {
+                "time": "23:00",
+                "event": "AEW Forbidden Door",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "157"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5060"
+                    }
+                ]
+            },
             {
                 "time": "23:00",
                 "event": "WWE NXT: Great American Bash",
