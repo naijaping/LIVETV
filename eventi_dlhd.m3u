@@ -1,16 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
-https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="fifaworldcupcroatiavsghana" tvg-name="All Soccer Events | FIFA World Cup : Croatia vs Ghana (21:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Croatia_vs_Ghana.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Croatia vs Ghana (21:00)
-https://dlhd.pk/watch.php?id=3047
-
-#EXTINF:-1 tvg-id="fifaworldcuppanamavsengland" tvg-name="All Soccer Events | FIFA World Cup : Panama vs England (21:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Panama_vs_England.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Panama vs England (21:00)
-https://dlhd.pk/watch.php?id=3047
-
-#EXTINF:-1 tvg-id="fifaworldcupcongodrvsuzbekistan" tvg-name="All Soccer Events | FIFA World Cup : Congo DR vs Uzbekistan (23:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Congo DR_vs_Uzbekistan.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Congo DR vs Uzbekistan (23:30)
-https://dlhd.pk/watch.php?id=3047
-
-#EXTINF:-1 tvg-id="fifaworldcupcolombiavsportugal" tvg-name="All Soccer Events | FIFA World Cup : Colombia vs Portugal (23:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Colombia_vs_Portugal.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Colombia vs Portugal (23:30)
-https://dlhd.pk/watch.php?id=3047
-
