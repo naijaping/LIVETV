@@ -1,19 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
-https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="fifaworldcupbrazilvsjapan" tvg-name="⚽ FIFA World Cup 2026 — 🇧🇷 Brazil vs 🇯🇵 Japan Jun 29 🏆 | FIFA World Cup : Brazil vs Japan (17:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Brazil_vs_Japan.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🇧🇷 Brazil vs 🇯🇵 Japan Jun 29 🏆 | FIFA World Cup : Brazil vs Japan (17:00)
-https://dlhd.pk/watch.php?id=850
-
-#EXTINF:-1 tvg-id="fifaworldcupbrazilvsjapan" tvg-name="⚽ FIFA World Cup 2026 — 🇧🇷 Brazil vs 🇯🇵 Japan Jun 29 🏆 | FIFA World Cup : Brazil vs Japan (17:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Brazil_vs_Japan.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🇧🇷 Brazil vs 🇯🇵 Japan Jun 29 🏆 | FIFA World Cup : Brazil vs Japan (17:00)
-https://dlhd.pk/watch.php?id=262
-
-#EXTINF:-1 tvg-id="uefau19europeanchampionshipitalyu19vsserbiau19" tvg-name="All Soccer Events | UEFA U19 European Championship : Italy U19 vs Serbia U19 (15:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Italy U19_vs_Serbia U19.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA U19 European Championship : Italy U19 vs Serbia U19 (15:00)
-https://dlhd.pk/watch.php?id=882
-
-#EXTINF:-1 tvg-id="fifaworldcupbrazilvsjapan" tvg-name="All Soccer Events | FIFA World Cup : Brazil vs Japan (17:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Brazil_vs_Japan.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Brazil vs Japan (17:00)
-https://dlhd.pk/watch.php?id=850
-
-#EXTINF:-1 tvg-id="fifaworldcupbrazilvsjapan" tvg-name="All Soccer Events | FIFA World Cup : Brazil vs Japan (17:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Brazil_vs_Japan.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Brazil vs Japan (17:00)
-https://dlhd.pk/watch.php?id=262
-
