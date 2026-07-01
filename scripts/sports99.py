@@ -13,8 +13,8 @@ from datetime import datetime, timedelta
 # =============================================================================
 OUTPUT_FILE = "sports99.m3u"
 TIMEOUT = 120
-USER = "streamsports99"
-PLAN = "vip"
+USER = "cdnlivetv"
+PLAN = "free"
 
 EPG_URLS = "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
 
