@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
+#EXTINF:-1 tvg-id="Rai.1.[Italian]" group-title="Eventi Live Sports99" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/rai-1-italian.webp",[Soccer] 2026-07-01 20:00 - FIFA World Cup - Belgium vs Senegal (Rai 1 [Italian])
+https://cdnlivetv.tv/api/v1/channels/player/?name=Rai%201%20%5BItalian%5D&code=it&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportdigital.Fussball.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sportdigital-fussball-fhd-de.webp",[Soccer] 2026-06-30 14:00 - UEFA U19 European Championship - Women - Bosnia-Herzegovina U19 vs Sweden U19 (Sportdigital Fussball FHD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportdigital%20Fussball%20FHD%20DE&code=de&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.2.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-2-hd-il.webp",[Soccer] 2026-06-30 14:00 - UEFA U19 European Championship - Women - Bosnia-Herzegovina U19 vs Sweden U19 (Sport 2 HD IL)
@@ -185,6 +187,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=BNT%201%20HD%20BG&code=bg&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=BNT%203%20HD%20BG&code=bg&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="beIN.MAX.1.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/bein-max-1-fhd.webp",[Soccer] 2026-06-30 16:00 - FIFA World Cup 2026 - Côte d'Ivoire vs Norway (beIN MAX 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20MAX%201%20FHD&code=sa&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="beIN.MAX.3.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/bein-max-3-fhd.webp",[Soccer] 2026-06-30 16:00 - FIFA World Cup 2026 - Côte d'Ivoire vs Norway (beIN MAX 3 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20MAX%203%20FHD&code=sa&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.1.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-1-hd-il.webp",[Soccer] 2026-06-30 16:00 - FIFA World Cup 2026 - Côte d'Ivoire vs Norway (Sport 1 HD IL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%201%20HD%20IL&code=il&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.1.FHD.TR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-06-30 16:00 - FIFA World Cup 2026 - Côte d'Ivoire vs Norway (beIN SPORTS MAX 1 FHD TR)
@@ -365,6 +369,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20FHD%20PL&code=pl
 https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%201%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.FR.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-1-fr-hd.webp",[Soccer] 2026-07-01 20:00 - FIFA World Cup - Belgium vs Senegal (beIN SPORTS 1 FR HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%201%20FR%20HD&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Rai.1.[Italian]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/rai-1-italian.webp",[Soccer] 2026-07-01 20:00 - FIFA World Cup - Belgium vs Senegal (Rai 1 [Italian])
+https://cdnlivetv.tv/api/v1/channels/player/?name=Rai%201%20%5BItalian%5D&code=it&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="PTV.SPORTS.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-01 20:00 - FIFA World Cup - Belgium vs Senegal (PTV SPORTS HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=PTV%20SPORTS%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Arena.Sport.1.FHD.BA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-01 20:00 - FIFA World Cup - Belgium vs Senegal (Arena Sport 1 FHD BA)
@@ -395,8 +401,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=RTS%201%20FHD%20RS&code=rs&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=Klan%20TV%20FHD%20AL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="JOJ.Sport.FHD.SK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-01 20:00 - FIFA World Cup - Belgium vs Senegal (JOJ Sport FHD SK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=JOJ%20Sport%20FHD%20SK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.1.Premium.FHD.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1-premium-fhd-rs.webp",[Soccer] 2026-07-01 20:00 - FIFA World Cup - Belgium vs Senegal (Arena Sport 1 Premium FHD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Arena.Sport.1.Premium.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1-premium-rs.webp",[Soccer] 2026-07-01 20:00 - FIFA World Cup - Belgium vs Senegal (Arena Sport 1 Premium RS)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20RS&code=rs&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ERT.2.GR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/ert-2-gr.webp",[Soccer] 2026-07-01 20:00 - FIFA World Cup - Belgium vs Senegal (ERT 2 GR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ERT%202%20GR&code=gr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="HRT.2.FHD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/hrt-2-fhd-hr.webp",[Soccer] 2026-07-01 20:00 - FIFA World Cup - Belgium vs Senegal (HRT 2 FHD HR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=HRT%202%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TV2.HD.DK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/denmark/tv2-hd-dk.webp",[Soccer] 2026-07-01 20:00 - FIFA World Cup - Belgium vs Senegal (TV2 HD DK)
@@ -477,8 +485,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%205%20HD%20MX&code=mx&us
 https://cdnlivetv.tv/api/v1/channels/player/?name=Azteca%207%20HD%20MX&code=mx&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Klan.TV.FHD.AL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-02 00:00 - FIFA World Cup - USA vs Bosnia-Herzegovina (Klan TV FHD AL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Klan%20TV%20FHD%20AL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.1.Premium.FHD.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1-premium-fhd-rs.webp",[Soccer] 2026-07-02 00:00 - FIFA World Cup - USA vs Bosnia-Herzegovina (Arena Sport 1 Premium FHD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Arena.Sport.1.Premium.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1-premium-rs.webp",[Soccer] 2026-07-02 00:00 - FIFA World Cup - USA vs Bosnia-Herzegovina (Arena Sport 1 Premium RS)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20RS&code=rs&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Match.Premier.RU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/russia/match-premier-ru.webp",[Soccer] 2026-07-02 00:00 - FIFA World Cup - USA vs Bosnia-Herzegovina (Match Premier RU)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Match%20Premier%20RU&code=ru&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Match.Football.1.RU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/russia/match-football-1-ru.webp",[Soccer] 2026-07-02 00:00 - FIFA World Cup - USA vs Bosnia-Herzegovina (Match Football 1 RU)
@@ -1075,16 +1083,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-05 23:00 - CFL - Hamilton Tiger-Cats vs Winnipeg Blue Bombers (TSN 3 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.2.FHD.HU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/hungary/sport-2-fhd-hu.webp",[MLB] 2026-07-01 17:10 - MLB - Cleveland Guardians vs Texas Rangers (Sport 2 FHD HU)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%202%20FHD%20HU&code=hu&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.1.FHD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/arena-sport-1-fhd-hr.webp",[MLB] 2026-07-01 17:10 - MLB - Cleveland Guardians vs Texas Rangers (Arena Sport 1 FHD HR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NESN.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nesn-us.webp",[MLB] 2026-07-01 17:35 - MLB - Boston Red Sox vs Washington Nationals (NESN US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NESN%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="YES.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/yes-network-us.webp",[MLB] 2026-07-01 17:35 - MLB - New York Yankees vs Detroit Tigers (YES Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=YES%20Network%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport1+.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sport1-fhd-de.webp",[MLB] 2026-07-01 17:35 - MLB - New York Yankees vs Detroit Tigers (Sport1+ FHD DE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport1%2B%20FHD%20DE&code=de&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-07-01 18:20 - MLB - Chicago Cubs vs San Diego Padres (TNT Sports 1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Marquee.Sports.Network.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/marquee-sports-network-fhd-us.webp",[MLB] 2026-07-01 18:20 - MLB - Chicago Cubs vs San Diego Padres (Marquee Sports Network FHD US)
@@ -1123,6 +1121,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20CA&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.West.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-02 00:10 - MLB - Milwaukee Brewers vs Cincinnati Reds (Sportsnet West CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SPORTSNET.EAST.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-02 00:10 - MLB - Milwaukee Brewers vs Cincinnati Reds (SPORTSNET EAST CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SPORTSNET%20EAST%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-02 00:10 - MLB - Milwaukee Brewers vs Cincinnati Reds (Sportsnet Ontario HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Pacific.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-02 00:10 - MLB - Milwaukee Brewers vs Cincinnati Reds (Sportsnet Pacific HD CA)
@@ -1147,6 +1147,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20CA&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.West.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-02 01:40 - MLB - Athletics vs Los Angeles Dodgers (Sportsnet West CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SPORTSNET.EAST.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-02 01:40 - MLB - Athletics vs Los Angeles Dodgers (SPORTSNET EAST CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SPORTSNET%20EAST%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-02 01:40 - MLB - Athletics vs Los Angeles Dodgers (Sportsnet Ontario HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Pacific.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-02 01:40 - MLB - Athletics vs Los Angeles Dodgers (Sportsnet Pacific HD CA)
@@ -1165,6 +1167,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20CA&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.West.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-02 18:10 - MLB - Milwaukee Brewers vs Cincinnati Reds (Sportsnet West CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SPORTSNET.EAST.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-02 18:10 - MLB - Milwaukee Brewers vs Cincinnati Reds (SPORTSNET EAST CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SPORTSNET%20EAST%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-02 18:10 - MLB - Milwaukee Brewers vs Cincinnati Reds (Sportsnet Ontario HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Pacific.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-02 18:10 - MLB - Milwaukee Brewers vs Cincinnati Reds (Sportsnet Pacific HD CA)
@@ -1189,6 +1193,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20CA&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.West.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-02 22:40 - MLB - Cleveland Guardians vs Chicago White Sox (Sportsnet West CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SPORTSNET.EAST.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-02 22:40 - MLB - Cleveland Guardians vs Chicago White Sox (SPORTSNET EAST CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SPORTSNET%20EAST%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-02 22:40 - MLB - Cleveland Guardians vs Chicago White Sox (Sportsnet Ontario HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Pacific.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-02 22:40 - MLB - Cleveland Guardians vs Chicago White Sox (Sportsnet Pacific HD CA)
@@ -1217,6 +1223,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20CA&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.West.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-03 02:10 - MLB - Los Angeles Dodgers vs San Diego Padres (Sportsnet West CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SPORTSNET.EAST.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-03 02:10 - MLB - Los Angeles Dodgers vs San Diego Padres (SPORTSNET EAST CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SPORTSNET%20EAST%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-03 02:10 - MLB - Los Angeles Dodgers vs San Diego Padres (Sportsnet Ontario HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Pacific.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-03 02:10 - MLB - Los Angeles Dodgers vs San Diego Padres (Sportsnet Pacific HD CA)
@@ -1293,6 +1301,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20CA&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.West.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-04 02:10 - MLB - Seattle Mariners vs Toronto Blue Jays (Sportsnet West CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SPORTSNET.EAST.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-04 02:10 - MLB - Seattle Mariners vs Toronto Blue Jays (SPORTSNET EAST CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SPORTSNET%20EAST%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-04 02:10 - MLB - Seattle Mariners vs Toronto Blue Jays (Sportsnet Ontario HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Pacific.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-04 02:10 - MLB - Seattle Mariners vs Toronto Blue Jays (Sportsnet Pacific HD CA)
@@ -1325,6 +1335,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20CA&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.West.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-04 20:10 - MLB - Seattle Mariners vs Toronto Blue Jays (Sportsnet West CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SPORTSNET.EAST.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-04 20:10 - MLB - Seattle Mariners vs Toronto Blue Jays (SPORTSNET EAST CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SPORTSNET%20EAST%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-04 20:10 - MLB - Seattle Mariners vs Toronto Blue Jays (Sportsnet Ontario HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Pacific.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-04 20:10 - MLB - Seattle Mariners vs Toronto Blue Jays (Sportsnet Pacific HD CA)
@@ -1369,6 +1381,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20CA&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.West.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-05 00:08 - MLB - Atlanta Braves vs New York Mets (Sportsnet West CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SPORTSNET.EAST.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-05 00:08 - MLB - Atlanta Braves vs New York Mets (SPORTSNET EAST CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SPORTSNET%20EAST%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-05 00:08 - MLB - Atlanta Braves vs New York Mets (Sportsnet Ontario HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Pacific.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-05 00:08 - MLB - Atlanta Braves vs New York Mets (Sportsnet Pacific HD CA)
@@ -1413,6 +1427,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20CA&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.West.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-05 16:30 - MLB - Atlanta Braves vs New York Mets (Sportsnet West CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SPORTSNET.EAST.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-05 16:30 - MLB - Atlanta Braves vs New York Mets (SPORTSNET EAST CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SPORTSNET%20EAST%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-05 16:30 - MLB - Atlanta Braves vs New York Mets (Sportsnet Ontario HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Pacific.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-05 16:30 - MLB - Atlanta Braves vs New York Mets (Sportsnet Pacific HD CA)
@@ -1473,6 +1489,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20CA&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.West.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-07 01:45 - MLB - San Francisco Giants vs Toronto Blue Jays (Sportsnet West CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SPORTSNET.EAST.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-07 01:45 - MLB - San Francisco Giants vs Toronto Blue Jays (SPORTSNET EAST CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SPORTSNET%20EAST%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-07 01:45 - MLB - San Francisco Giants vs Toronto Blue Jays (Sportsnet Ontario HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Pacific.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-07 01:45 - MLB - San Francisco Giants vs Toronto Blue Jays (Sportsnet Pacific HD CA)
@@ -1539,6 +1557,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20CA&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.West.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-06 18:20 - MLB - Chicago Cubs vs Toronto Blue Jays (Sportsnet West CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SPORTSNET.EAST.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-06 18:20 - MLB - Chicago Cubs vs Toronto Blue Jays (SPORTSNET EAST CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SPORTSNET%20EAST%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-06 18:20 - MLB - Chicago Cubs vs Toronto Blue Jays (Sportsnet Ontario HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Pacific.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-06 18:20 - MLB - Chicago Cubs vs Toronto Blue Jays (Sportsnet Pacific HD CA)
@@ -1631,6 +1651,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%201%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-1-fhd-pl.webp",[Tennis] 2026-06-30 09:00 - Tennis Wimbledon Championships 2026 -  vs  (Polsat Sport Extra 1 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%201%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Polsat.Sport.Extra.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-2-fhd-pl.webp",[Tennis] 2026-06-30 09:00 - Tennis Wimbledon Championships 2026 -  vs  (Polsat Sport Extra 2 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-3-fhd-pl.webp",[Tennis] 2026-06-30 09:00 - Tennis Wimbledon Championships 2026 -  vs  (Polsat Sport Extra 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%203%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-4-fhd-pl.webp",[Tennis] 2026-06-30 09:00 - Tennis Wimbledon Championships 2026 -  vs  (Polsat Sport Extra 4 FHD PL)
@@ -1719,6 +1741,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%201%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-1-fhd-pl.webp",[Tennis] 2026-06-30 09:00 - Tennis -  vs  (Polsat Sport Extra 1 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%201%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Polsat.Sport.Extra.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-2-fhd-pl.webp",[Tennis] 2026-06-30 09:00 - Tennis -  vs  (Polsat Sport Extra 2 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-3-fhd-pl.webp",[Tennis] 2026-06-30 09:00 - Tennis -  vs  (Polsat Sport Extra 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%203%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-4-fhd-pl.webp",[Tennis] 2026-06-30 09:00 - Tennis -  vs  (Polsat Sport Extra 4 FHD PL)
@@ -1813,6 +1837,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%201%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-1-fhd-pl.webp",[Tennis] 2026-07-01 09:00 - Tennis Wimbledon Championships 2026 -  vs  (Polsat Sport Extra 1 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%201%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Polsat.Sport.Extra.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-2-fhd-pl.webp",[Tennis] 2026-07-01 09:00 - Tennis Wimbledon Championships 2026 -  vs  (Polsat Sport Extra 2 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-3-fhd-pl.webp",[Tennis] 2026-07-01 09:00 - Tennis Wimbledon Championships 2026 -  vs  (Polsat Sport Extra 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%203%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-4-fhd-pl.webp",[Tennis] 2026-07-01 09:00 - Tennis Wimbledon Championships 2026 -  vs  (Polsat Sport Extra 4 FHD PL)
@@ -1901,6 +1927,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%201%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-1-fhd-pl.webp",[Tennis] 2026-07-01 09:00 - Tennis -  vs  (Polsat Sport Extra 1 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%201%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Polsat.Sport.Extra.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-2-fhd-pl.webp",[Tennis] 2026-07-01 09:00 - Tennis -  vs  (Polsat Sport Extra 2 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-3-fhd-pl.webp",[Tennis] 2026-07-01 09:00 - Tennis -  vs  (Polsat Sport Extra 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%203%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.4.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-4-fhd-pl.webp",[Tennis] 2026-07-01 09:00 - Tennis -  vs  (Polsat Sport Extra 4 FHD PL)
