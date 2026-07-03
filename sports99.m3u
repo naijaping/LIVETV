@@ -625,6 +625,14 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20PSL&code=&user=cd
 https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20Grandstand&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.1.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-1-hd-il.webp",[Soccer] 2026-07-03 22:00 - FIFA World Cup - Argentina vs Cape Verde (Sport 1 HD IL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%201%20HD%20IL&code=il&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.1.FHD.TR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-03 22:00 - FIFA World Cup - Argentina vs Cape Verde (beIN SPORTS MAX 1 FHD TR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20MAX%201%20FHD%20TR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Magenta.Sport.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/magenta-sport-fhd-de.webp",[Soccer] 2026-07-03 22:00 - FIFA World Cup - Argentina vs Cape Verde (Magenta Sport FHD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Magenta%20Sport%20FHD%20DE&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="M6.FHD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/m6-fhd-fr.webp",[Soccer] 2026-07-03 22:00 - FIFA World Cup - Argentina vs Cape Verde (M6 FHD FR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=M6%20FHD%20FR&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TV4.HD.SE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/sweden/tv4-hd-se.webp",[Soccer] 2026-07-03 22:00 - FIFA World Cup - Argentina vs Cape Verde (TV4 HD SE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TV4%20HD%20SE&code=se&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-us.webp",[Soccer] 2026-07-04 01:30 - FIFA World Cup - Colombia vs Ghana (FOX US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FOX.5.New.York" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-04 01:30 - FIFA World Cup - Colombia vs Ghana (FOX 5 New York)
@@ -867,8 +875,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20QC&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%202%20HD%20QC&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spectrum.Sportsnet.LA.Dodgers.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/spectrum-sportsnet-la-dodgers-hd-us.webp",[MLB] 2026-07-03 02:10 - MLB - Los Angeles Dodgers vs San Diego Padres (Spectrum Sportsnet LA Dodgers HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spectrum%20Sportsnet%20LA%20Dodgers%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-hd-uk.webp",[MLB] 2026-07-03 20:05 - MLB - Chicago Cubs vs St. Louis Cardinals (TNT Sports 1 HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-07-03 20:05 - MLB - Chicago Cubs vs St. Louis Cardinals (TNT Sports 1 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.Network.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-03 20:05 - MLB - Chicago Cubs vs St. Louis Cardinals (MLB Network HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Marquee.Sports.Network.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-03 20:05 - MLB - Chicago Cubs vs St. Louis Cardinals (Marquee Sports Network FHD US)
@@ -881,8 +889,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=AT%26T%20SportsNet%20Pittsburg
 https://cdnlivetv.tv/api/v1/channels/player/?name=YES%20Network%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TVA.Sports.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/tva-sports-ca.webp",[MLB] 2026-07-03 23:05 - MLB - New York Yankees vs Minnesota Twins (TVA Sports CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20CA&code=ca&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-hd-uk.webp",[MLB] 2026-07-03 23:10 - MLB - Cleveland Guardians vs Chicago White Sox (TNT Sports 1 HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-07-03 23:10 - MLB - Cleveland Guardians vs Chicago White Sox (TNT Sports 1 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.2.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-2-fhd-uk.webp",[MLB] 2026-07-03 23:10 - MLB - Cleveland Guardians vs Chicago White Sox (TNT Sports 2 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.Network.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-03 23:10 - MLB - Cleveland Guardians vs Chicago White Sox (MLB Network HD US)
