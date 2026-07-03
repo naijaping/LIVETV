@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
+#EXTINF:-1 tvg-id="RSI.La2.FHD.IT" group-title="Eventi Live Sports99" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/rsi-la2-fhd-it.webp",[Soccer] 2026-07-03 18:00 - FIFA World Cup - Australia vs Egypt (RSI La2 FHD IT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=RSI%20La2%20FHD%20IT&code=it&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Rai.1.HD.IT" group-title="Eventi Live Sports99" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/rai-1-hd-it.webp",[Soccer] 2026-07-03 18:00 - FIFA World Cup - Australia vs Egypt (Rai 1 HD IT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Rai%201%20HD%20IT&code=it&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-02 00:00 - FIFA World Cup - USA vs Bosnia-Herzegovina (FOX US)
@@ -433,6 +435,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ZDF%20FHD%20DE&code=de&user=cd
 https://cdnlivetv.tv/api/v1/channels/player/?name=TRT%201%20FHD%20TR&code=tr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.Mundial.1.es" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/dazn-mundial-1-es.webp",[Soccer] 2026-07-03 18:00 - FIFA World Cup - Australia vs Egypt (DAZN Mundial 1 es)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20Mundial%201%20es&code=es&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="RSI.La2.FHD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/rsi-la2-fhd-it.webp",[Soccer] 2026-07-03 18:00 - FIFA World Cup - Australia vs Egypt (RSI La2 FHD IT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=RSI%20La2%20FHD%20IT&code=it&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.TV.5.HD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-5-hd-pt.webp",[Soccer] 2026-07-03 18:00 - FIFA World Cup - Australia vs Egypt (Sport TV 5 HD PT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%205%20HD%20PT&code=pt&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TVP.Sport.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/tvp-sport-fhd-pl.webp",[Soccer] 2026-07-03 18:00 - FIFA World Cup - Australia vs Egypt (TVP Sport FHD PL)
