@@ -1,12 +1,8 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="Rai.Sport.FHD.IT" group-title="Eventi Live Sports99" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/rai-sport-fhd-it.webp",[Soccer] 2026-07-05 15:00 - UEFA European Under-19 Championship - Ukraine U19 vs Italy U19 (Rai Sport FHD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Rai%20Sport%20FHD%20IT&code=it&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Rai.1.HD.IT" group-title="Eventi Live Sports99" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/rai-1-hd-it.webp",[Soccer] 2026-07-05 20:00 - FIFA World Cup - Brazil vs Norway (Rai 1 HD IT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Rai%201%20HD%20IT&code=it&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="RSI.La2.FHD.IT" group-title="Eventi Live Sports99" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/rsi-la2-fhd-it.webp",[Soccer] 2026-07-05 20:00 - FIFA World Cup - Brazil vs Norway (RSI La2 FHD IT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=RSI%20La2%20FHD%20IT&code=it&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.FHD.IT" group-title="Eventi Live Sports99" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-f1-fhd-it.webp",[Motorsport] 2026-07-05 14:00 - Formula 1 -  vs  (Sky Sport F1 FHD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20FHD%20IT&code=it&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-04 21:00 - FIFA World Cup - Paraguay vs France (FOX US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="LiveNOW.from.FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-04 21:00 - FIFA World Cup - Paraguay vs France (LiveNOW from FOX US)
