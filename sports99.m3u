@@ -1155,8 +1155,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=SRF%20Info%20HD%20CH&code=&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1%20FHD&code=es&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-05 14:00 - Formula 1 -  vs  (Sky Sports Main Event FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20FHD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/canal-hd-fr.webp",[Motorsport] 2026-07-05 14:00 - Formula 1 -  vs  (Canal+ HD FR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20HD%20FR&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Formula.1.AF" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-05 14:00 - Formula 1 -  vs  (Canal+ Formula 1 AF)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Formula%201%20AF&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sport.2.NZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-2-nz.webp",[Motorsport] 2026-07-05 14:00 - Formula 1 -  vs  (Sky Sport 2 NZ)
