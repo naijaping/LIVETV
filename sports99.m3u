@@ -479,6 +479,14 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20HD%20PL&code=&us
 https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TVP.1.HD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (TVP 1 HD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%201%20HD%20PL&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sport.TV.1.FHD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (Sport TV 1 FHD PT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20FHD%20PT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sport.TV.1.HD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (Sport TV 1 HD PT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20HD%20PT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sport.TV.1.HD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (Sport TV 1 HD PT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20HD%20PT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sport.TV.1.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (Sport TV 1 PT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20PT&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.TV.5.HD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (Sport TV 5 HD PT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%205%20HD%20PT&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.TV.5.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (Sport TV 5 PT)
@@ -487,6 +495,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%205%20PT&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%205%20PT&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ERT.2.GR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (ERT 2 GR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ERT%202%20GR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="DR.1.DK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (DR 1 DK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=DR%201%20DK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="DR.1.HD.DK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (DR 1 HD DK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=DR%201%20HD%20DK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="DR.1.HD.IS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (DR 1 HD IS)
+https://cdnlivetv.tv/api/v1/channels/player/?name=DR%201%20HD%20IS&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="RSI.La.2.HD.CH" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (RSI La 2 HD CH)
 https://cdnlivetv.tv/api/v1/channels/player/?name=RSI%20La%202%20HD%20CH&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="SRF.Zwei.HD.CH" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (SRF Zwei HD CH)
@@ -543,6 +557,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20%5BEnglish%5D&code=&
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NOS.NPO.1.[Dutch]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (NOS NPO 1 [Dutch])
 https://cdnlivetv.tv/api/v1/channels/player/?name=NOS%20NPO%201%20%5BDutch%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sport.TV.1.[Portuguese]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (Sport TV 1 [Portuguese])
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20%5BPortuguese%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Rai.1.[Italian]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (Rai 1 [Italian])
 https://cdnlivetv.tv/api/v1/channels/player/?name=Rai%201%20%5BItalian%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Rai.1.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (Rai 1 IT)
@@ -779,12 +795,18 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%205%20PT&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%205%20PT&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ERT.2.GR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 20:00 - FIFA World Cup - Switzerland vs Colombia (ERT 2 GR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ERT%202%20GR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="DR.1.DK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 20:00 - FIFA World Cup - Switzerland vs Colombia (DR 1 DK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=DR%201%20DK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="DR.1.HD.DK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 20:00 - FIFA World Cup - Switzerland vs Colombia (DR 1 HD DK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=DR%201%20HD%20DK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NRK.1.Nordland.HD.NO" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 20:00 - FIFA World Cup - Switzerland vs Colombia (NRK 1 Nordland HD NO)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NRK%201%20Nordland%20HD%20NO&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NRK.1.Nordnytt.HD.NO" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 20:00 - FIFA World Cup - Switzerland vs Colombia (NRK 1 Nordnytt HD NO)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NRK%201%20Nordnytt%20HD%20NO&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Yle.TV2.HD.FI" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 20:00 - FIFA World Cup - Switzerland vs Colombia (Yle TV2 HD FI)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Yle%20TV2%20HD%20FI&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="DR.1.HD.IS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 20:00 - FIFA World Cup - Switzerland vs Colombia (DR 1 HD IS)
+https://cdnlivetv.tv/api/v1/channels/player/?name=DR%201%20HD%20IS&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="RSI.La.2.HD.CH" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 20:00 - FIFA World Cup - Switzerland vs Colombia (RSI La 2 HD CH)
 https://cdnlivetv.tv/api/v1/channels/player/?name=RSI%20La%202%20HD%20CH&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="SRF.Zwei.HD.CH" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 20:00 - FIFA World Cup - Switzerland vs Colombia (SRF Zwei HD CH)
@@ -853,6 +875,120 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20PSL&code=&user=cd
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Telemundo.ZA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 20:00 - FIFA World Cup - Switzerland vs Colombia (Telemundo ZA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20ZA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (FOX US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="LiveNOW.from.FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (LiveNOW from FOX US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=LiveNOW%20from%20FOX%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CA.CTV.Winnipeg" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (CA CTV Winnipeg)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Winnipeg&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CA.CTV.Vancouver" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (CA CTV Vancouver)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Vancouver&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CA.CTV.Toronto" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (CA CTV Toronto)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Toronto&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CA.CTV.Ottawa" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (CA CTV Ottawa)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Ottawa&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CA.CTV.Montreal" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (CA CTV Montreal)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Montreal&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CA.CTV.Kitchener" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (CA CTV Kitchener)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Kitchener&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CA.CTV.Halifax" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (CA CTV Halifax)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Halifax&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CA.CTV.Calgary" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (CA CTV Calgary)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Calgary&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CA.CTV.Edmonton" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (CA CTV Edmonton)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Edmonton&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CTV.Ottawa.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (CTV Ottawa HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Ottawa%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CTV.Kitchener.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (CTV Kitchener CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Kitchener%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CTV.Calgary.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (CTV Calgary CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Calgary%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CTV.Toronto.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (CTV Toronto CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Toronto%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.5.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (TSN 5 CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CTV.Vancouver.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (CTV Vancouver CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Vancouver%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.4.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (TSN 4 CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (TSN 3 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (TSN 3 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.4.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (TSN 4 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (TSN 5 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (TSN 5 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CA.CTV.TORONTO" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (CA CTV TORONTO)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20TORONTO&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CA.CTV.Calgary" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (CA CTV Calgary)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Calgary&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CA.CTV.Ottawa" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (CA CTV Ottawa)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Ottawa&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CA.CTV.Kitchener" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (CA CTV Kitchener)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Kitchener&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CTV.Montreal.HD.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (CTV Montreal HD QC)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Montreal%20HD%20QC&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NPO.1.Extra.HD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (NPO 1 Extra HD NL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NPO%201%20Extra%20HD%20NL&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NPO.1.Extra.FHD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (NPO 1 Extra FHD NL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NPO%201%20Extra%20FHD%20NL&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TVP.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (TVP 1 FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TVP.Sport.HD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (TVP Sport HD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20HD%20PL&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TVP.Sport.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (TVP Sport FHD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20FHD%20PL&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TVP.1.HD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (TVP 1 HD PL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%201%20HD%20PL&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sport.TV.1.FHD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (Sport TV 1 FHD PT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20FHD%20PT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sport.TV.1.HD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (Sport TV 1 HD PT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20HD%20PT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sport.TV.1.HD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (Sport TV 1 HD PT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20HD%20PT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sport.TV.1.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (Sport TV 1 PT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20PT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sport.TV.5.HD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (Sport TV 5 HD PT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%205%20HD%20PT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sport.TV.5.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (Sport TV 5 PT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%205%20PT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sport.TV.5.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (Sport TV 5 PT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%205%20PT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ERT.2.GR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (ERT 2 GR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ERT%202%20GR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Yle.TV2.HD.FI" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (Yle TV2 HD FI)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Yle%20TV2%20HD%20FI&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="RSI.La.2.HD.CH" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (RSI La 2 HD CH)
+https://cdnlivetv.tv/api/v1/channels/player/?name=RSI%20La%202%20HD%20CH&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SRF.Zwei.HD.CH" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (SRF Zwei HD CH)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SRF%20Zwei%20HD%20CH&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.5.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (TSN 5 [English])
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.4.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (TSN 4 [English])
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.3.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (TSN 3 [English])
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (TSN 1 [English])
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NOS.NPO.1.[Dutch]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (NOS NPO 1 [Dutch])
+https://cdnlivetv.tv/api/v1/channels/player/?name=NOS%20NPO%201%20%5BDutch%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sport.TV.1.[Portuguese]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (Sport TV 1 [Portuguese])
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20%5BPortuguese%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Rai.1.[Italian]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (Rai 1 [Italian])
+https://cdnlivetv.tv/api/v1/channels/player/?name=Rai%201%20%5BItalian%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Rai.1.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (Rai 1 IT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Rai%201%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Rai.1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (Rai 1 HD IT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Rai%201%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SuperSport.Grandstand" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (SuperSport Grandstand)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20Grandstand&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SuperSport.PSL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (SuperSport PSL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20PSL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-04 23:00 - CFL - BC Lions vs Edmonton Elks (TSN 5 CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-04 23:00 - CFL - BC Lions vs Edmonton Elks (TSN 5 HD CA)
