@@ -5,8 +5,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Rai%201%20HD%20IT&code=it&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=RSI%20La2%20FHD%20IT&code=it&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="RSI.La2.FHD.IT" group-title="Eventi Live Sports99" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/rsi-la2-fhd-it.webp",[Soccer] 2026-07-07 00:00 - FIFA World Cup - USA vs Belgium (RSI La2 FHD IT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=RSI%20La2%20FHD%20IT&code=it&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-05 20:00 - FIFA World Cup - Brazil vs Norway (FOX US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="LiveNOW.from.FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-05 20:00 - FIFA World Cup - Brazil vs Norway (LiveNOW from FOX US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=LiveNOW%20from%20FOX%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Winnipeg" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-05 20:00 - FIFA World Cup - Brazil vs Norway (CA CTV Winnipeg)
@@ -107,8 +105,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=TELEMUNDO&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Telemundo.HD.PR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-05 20:00 - FIFA World Cup - Brazil vs Norway (Telemundo HD PR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20HD%20PR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.1.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-05 20:00 - FIFA World Cup - Brazil vs Norway (Sport 1 IL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%201%20IL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Telemundo.West.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-05 20:00 - FIFA World Cup - Brazil vs Norway (Telemundo West FHD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20West%20FHD%20LAM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Telemundo.Phoenix.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-05 20:00 - FIFA World Cup - Brazil vs Norway (Telemundo Phoenix FHD LAM)
@@ -217,8 +213,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Tampa%20FL&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Washington%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Telemundo.West.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-05 20:00 - FIFA World Cup - Brazil vs Norway (Telemundo West FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20West%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 00:00 - FIFA World Cup - Mexico vs England (FOX US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="LiveNOW.from.FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 00:00 - FIFA World Cup - Mexico vs England (LiveNOW from FOX US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=LiveNOW%20from%20FOX%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 00:00 - FIFA World Cup - Mexico vs England (TSN 5 CA)
@@ -243,8 +237,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20East%20Midlands%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20North%20East%20and%20Cumbria%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="BBC.One.West.Midlands.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 00:00 - FIFA World Cup - Mexico vs England (BBC One West Midlands UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20West%20Midlands%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="BBC.One.Wales.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 00:00 - FIFA World Cup - Mexico vs England (BBC One Wales HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Wales%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="BBC.One.Wales.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 00:00 - FIFA World Cup - Mexico vs England (BBC One Wales FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Wales%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Das.Erste.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 00:00 - FIFA World Cup - Mexico vs England (Das Erste HD DE)
@@ -281,12 +273,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20%5BEnglish%5D&code
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NOS.NPO.1.[Dutch]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 00:00 - FIFA World Cup - Mexico vs England (NOS NPO 1 [Dutch])
 https://cdnlivetv.tv/api/v1/channels/player/?name=NOS%20NPO%201%20%5BDutch%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-us.webp",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (FOX US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FOX.5.New.York" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (FOX 5 New York)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%205%20New%20York&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="BBC.One.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-one-fhd-uk.webp",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (BBC One FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="BBC.One.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-one-hd-uk.webp",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (BBC One HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20HD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="RTÉ.Two.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/rt-two-fhd-uk.webp",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (RTÉ Two FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=RT%C3%89%20Two%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.TV.1.FHD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-1-fhd-pt.webp",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (Sport TV 1 FHD PT)
@@ -357,8 +347,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Ictimai%20TV%20AZ&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=SBS%20HD%20AU&code=au&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Fast.Sport.Armenia.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (Fast Sport Armenia HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fast%20Sport%20Armenia%20HD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Klan.TV.FHD.AL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (Klan TV FHD AL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Klan%20TV%20FHD%20AL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Match.Premier.RU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/russia/match-premier-ru.webp",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (Match Premier RU)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Match%20Premier%20RU&code=ru&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MatchTV.RU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/russia/matchtv-ru.webp",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (MatchTV RU)
@@ -385,8 +373,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=BNT%203%20HD%20BG&code=bg&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20Grandstand&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="SuperSport.PSL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (SuperSport PSL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20PSL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.3.[English]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-max-3-english.webp",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (beIN SPORTS MAX 3 [English])
-https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20MAX%203%20%5BEnglish%5D&code=sa&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.1.FHD.TR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (beIN SPORTS MAX 1 FHD TR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20MAX%201%20FHD%20TR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.1.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-1-hd-il.webp",[Soccer] 2026-07-06 19:00 - FIFA World Cup - Portugal vs Spain (Sport 1 HD IL)
@@ -399,12 +385,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ITV%201%20FHD%20UK&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=HRT%202%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Brasil.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-brasil-hd-br.webp",[Soccer] 2026-07-06 22:00 - Brazilian Serie B - Vila Nova vs São Bernardo (ESPN Brasil HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=br&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-us.webp",[Soccer] 2026-07-07 00:00 - FIFA World Cup - USA vs Belgium (FOX US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FOX.5.New.York" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 00:00 - FIFA World Cup - USA vs Belgium (FOX 5 New York)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%205%20New%20York&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="BBC.One.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-one-fhd-uk.webp",[Soccer] 2026-07-07 00:00 - FIFA World Cup - USA vs Belgium (BBC One FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="BBC.One.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-one-hd-uk.webp",[Soccer] 2026-07-07 00:00 - FIFA World Cup - USA vs Belgium (BBC One HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20HD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="RTÉ.Two.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/rt-two-fhd-uk.webp",[Soccer] 2026-07-07 00:00 - FIFA World Cup - USA vs Belgium (RTÉ Two FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=RT%C3%89%20Two%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="La.Une.HD.BE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/belgium/la-une-hd-be.webp",[Soccer] 2026-07-07 00:00 - FIFA World Cup - USA vs Belgium (La Une HD BE)
@@ -465,8 +449,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NRK%201%20HD%20NO&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=SBS%20HD%20AU&code=au&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Fast.Sport.Armenia.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 00:00 - FIFA World Cup - USA vs Belgium (Fast Sport Armenia HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fast%20Sport%20Armenia%20HD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Klan.TV.FHD.AL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 00:00 - FIFA World Cup - USA vs Belgium (Klan TV FHD AL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Klan%20TV%20FHD%20AL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Match.Premier.RU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/russia/match-premier-ru.webp",[Soccer] 2026-07-07 00:00 - FIFA World Cup - USA vs Belgium (Match Premier RU)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Match%20Premier%20RU&code=ru&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MatchTV.RU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/russia/matchtv-ru.webp",[Soccer] 2026-07-07 00:00 - FIFA World Cup - USA vs Belgium (MatchTV RU)
@@ -509,8 +491,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=M6%20FHD%20FR&code=fr&user=cdn
 https://cdnlivetv.tv/api/v1/channels/player/?name=ITV%201%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.TV.1.FHD.PT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-1-fhd-pt.webp",[Soccer] 2026-07-07 00:00 - FIFA World Cup - USA vs Belgium (Sport TV 1 FHD PT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20FHD%20PT&code=pt&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 16:00 - FIFA World Cup - Argentina vs Egypt (FOX US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="LiveNOW.from.FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 16:00 - FIFA World Cup - Argentina vs Egypt (LiveNOW from FOX US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=LiveNOW%20from%20FOX%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.4.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 16:00 - FIFA World Cup - Argentina vs Egypt (TSN 4 CA)
@@ -551,8 +531,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=TELEMUNDO&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Telemundo.HD.PR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 16:00 - FIFA World Cup - Argentina vs Egypt (Telemundo HD PR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20HD%20PR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.1.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 16:00 - FIFA World Cup - Argentina vs Egypt (Sport 1 IL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%201%20IL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Telemundo.West.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 16:00 - FIFA World Cup - Argentina vs Egypt (Telemundo West FHD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20West%20FHD%20LAM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Telemundo.Phoenix.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 16:00 - FIFA World Cup - Argentina vs Egypt (Telemundo Phoenix FHD LAM)
@@ -653,8 +631,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Tampa%20FL&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Washington%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Telemundo.West.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 16:00 - FIFA World Cup - Argentina vs Egypt (Telemundo West FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20West%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 20:00 - FIFA World Cup - Switzerland vs Colombia (FOX US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="LiveNOW.from.FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 20:00 - FIFA World Cup - Switzerland vs Colombia (LiveNOW from FOX US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=LiveNOW%20from%20FOX%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Winnipeg" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 20:00 - FIFA World Cup - Switzerland vs Colombia (CA CTV Winnipeg)
@@ -755,8 +731,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=TELEMUNDO&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Telemundo.HD.PR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 20:00 - FIFA World Cup - Switzerland vs Colombia (Telemundo HD PR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20HD%20PR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.1.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 20:00 - FIFA World Cup - Switzerland vs Colombia (Sport 1 IL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%201%20IL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Telemundo.West.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 20:00 - FIFA World Cup - Switzerland vs Colombia (Telemundo West FHD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20West%20FHD%20LAM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Telemundo.Phoenix.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 20:00 - FIFA World Cup - Switzerland vs Colombia (Telemundo Phoenix FHD LAM)
@@ -865,8 +839,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Tampa%20FL&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Washington%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Telemundo.West.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 20:00 - FIFA World Cup - Switzerland vs Colombia (Telemundo West FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20West%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (FOX US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="LiveNOW.from.FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (LiveNOW from FOX US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=LiveNOW%20from%20FOX%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Winnipeg" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (CA CTV Winnipeg)
