@@ -2,19 +2,10 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="2026wimbledonchampionships" tvg-name="🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (10:00)" tvg-logo="https://www.slideteam.net/wp/wp-content/uploads/2023/12/App-marketing-data-analytics-report.png" group-title="Eventi Live DLHD",🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (10:00)
-https://dlhd.pk/watch.php?id=462
-
-#EXTINF:-1 tvg-id="2026wimbledonchampionships" tvg-name="🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (10:00)" tvg-logo="https://www.slideteam.net/wp/wp-content/uploads/2023/12/App-marketing-data-analytics-report.png" group-title="Eventi Live DLHD",🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (10:00)
-https://dlhd.pk/watch.php?id=461
-
-#EXTINF:-1 tvg-id="2026wimbledonchampionships" tvg-name="🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (10:00)" tvg-logo="https://www.slideteam.net/wp/wp-content/uploads/2023/12/App-marketing-data-analytics-report.png" group-title="Eventi Live DLHD",🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (10:00)
-https://dlhd.pk/watch.php?id=576
-
-#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)" tvg-logo="https://i.imgflip.com/722ni7.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)
+#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)" tvg-logo="https://cdn.wallpapercast.com/wallpapercast-prod-v2/collections/689f0b9a567a99e8e384f442/large_1755253658976_ipy25pcyln.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)
 https://dlhd.pk/watch.php?id=262
 
-#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)" tvg-logo="https://i.imgflip.com/722ni7.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)
+#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)" tvg-logo="https://laextra.mx/wp-content/uploads/2023/07/Disney-World-696x462.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)
 https://dlhd.pk/watch.php?id=850
 
 #EXTINF:-1 tvg-id="fifaworldcupargentinavsegypt" tvg-name="All Soccer Events ⚽ | FIFA World Cup : 🇦🇷 Argentina vs 🇪🇬 Egypt (16:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/🇦🇷 Argentina_vs_🇪🇬 Egypt.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | FIFA World Cup : 🇦🇷 Argentina vs 🇪🇬 Egypt (16:00)
@@ -26,27 +17,18 @@ https://dlhd.pk/watch.php?id=850
 #EXTINF:-1 tvg-id="fifaworldcupswitzerlandvscolombia" tvg-name="All Soccer Events ⚽ | FIFA World Cup : 🇨🇭 Switzerland vs 🇨🇴 Colombia (20:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/🇨🇭 Switzerland_vs_🇨🇴 Colombia.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | FIFA World Cup : 🇨🇭 Switzerland vs 🇨🇴 Colombia (20:00)
 https://dlhd.pk/watch.php?id=262
 
-#EXTINF:-1 tvg-id="2026wimbledonchampionshipsquarterfinals" tvg-name="Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (10:00)" tvg-logo="https://www.slideteam.net/wp/wp-content/uploads/2023/12/App-marketing-data-analytics-report.png" group-title="Eventi Live DLHD",Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (10:00)
+#EXTINF:-1 tvg-id="2026wimbledonchampionshipsquarterfinals" tvg-name="Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (16:00)" tvg-logo="https://www.adfm.org/media/cwto1ut1/2026-conference-header.png" group-title="Eventi Live DLHD",Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (16:00)
 https://dlhd.pk/watch.php?id=462
 
-#EXTINF:-1 tvg-id="2026wimbledonchampionshipsquarterfinals" tvg-name="Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (10:00)" tvg-logo="https://www.slideteam.net/wp/wp-content/uploads/2023/12/App-marketing-data-analytics-report.png" group-title="Eventi Live DLHD",Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (10:00)
+#EXTINF:-1 tvg-id="2026wimbledonchampionshipsquarterfinals" tvg-name="Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (16:00)" tvg-logo="https://www.adfm.org/media/cwto1ut1/2026-conference-header.png" group-title="Eventi Live DLHD",Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (16:00)
 https://dlhd.pk/watch.php?id=461
 
-#EXTINF:-1 tvg-id="2026wimbledonchampionshipsquarterfinals" tvg-name="Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (10:00)" tvg-logo="https://www.slideteam.net/wp/wp-content/uploads/2023/12/App-marketing-data-analytics-report.png" group-title="Eventi Live DLHD",Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (10:00)
+#EXTINF:-1 tvg-id="2026wimbledonchampionshipsquarterfinals" tvg-name="Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (16:00)" tvg-logo="https://www.adfm.org/media/cwto1ut1/2026-conference-header.png" group-title="Eventi Live DLHD",Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (16:00)
 https://dlhd.pk/watch.php?id=576
 
-#EXTINF:-1 tvg-id="2026wimbledonchampionshipsquarterfinals" tvg-name="Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (16:00)" tvg-logo="https://www.slideteam.net/wp/wp-content/uploads/2023/12/App-marketing-data-analytics-report.png" group-title="Eventi Live DLHD",Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (16:00)
-https://dlhd.pk/watch.php?id=462
-
-#EXTINF:-1 tvg-id="2026wimbledonchampionshipsquarterfinals" tvg-name="Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (16:00)" tvg-logo="https://www.slideteam.net/wp/wp-content/uploads/2023/12/App-marketing-data-analytics-report.png" group-title="Eventi Live DLHD",Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (16:00)
-https://dlhd.pk/watch.php?id=461
-
-#EXTINF:-1 tvg-id="2026wimbledonchampionshipsquarterfinals" tvg-name="Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (16:00)" tvg-logo="https://www.slideteam.net/wp/wp-content/uploads/2023/12/App-marketing-data-analytics-report.png" group-title="Eventi Live DLHD",Tennis 🎾 | 2026 Wimbledon Championships Quarterfinals (16:00)
-https://dlhd.pk/watch.php?id=576
-
-#EXTINF:-1 tvg-id="tourdefrancestage4carcassonnetofoixhilly182km2700m" tvg-name="Cycling 🚴 | Tour de France Stage 4 - Carcassonne to Foix Hilly | 182 km | 2700 m (11:00)" tvg-logo="https://www.reporterosasociados.com.co/wp/wp-content/uploads/2015/06/Selección-Colombia-Femenina.png" group-title="Eventi Live DLHD",Cycling 🚴 | Tour de France Stage 4 - Carcassonne to Foix Hilly | 182 km | 2700 m (11:00)
+#EXTINF:-1 tvg-id="tourdefrancestage4carcassonnetofoixhilly182km2700m" tvg-name="Cycling 🚴 | Tour de France Stage 4 - Carcassonne to Foix Hilly | 182 km | 2700 m (11:00)" tvg-logo="https://i.pinimg.com/originals/3b/4d/57/3b4d57cdbfb39425c70aa9775933018f.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | Tour de France Stage 4 - Carcassonne to Foix Hilly | 182 km | 2700 m (11:00)
 https://dlhd.pk/watch.php?id=851
 
-#EXTINF:-1 tvg-id="tourdefrancestage4carcassonnetofoixhilly182km2700m" tvg-name="Cycling 🚴 | Tour de France Stage 4 - Carcassonne to Foix Hilly | 182 km | 2700 m (11:00)" tvg-logo="https://media.brainly.com.br/image/rs:fill/w:1920/q:75/plain/https://pt-static.z-dn.net/files/d2b/d852008bd78f3b30a8556d5f8a6d7c94.png" group-title="Eventi Live DLHD",Cycling 🚴 | Tour de France Stage 4 - Carcassonne to Foix Hilly | 182 km | 2700 m (11:00)
+#EXTINF:-1 tvg-id="tourdefrancestage4carcassonnetofoixhilly182km2700m" tvg-name="Cycling 🚴 | Tour de France Stage 4 - Carcassonne to Foix Hilly | 182 km | 2700 m (11:00)" tvg-logo="https://agendadeisa.com/wp-content/uploads/2022/07/Animales.png" group-title="Eventi Live DLHD",Cycling 🚴 | Tour de France Stage 4 - Carcassonne to Foix Hilly | 182 km | 2700 m (11:00)
 https://dlhd.pk/watch.php?id=878
 
