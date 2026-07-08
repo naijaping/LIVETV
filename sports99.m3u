@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
+#EXTINF:-1 tvg-id="FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-us.webp",[Soccer] 2026-07-07 20:00 - FIFA World Cup - Switzerland vs Colombia (FOX US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FOX.5.New.York" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-07 20:00 - FIFA World Cup - Switzerland vs Colombia (FOX 5 New York)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%205%20New%20York&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ITV.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/itv-1-fhd-uk.webp",[Soccer] 2026-07-07 20:00 - FIFA World Cup - Switzerland vs Colombia (ITV 1 FHD UK)
@@ -117,6 +119,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NPO1%20FHD%20NL&code=nl&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20FHD%20PT&code=pt&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TV4.HD.SE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/sweden/tv4-hd-se.webp",[Soccer] 2026-07-07 20:00 - FIFA World Cup - Switzerland vs Colombia (TV4 HD SE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TV4%20HD%20SE&code=se&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (FOX US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="LiveNOW.from.FOX.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (LiveNOW from FOX US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=LiveNOW%20from%20FOX%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Winnipeg" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (CA CTV Winnipeg)
@@ -229,14 +233,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Rai%201%20HD%20IT&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20Grandstand&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="SuperSport.PSL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (SuperSport PSL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20PSL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport1+.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sport1-fhd-de.webp",[MLB] 2026-07-07 18:15 - MLB - St. Louis Cardinals vs Milwaukee Brewers (Sport1+ FHD DE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport1%2B%20FHD%20DE&code=de&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.2.FHD.HU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/hungary/sport-2-fhd-hu.webp",[MLB] 2026-07-07 18:15 - MLB - St. Louis Cardinals vs Milwaukee Brewers (Sport 2 FHD HU)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%202%20FHD%20HU&code=hu&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FOX.Sports.3.Premium.HD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/fox-sports-3-premium-hd-arg.webp",[MLB] 2026-07-07 18:15 - MLB - St. Louis Cardinals vs Milwaukee Brewers (FOX Sports 3 Premium HD ARG)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20Sports%203%20Premium%20HD%20ARG&code=ar&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.2.HD.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-2-hd-rs.webp",[MLB] 2026-07-07 18:15 - MLB - St. Louis Cardinals vs Milwaukee Brewers (Arena Sport 2 HD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20HD%20RS&code=rs&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Marquee.Sports.Network.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-07 22:35 - MLB - Baltimore Orioles vs Chicago Cubs (Marquee Sports Network FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Marquee%20Sports%20Network%20FHD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MASN.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/masn-us.webp",[MLB] 2026-07-07 22:35 - MLB - Baltimore Orioles vs Chicago Cubs (MASN US)
