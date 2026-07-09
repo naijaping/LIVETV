@@ -1,18 +1,12 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="Rai.1.HD.IT" group-title="Eventi Live Sports99" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/rai-1-hd-it.webp",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (Rai 1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Rai%201%20HD%20IT&code=it&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FOX.5.New.York" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (FOX 5 New York)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%205%20New%20York&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ITV.1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/itv-1-hd-uk.webp",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (ITV 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ITV%201%20HD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="RTÉ.Two.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/rt-two-fhd-uk.webp",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (RTÉ Two FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=RT%C3%89%20Two%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (TSN 3 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.4.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (TSN 4 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (TSN 5 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="RDS.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-ca.webp",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (RDS CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=ca&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="RDS.(FR).CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-fr-ca.webp",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (RDS (FR) CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20(FR)%20CA&code=ca&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="LA.1.FHD.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/la-1-fhd-es.webp",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (LA 1 FHD ES)
 https://cdnlivetv.tv/api/v1/channels/player/?name=LA%201%20FHD%20ES&code=es&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.Mundial.1.es" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/dazn-mundial-1-es.webp",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (DAZN Mundial 1 es)
@@ -39,8 +33,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Match%20Premier%20RU&code=ru&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=MatchTV%20RU&code=ru&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Match.Football.1.RU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/russia/match-football-1-ru.webp",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (Match Football 1 RU)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Match%20Football%201%20RU&code=ru&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FUSSBALL.TV.1.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/fussball-tv-1-fhd-de.webp",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (FUSSBALL TV 1 FHD DE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FUSSBALL%20TV%201%20FHD%20DE&code=de&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TV4.HD.SE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/sweden/tv4-hd-se.webp",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (TV4 HD SE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TV4%20HD%20SE&code=se&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TVP.Sport.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/tvp-sport-fhd-pl.webp",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (TVP Sport FHD PL)
@@ -207,14 +199,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Max%204%20SD%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20MAX%204%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf.Channel.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/golf-channel-fhd-us.webp",[Golf] 2026-07-10 00:00 - PGA Tour -  vs  (Golf Channel FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20FHD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-3-fhd-pl.webp",[Volleyball] 2026-07-09 14:30 - FIVB Volleyball Womens Nations League - Czech Republic Volleyball Women vs Netherlands Volleyball Women (Polsat Sport 3 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Ziggo.Sport.2.FHD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-2-fhd-nl.webp",[Volleyball] 2026-07-09 14:30 - FIVB Volleyball Womens Nations League - Czech Republic Volleyball Women vs Netherlands Volleyball Women (Ziggo Sport 2 FHD NL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%202%20FHD%20NL&code=nl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-2-fhd-pl.webp",[Volleyball] 2026-07-09 14:30 - FIVB Volleyball Womens Nations League - Czech Republic Volleyball Women vs Netherlands Volleyball Women (Polsat Sport Extra 2 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.Klub.3.HD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sport-klub-3-hd-hr.webp",[Volleyball] 2026-07-09 14:30 - FIVB Volleyball Womens Nations League - Czech Republic Volleyball Women vs Netherlands Volleyball Women (Sport Klub 3 HD HR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20Klub%203%20HD%20HR&code=hr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-3-fhd-pl.webp",[Volleyball] 2026-07-09 18:00 - FIVB Volleyball Womens Nations League - Serbia Volleyball Women vs France Volleyball Women (Polsat Sport 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Max.Sport.2.FHD.BG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/max-sport-2-fhd-bg.webp",[Volleyball] 2026-07-09 18:00 - FIVB Volleyball Womens Nations League - Serbia Volleyball Women vs France Volleyball Women (Max Sport 2 FHD BG)
