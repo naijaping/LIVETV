@@ -65,8 +65,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NRK%201%20HD%20NO&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=ERT%202%20HD%20GR&code=gr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="M4.Sport.FHD.HU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/hungary/m4-sport-fhd-hu.webp",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (M4 Sport FHD HU)
 https://cdnlivetv.tv/api/v1/channels/player/?name=M4%20Sport%20FHD%20HU&code=hu&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.1.Premium.FHD.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1-premium-fhd-rs.webp",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (Arena Sport 1 Premium FHD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="HRT.2.FHD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/hrt-2-fhd-hr.webp",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (HRT 2 FHD HR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=HRT%202%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ČT.sport.HD.CZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/czech-republic/t-sport-hd-cz.webp",[Soccer] 2026-07-09 20:00 - FIFA World Cup - France vs Morocco (ČT sport HD CZ)
@@ -213,16 +211,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Max%204%20SD%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20MAX%204%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf.Channel.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/golf-channel-fhd-us.webp",[Golf] 2026-07-10 00:00 - PGA Tour -  vs  (Golf Channel FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20FHD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-1-fhd-pl.webp",[Volleyball] 2026-07-09 04:00 - FIVB Volleyball Womens Nations League - USA Volleyball Women vs Poland Volleyball Women (Polsat Sport 1 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Max.Sport.2.FHD.BG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/max-sport-2-fhd-bg.webp",[Volleyball] 2026-07-09 04:00 - FIVB Volleyball Womens Nations League - USA Volleyball Women vs Poland Volleyball Women (Max Sport 2 FHD BG)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%202%20FHD%20BG&code=bg&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.Klub.3.HD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sport-klub-3-hd-hr.webp",[Volleyball] 2026-07-09 04:00 - FIVB Volleyball Womens Nations League - USA Volleyball Women vs Poland Volleyball Women (Sport Klub 3 HD HR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20Klub%203%20HD%20HR&code=hr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.3.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-3-fhd-pl.webp",[Volleyball] 2026-07-09 09:00 - FIVB Volleyball Womens Nations League - Belgium Volleyball Women vs Canada Volleyball Women (Polsat Sport 3 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.Klub.6.HD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sport-klub-6-hd-hr.webp",[Volleyball] 2026-07-09 09:00 - FIVB Volleyball Womens Nations League - Belgium Volleyball Women vs Canada Volleyball Women (Sport Klub 6 HD HR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20Klub%206%20HD%20HR&code=hr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-2-fhd-pl.webp",[Volleyball] 2026-07-09 10:20 - FIVB Volleyball Womens Nations League - Japan Volleyball Women vs Thailand Volleyball Women (Polsat Sport 2 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%202%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.Klub.3.HD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sport-klub-3-hd-hr.webp",[Volleyball] 2026-07-09 10:20 - FIVB Volleyball Womens Nations League - Japan Volleyball Women vs Thailand Volleyball Women (Sport Klub 3 HD HR)
