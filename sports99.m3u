@@ -1,70 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
 #EXTINF:-1 tvg-id="ESPN.Brasil.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-brasil-hd-br.webp",[Soccer] 2026-07-10 23:00 - Brazilian Serie B - Sport Recife vs Botafogo-SP (ESPN Brasil HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=br&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.00:.Chicago.Cubs.vs.Baltimore.Orioles.|.Wed.8th.Jul.6:35.PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-09 22:35 - MLB - Baltimore Orioles vs Chicago Cubs (MLB 00: Chicago Cubs vs Baltimore Orioles | Wed 8th Jul 6:35 PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2000%3A%20Chicago%20Cubs%20vs%20Baltimore%20Orioles%20%7C%20Wed%208th%20Jul%206%3A35%20PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Baltimore.Orioles" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-09 22:35 - MLB - Baltimore Orioles vs Chicago Cubs (MLB | Baltimore Orioles)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Baltimore%20Orioles&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Chicago.Cubs" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-09 22:35 - MLB - Baltimore Orioles vs Chicago Cubs (MLB | Chicago Cubs)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MASN.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/masn-us.webp",[MLB] 2026-07-09 22:35 - MLB - Baltimore Orioles vs Chicago Cubs (MASN US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MASN%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-09 22:35 - MLB - Baltimore Orioles vs Chicago Cubs (Sportsnet Ontario HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Marquee.Sports.Network.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-09 22:35 - MLB - Baltimore Orioles vs Chicago Cubs (Marquee Sports Network FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Marquee%20Sports%20Network%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FOX.Sports.3.Premium.HD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/fox-sports-3-premium-hd-arg.webp",[MLB] 2026-07-09 22:35 - MLB - Baltimore Orioles vs Chicago Cubs (FOX Sports 3 Premium HD ARG)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20Sports%203%20Premium%20HD%20ARG&code=ar&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.03:.Seattle.Mariners.vs.Miami.Marlins.|.Wed.8th.Jul.6:40.PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-09 22:40 - MLB - Miami Marlins vs Seattle Mariners (MLB 03: Seattle Mariners vs Miami Marlins | Wed 8th Jul 6:40 PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2003%3A%20Seattle%20Mariners%20vs%20Miami%20Marlins%20%7C%20Wed%208th%20Jul%206%3A40%20PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-09 22:40 - MLB - Miami Marlins vs Seattle Mariners (MLB | Miami Marlins)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Seattle.Mariners" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-09 22:40 - MLB - Miami Marlins vs Seattle Mariners (MLB | Seattle Mariners)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Seattle%20Mariners&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="beIN.Sports.Max.5.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-5-hd-fr.webp",[MLB] 2026-07-09 22:40 - MLB - Miami Marlins vs Seattle Mariners (beIN Sports Max 5 HD FR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Max%205%20HD%20FR&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.01:..Athletics.vs.Detroit.Tigers.|.Wed.8th.Jul.6:40.PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-09 22:40 - MLB - Detroit Tigers vs Athletics (MLB 01:  Athletics vs Detroit Tigers | Wed 8th Jul 6:40 PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2001%3A%20%20Athletics%20vs%20Detroit%20Tigers%20%7C%20Wed%208th%20Jul%206%3A40%20PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Detroit.Tigers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-09 22:40 - MLB - Detroit Tigers vs Athletics (MLB | Detroit Tigers)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Detroit%20Tigers&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Oakland.Athletics" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-09 22:40 - MLB - Detroit Tigers vs Athletics (MLB | Oakland Athletics)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Oakland%20Athletics&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NBC.Sports.California.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-09 22:40 - MLB - Detroit Tigers vs Athletics (NBC Sports California HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.07:.Philadelphia.Phillies.vs.Cincinnati.Reds.|.Wed.8th.Jul.7:10.PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-09 23:10 - MLB - Cincinnati Reds vs Philadelphia Phillies (MLB 07: Philadelphia Phillies vs Cincinnati Reds | Wed 8th Jul 7:10 PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2007%3A%20Philadelphia%20Phillies%20vs%20Cincinnati%20Reds%20%7C%20Wed%208th%20Jul%207%3A10%20PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Cincinnati.Reds" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-09 23:10 - MLB - Cincinnati Reds vs Philadelphia Phillies (MLB | Cincinnati Reds)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Philadelphia.Phillies" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-09 23:10 - MLB - Cincinnati Reds vs Philadelphia Phillies (MLB | Philadelphia Phillies)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phillies&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.Network.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network-hd-us.webp",[MLB] 2026-07-09 23:10 - MLB - Cincinnati Reds vs Philadelphia Phillies (MLB Network HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TVA.Sports.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-09 23:10 - MLB - Cincinnati Reds vs Philadelphia Phillies (TVA Sports CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-09 23:10 - MLB - Cincinnati Reds vs Philadelphia Phillies (NBC Sports Philadelphia HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20Philadelphia%20HD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.10:.Milwaukee.Brewers.vs.St..Louis.Cardinals.|.Wed.8th.Jul.7:45.PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-09 23:45 - MLB - St. Louis Cardinals vs Milwaukee Brewers (MLB 10: Milwaukee Brewers vs St. Louis Cardinals | Wed 8th Jul 7:45 PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2010%3A%20Milwaukee%20Brewers%20vs%20St.%20Louis%20Cardinals%20%7C%20Wed%208th%20Jul%207%3A45%20PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.St..Louis.Cardinals" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-09 23:45 - MLB - St. Louis Cardinals vs Milwaukee Brewers (MLB | St. Louis Cardinals)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20St.%20Louis%20Cardinals&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-09 23:45 - MLB - St. Louis Cardinals vs Milwaukee Brewers (MLB | Milwaukee Brewers)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-07-09 23:45 - MLB - St. Louis Cardinals vs Milwaukee Brewers (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-4-hd-br.webp",[MLB] 2026-07-09 23:45 - MLB - St. Louis Cardinals vs Milwaukee Brewers (ESPN 4 HD BR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204%20HD%20BR&code=br&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Texas.Rangers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-10 00:05 - MLB - Texas Rangers vs Los Angeles Angels (MLB | Texas Rangers)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Texas%20Rangers&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Angels" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-10 00:05 - MLB - Texas Rangers vs Los Angeles Angels (MLB | Los Angeles Angels)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Angels&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.San.Diego.Padres" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-10 01:40 - MLB - San Diego Padres vs Arizona Diamondbacks (MLB | San Diego Padres)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Diego%20Padres&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-10 01:40 - MLB - San Diego Padres vs Arizona Diamondbacks (MLB | Arizona Diamondbacks)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.San.Francisco.Giants" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-10 01:45 - MLB - San Francisco Giants vs Colorado Rockies (MLB | San Francisco Giants)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Francisco%20Giants&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Colorado.Rockies" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-10 01:45 - MLB - San Francisco Giants vs Colorado Rockies (MLB | Colorado Rockies)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Colorado%20Rockies&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Pittsburgh.Pirates" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-10 22:40 - MLB - Pittsburgh Pirates vs Milwaukee Brewers (MLB | Pittsburgh Pirates)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirates&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-10 22:40 - MLB - Pittsburgh Pirates vs Milwaukee Brewers (MLB | Milwaukee Brewers)
@@ -3223,10 +3159,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondb
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.Cubs" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-09 23:40 - MLB - Milwaukee Brewers vs Chicago Cubs (MLB | Chicago Cubs)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.|.Edmonton.Stingers.@.Winnipeg.Sea.Bears.|.CEBL.Regular.Season.|.Thu.Jul.9.2026.8:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-10 00:00 - CEBL - Winnipeg Sea Bears vs Edmonton Stingers (CEBL | Edmonton Stingers @ Winnipeg Sea Bears | CEBL Regular Season | Thu Jul 9 2026 8:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Edmonton%20Stingers%20%40%20Winnipeg%20Sea%20Bears%20%7C%20CEBL%20Regular%20Season%20%7C%20Thu%20Jul%209%202026%208%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.|.Vancouver.Bandits.@.Calgary.Surge.|.CEBL.Regular.Season.|.Thu.Jul.9.2026.9:30PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-10 01:30 - CEBL - Calgary Surge vs Vancouver Bandits (CEBL | Vancouver Bandits @ Calgary Surge | CEBL Regular Season | Thu Jul 9 2026 9:30PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Vancouver%20Bandits%20%40%20Calgary%20Surge%20%7C%20CEBL%20Regular%20Season%20%7C%20Thu%20Jul%209%202026%209%3A30PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.|.Scarborough.Shooting.Stars.@.Niagra.River.Lions.|.CEBL.Regular.Season.|.Fri.Jul.10.2026.7:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-10 23:00 - CEBL - Niagara River Lions vs Scarborough Shooting Stars (CEBL | Scarborough Shooting Stars @ Niagra River Lions | CEBL Regular Season | Fri Jul 10 2026 7:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Scarborough%20Shooting%20Stars%20%40%20Niagra%20River%20Lions%20%7C%20CEBL%20Regular%20Season%20%7C%20Fri%20Jul%2010%202026%207%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-10 23:30 - WNBA - Toronto Tempo vs Dallas Wings (TSN 1 HD CA)
@@ -3311,8 +3243,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Ottawa%20BlackJac
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/golf-channel-fhd-us.webp",[Golf] 2026-07-10 00:00 - PGA Tour -  vs  (Golf Channel FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20FHD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf.Channel.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/golf-channel-fhd-us.webp",[Golf] 2026-07-11 00:00 - PGA Tour -  vs  (Golf Channel FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-11 13:00 - MotoGP -  vs  (MotoGP Commentary (D))
@@ -3347,6 +3281,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-12 12:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-17 11:30 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-17 11:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-17 11:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3357,8 +3293,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-17 11:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-17 11:30 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-17 15:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-17 15:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-17 15:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3369,8 +3305,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-17 15:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-17 15:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-18 10:30 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-18 10:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-18 10:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3381,8 +3317,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-18 10:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-18 10:30 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-18 14:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-18 14:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-18 14:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3393,8 +3329,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-18 14:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-18 14:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-19 13:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-19 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-19 13:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3405,8 +3341,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-19 13:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-19 13:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-24 11:30 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-24 11:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-24 11:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3417,8 +3353,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-24 11:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-24 11:30 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-24 15:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-24 15:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-24 15:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3429,8 +3365,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-24 15:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-24 15:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-25 10:30 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-25 10:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-25 10:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3441,8 +3377,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-25 10:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-25 10:30 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-25 14:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-25 14:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-25 14:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3453,8 +3389,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-25 14:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-25 14:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-26 13:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-26 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-26 13:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3465,8 +3401,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-26 13:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-26 13:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-08 15:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-08 15:00 - MotoGP -  vs  (MotoGP OB4 (D))
@@ -3499,6 +3433,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-09 12:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-21 10:30 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-21 10:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-21 10:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3509,8 +3445,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-21 10:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-21 10:30 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-21 14:30 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-21 14:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-21 14:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3521,8 +3457,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-21 14:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-21 14:30 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-22 10:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-22 10:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-22 10:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3533,8 +3469,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-22 10:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-22 10:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-22 14:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-22 14:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-22 14:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3545,8 +3481,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-22 14:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-22 14:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-23 13:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-23 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-23 13:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3557,8 +3493,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-23 13:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-23 13:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-29 13:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-29 13:00 - MotoGP -  vs  (MotoGP OB4 (D))
@@ -3591,6 +3525,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-30 12:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-04 10:30 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-04 10:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-04 10:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3601,8 +3537,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-04 10:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-04 10:30 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-04 14:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-04 14:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-04 14:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3613,8 +3549,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-04 14:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-04 14:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-05 10:30 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-05 10:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-05 10:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3625,8 +3561,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-05 10:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-05 10:30 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-05 14:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-05 14:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-05 14:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3637,8 +3573,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-05 14:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-05 14:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 13:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 13:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3649,8 +3585,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 13:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 13:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 11:30 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 11:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 11:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3661,8 +3597,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 11:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 11:30 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 15:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 15:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 15:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3673,8 +3609,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 15:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 15:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 10:30 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 10:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 10:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3685,8 +3621,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 10:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 10:30 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 13:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 13:00 - MotoGP -  vs  (MotoGP OB4 (D))
@@ -3703,6 +3637,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 13:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 14:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 14:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 14:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3713,8 +3649,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 14:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 14:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 12:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 12:00 - MotoGP -  vs  (MotoGP OB4 (D))
@@ -3731,6 +3665,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 12:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 13:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 13:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3741,8 +3677,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 13:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 13:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 13:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 13:00 - MotoGP -  vs  (MotoGP OB4 (D))
@@ -3775,6 +3709,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-20 12:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 08:30 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 08:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 08:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3785,8 +3721,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 08:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 08:30 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 12:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 12:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 12:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3797,8 +3733,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 12:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 12:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 08:30 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 08:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 08:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3809,8 +3745,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 08:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 08:30 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 12:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 12:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 12:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3821,8 +3757,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 12:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 12:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-26 11:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-26 11:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-26 11:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3833,8 +3769,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-26 11:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-26 11:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (MotoGP OB4 (D))
@@ -3867,6 +3801,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 05:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3877,8 +3813,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3889,8 +3825,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 08:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 08:00 - MotoGP -  vs  (MotoGP OB4 (D))
@@ -3907,6 +3841,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 08:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 09:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 09:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 09:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3917,8 +3853,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 09:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 09:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 13:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 13:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3929,8 +3865,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 13:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 13:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 07:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 07:00 - MotoGP -  vs  (MotoGP OB4 (D))
@@ -3947,6 +3881,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 07:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 12:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 12:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 12:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3957,8 +3893,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 12:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 12:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 17:30 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 17:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 17:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3969,8 +3905,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 17:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 17:30 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 21:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 21:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 21:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -3981,8 +3917,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 21:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 21:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 04:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 04:00 - MotoGP -  vs  (MotoGP OB4 (D))
@@ -3999,6 +3933,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 04:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 17:30 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 17:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 17:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4009,8 +3945,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 17:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 17:30 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4021,8 +3957,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 03:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 03:00 - MotoGP -  vs  (MotoGP OB4 (D))
@@ -4039,6 +3973,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 03:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4049,8 +3985,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4061,8 +3997,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4073,8 +4009,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 08:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 08:00 - MotoGP -  vs  (MotoGP OB4 (D))
@@ -4091,6 +4025,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 08:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4101,8 +4037,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4113,8 +4049,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (MotoGP OB4 (D))
@@ -4131,6 +4065,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4141,8 +4077,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4153,8 +4089,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4165,8 +4101,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4177,8 +4113,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 17:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 17:00 - MotoGP -  vs  (MotoGP OB4 (D))
@@ -4195,6 +4129,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 17:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4205,8 +4141,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4217,8 +4153,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - MotoGP -  vs  (MotoGP OB4 (D))
@@ -4235,6 +4169,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4245,8 +4181,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4257,8 +4193,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4269,8 +4205,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4281,8 +4217,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (MotoGP OB4 (D))
@@ -4299,6 +4233,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4309,8 +4245,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (MotoGP OB4 (D))
@@ -4327,6 +4261,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4337,8 +4273,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4349,8 +4285,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (MotoGP OB4 (D))
@@ -4367,6 +4301,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4377,8 +4313,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4389,8 +4325,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (MotoGP OB4 (D))
@@ -4407,6 +4341,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4417,8 +4353,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4429,8 +4365,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4441,8 +4377,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4453,8 +4389,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4465,8 +4401,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Next.|.10:07.(GMT).|.Grand.Prix.of.Germany.-.Free.Practice.1.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Next | 10:07 (GMT) | Grand Prix of Germany - Free Practice 1 | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Next%20%7C%2010%3A07%20(GMT)%20%7C%20Grand%20Prix%20of%20Germany%20-%20Free%20Practice%201%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -4477,146 +4413,148 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="-=.Reload.your.playlist.F1.=-" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (-= Reload your playlist F1 =-)
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Sky Sport F1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20HD%20IT&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-11 21:00 - UFC -  vs  (UFC Starzplay)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-11 21:00 - UFC -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-11 21:00 - UFC -  vs  (UFC Channel US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.Hall.of.Fame.Induction.Ceremony.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-11 21:00 - UFC -  vs  (End | UFC Hall of Fame Induction Ceremony | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20Fame%20Induction%20Ceremony%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-11 21:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-11 21:00 - UFC -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.329:.Press.Conference.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-11 21:00 - UFC -  vs  (End | UFC 329: Press Conference | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-11 21:00 - UFC -  vs  (UFC 1 (Solo Eventos))
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-11 21:00 - UFC -  vs  (UFC 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 00:00 - UFC -  vs  (UFC Starzplay)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 00:00 - UFC -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 00:00 - UFC -  vs  (UFC Channel US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.Hall.of.Fame.Induction.Ceremony.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 00:00 - UFC -  vs  (End | UFC Hall of Fame Induction Ceremony | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20Fame%20Induction%20Ceremony%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 00:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 00:00 - UFC -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.329:.Press.Conference.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 00:00 - UFC -  vs  (End | UFC 329: Press Conference | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 00:00 - UFC -  vs  (UFC 1 (Solo Eventos))
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 00:00 - UFC -  vs  (UFC 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-25 00:00 - UFC -  vs  (UFC Starzplay)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-25 00:00 - UFC -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-25 00:00 - UFC -  vs  (UFC Channel US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.Hall.of.Fame.Induction.Ceremony.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-25 00:00 - UFC -  vs  (End | UFC Hall of Fame Induction Ceremony | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20Fame%20Induction%20Ceremony%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-25 00:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-25 00:00 - UFC -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.329:.Press.Conference.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-25 00:00 - UFC -  vs  (End | UFC 329: Press Conference | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-25 00:00 - UFC -  vs  (UFC 1 (Solo Eventos))
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-25 00:00 - UFC -  vs  (UFC 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-01 00:00 - UFC -  vs  (UFC Starzplay)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-01 00:00 - UFC -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-01 00:00 - UFC -  vs  (UFC Channel US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.Hall.of.Fame.Induction.Ceremony.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-01 00:00 - UFC -  vs  (End | UFC Hall of Fame Induction Ceremony | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20Fame%20Induction%20Ceremony%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-01 00:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-01 00:00 - UFC -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.329:.Press.Conference.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-01 00:00 - UFC -  vs  (End | UFC 329: Press Conference | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-01 00:00 - UFC -  vs  (UFC 1 (Solo Eventos))
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-01 00:00 - UFC -  vs  (UFC 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-08 00:00 - UFC -  vs  (UFC Starzplay)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-08 00:00 - UFC -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-08 00:00 - UFC -  vs  (UFC Channel US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.Hall.of.Fame.Induction.Ceremony.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-08 00:00 - UFC -  vs  (End | UFC Hall of Fame Induction Ceremony | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20Fame%20Induction%20Ceremony%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-08 00:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-08 00:00 - UFC -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.329:.Press.Conference.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-08 00:00 - UFC -  vs  (End | UFC 329: Press Conference | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-08 00:00 - UFC -  vs  (UFC 1 (Solo Eventos))
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-08 00:00 - UFC -  vs  (UFC 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-15 00:00 - UFC -  vs  (UFC Starzplay)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-15 00:00 - UFC -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-15 00:00 - UFC -  vs  (UFC Channel US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.Hall.of.Fame.Induction.Ceremony.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-15 00:00 - UFC -  vs  (End | UFC Hall of Fame Induction Ceremony | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20Fame%20Induction%20Ceremony%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-15 00:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-15 00:00 - UFC -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.329:.Press.Conference.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-15 00:00 - UFC -  vs  (End | UFC 329: Press Conference | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-15 00:00 - UFC -  vs  (UFC 1 (Solo Eventos))
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-15 00:00 - UFC -  vs  (UFC 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-22 00:00 - UFC -  vs  (UFC Starzplay)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-22 00:00 - UFC -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-22 00:00 - UFC -  vs  (UFC Channel US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.Hall.of.Fame.Induction.Ceremony.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-22 00:00 - UFC -  vs  (End | UFC Hall of Fame Induction Ceremony | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20Fame%20Induction%20Ceremony%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-22 00:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-22 00:00 - UFC -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.329:.Press.Conference.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-22 00:00 - UFC -  vs  (End | UFC 329: Press Conference | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-22 00:00 - UFC -  vs  (UFC 1 (Solo Eventos))
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-22 00:00 - UFC -  vs  (UFC 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-29 00:00 - UFC -  vs  (UFC Starzplay)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-29 00:00 - UFC -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-29 00:00 - UFC -  vs  (UFC Channel US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.Hall.of.Fame.Induction.Ceremony.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-29 00:00 - UFC -  vs  (End | UFC Hall of Fame Induction Ceremony | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20Fame%20Induction%20Ceremony%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-29 00:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-29 00:00 - UFC -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.329:.Press.Conference.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-29 00:00 - UFC -  vs  (End | UFC 329: Press Conference | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-29 00:00 - UFC -  vs  (UFC 1 (Solo Eventos))
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-29 00:00 - UFC -  vs  (UFC 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 17:00 - UFC -  vs  (UFC Starzplay)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 17:00 - UFC -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 17:00 - UFC -  vs  (UFC Channel US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.Hall.of.Fame.Induction.Ceremony.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 17:00 - UFC -  vs  (End | UFC Hall of Fame Induction Ceremony | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20Fame%20Induction%20Ceremony%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 17:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 17:00 - UFC -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.329:.Press.Conference.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 17:00 - UFC -  vs  (End | UFC 329: Press Conference | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 17:00 - UFC -  vs  (UFC 1 (Solo Eventos))
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 17:00 - UFC -  vs  (UFC 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  (UFC Starzplay)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  (UFC Channel US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.Hall.of.Fame.Induction.Ceremony.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  (End | UFC Hall of Fame Induction Ceremony | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20Fame%20Induction%20Ceremony%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.329:.Press.Conference.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  (End | UFC 329: Press Conference | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  (UFC 1 (Solo Eventos))
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
+https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 21:00 - Professional Fighters League -  vs  (UFC Starzplay)
@@ -4625,26 +4563,30 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdn
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 21:00 - Professional Fighters League -  vs  (UFC Channel US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.Hall.of.Fame.Induction.Ceremony.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 21:00 - Professional Fighters League -  vs  (End | UFC Hall of Fame Induction Ceremony | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20Fame%20Induction%20Ceremony%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 21:00 - Professional Fighters League -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 21:00 - Professional Fighters League -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.329:.Press.Conference.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 21:00 - Professional Fighters League -  vs  (End | UFC 329: Press Conference | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 21:00 - Professional Fighters League -  vs  (UFC 1 (Solo Eventos))
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 21:00 - Professional Fighters League -  vs  (UFC 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 00:00 - Boxing -  vs  (UFC Starzplay)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 00:00 - Boxing -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 00:00 - Boxing -  vs  (UFC Channel US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.Hall.of.Fame.Induction.Ceremony.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 00:00 - Boxing -  vs  (End | UFC Hall of Fame Induction Ceremony | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20Fame%20Induction%20Ceremony%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 00:00 - Boxing -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 00:00 - Boxing -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.329:.Press.Conference.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 00:00 - Boxing -  vs  (End | UFC 329: Press Conference | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 00:00 - Boxing -  vs  (UFC 1 (Solo Eventos))
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 00:00 - Boxing -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
+https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 00:00 - Boxing -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 23:00 - Professional Fighters League -  vs  (UFC Starzplay)
@@ -4653,26 +4595,30 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdn
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 23:00 - Professional Fighters League -  vs  (UFC Channel US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.Hall.of.Fame.Induction.Ceremony.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 23:00 - Professional Fighters League -  vs  (End | UFC Hall of Fame Induction Ceremony | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20Fame%20Induction%20Ceremony%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 23:00 - Professional Fighters League -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 23:00 - Professional Fighters League -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.329:.Press.Conference.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 23:00 - Professional Fighters League -  vs  (End | UFC 329: Press Conference | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 23:00 - Professional Fighters League -  vs  (UFC 1 (Solo Eventos))
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 23:00 - Professional Fighters League -  vs  (UFC 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (UFC Starzplay)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (UFC Channel US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.Hall.of.Fame.Induction.Ceremony.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (End | UFC Hall of Fame Induction Ceremony | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20Fame%20Induction%20Ceremony%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.329:.Press.Conference.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (End | UFC 329: Press Conference | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (UFC 1 (Solo Eventos))
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
+https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-01 00:00 - Boxing -  vs  (UFC Starzplay)
@@ -4681,12 +4627,16 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdn
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-01 00:00 - Boxing -  vs  (UFC Channel US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.Hall.of.Fame.Induction.Ceremony.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-01 00:00 - Boxing -  vs  (End | UFC Hall of Fame Induction Ceremony | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20Fame%20Induction%20Ceremony%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-01 00:00 - Boxing -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-01 00:00 - Boxing -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.329:.Press.Conference.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-01 00:00 - Boxing -  vs  (End | UFC 329: Press Conference | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-01 00:00 - Boxing -  vs  (UFC 1 (Solo Eventos))
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-01 00:00 - Boxing -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
+https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-01 00:00 - Boxing -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-01 00:00 - Boxing -  vs  (UFC Starzplay)
@@ -4695,12 +4645,16 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdn
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-01 00:00 - Boxing -  vs  (UFC Channel US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.Hall.of.Fame.Induction.Ceremony.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-01 00:00 - Boxing -  vs  (End | UFC Hall of Fame Induction Ceremony | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20Fame%20Induction%20Ceremony%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-01 00:00 - Boxing -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-01 00:00 - Boxing -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.329:.Press.Conference.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-01 00:00 - Boxing -  vs  (End | UFC 329: Press Conference | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-01 00:00 - Boxing -  vs  (UFC 1 (Solo Eventos))
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-01 00:00 - Boxing -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
+https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-01 00:00 - Boxing -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (UFC Starzplay)
@@ -4709,12 +4663,16 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdn
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (UFC Channel US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.Hall.of.Fame.Induction.Ceremony.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (End | UFC Hall of Fame Induction Ceremony | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20Fame%20Induction%20Ceremony%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.329:.Press.Conference.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (End | UFC 329: Press Conference | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (UFC 1 (Solo Eventos))
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
+https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (UFC Starzplay)
@@ -4723,12 +4681,16 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdn
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (UFC Channel US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.Hall.of.Fame.Induction.Ceremony.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (End | UFC Hall of Fame Induction Ceremony | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20Fame%20Induction%20Ceremony%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.329:.Press.Conference.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (End | UFC 329: Press Conference | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (UFC 1 (Solo Eventos))
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
+https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-1-fhd-pl.webp",[Volleyball] 2026-07-10 04:00 - FIVB Volleyball Womens Nations League - USA Volleyball Women vs Turkey Volleyball Women (Polsat Sport 1 FHD PL)
@@ -4775,12 +4737,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%203%20FHD%20NL&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.Klub.4.HD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sport-klub-4-hd-hr.webp",[Volleyball] 2026-07-10 18:00 - FIVB Volleyball Womens Nations League - Germany Volleyball Women vs Netherlands Volleyball Women (Sport Klub 4 HD HR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20Klub%204%20HD%20HR&code=hr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="DAZN.2.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/dazn-2-fhd-de.webp",[Darts] 2026-07-10 00:00 - PDC Darts -  vs  (DAZN 2 FHD DE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%202%20FHD%20DE&code=de&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal+.Sport.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/canal-sport-2-fhd-pl.webp",[Darts] 2026-07-10 00:00 - PDC Darts -  vs  (Canal+ Sport 2 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%202%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.1.FHD.CZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/czech-republic/sport-1-fhd-cz.webp",[Darts] 2026-07-10 00:00 - PDC Darts -  vs  (Sport 1 FHD CZ)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%201%20FHD%20CZ&code=cz&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.2.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/dazn-2-fhd-de.webp",[Darts] 2026-07-11 00:00 - PDC Darts -  vs  (DAZN 2 FHD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%202%20FHD%20DE&code=de&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Canal+.Sport.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/canal-sport-2-fhd-pl.webp",[Darts] 2026-07-11 00:00 - PDC Darts -  vs  (Canal+ Sport 2 FHD PL)
