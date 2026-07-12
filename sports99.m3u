@@ -4605,6 +4605,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20CA&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.West.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-17 23:05 - MLB - New York Yankees vs Los Angeles Dodgers (Sportsnet West CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SPORTSNET.EAST.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-17 23:05 - MLB - New York Yankees vs Los Angeles Dodgers (SPORTSNET EAST CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SPORTSNET%20EAST%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-17 23:05 - MLB - New York Yankees vs Los Angeles Dodgers (Sportsnet Ontario HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Pacific.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-17 23:05 - MLB - New York Yankees vs Los Angeles Dodgers (Sportsnet Pacific HD CA)
@@ -4647,6 +4649,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20CA&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.West.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-17 23:10 - MLB - Boston Red Sox vs Tampa Bay Rays (Sportsnet West CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SPORTSNET.EAST.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-17 23:10 - MLB - Boston Red Sox vs Tampa Bay Rays (SPORTSNET EAST CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SPORTSNET%20EAST%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-17 23:10 - MLB - Boston Red Sox vs Tampa Bay Rays (Sportsnet Ontario HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Pacific.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-17 23:10 - MLB - Boston Red Sox vs Tampa Bay Rays (Sportsnet Pacific HD CA)
@@ -5811,6 +5815,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20CA&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.West.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-06 18:20 - MLB - Chicago Cubs vs Toronto Blue Jays (Sportsnet West CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SPORTSNET.EAST.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-06 18:20 - MLB - Chicago Cubs vs Toronto Blue Jays (SPORTSNET EAST CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SPORTSNET%20EAST%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-06 18:20 - MLB - Chicago Cubs vs Toronto Blue Jays (Sportsnet Ontario HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Pacific.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-06 18:20 - MLB - Chicago Cubs vs Toronto Blue Jays (Sportsnet Pacific HD CA)
