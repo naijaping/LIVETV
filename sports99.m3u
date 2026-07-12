@@ -4509,6 +4509,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2013%3A%20Atlanta%20Braves
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20St.%20Louis%20Cardinals&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Atlanta.Braves" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 18:15 - MLB - St. Louis Cardinals vs Atlanta Braves (MLB | Atlanta Braves)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Atlanta%20Braves&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.11:.Houston.Astros.vs.Texas.Rangers.|.Sat.11th.Jul.7:05.PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 18:35 - MLB - Texas Rangers vs Houston Astros (MLB 11: Houston Astros vs Texas Rangers | Sat 11th Jul 7:05 PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2011%3A%20Houston%20Astros%20vs%20Texas%20Rangers%20%7C%20Sat%2011th%20Jul%207%3A05%20PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Texas.Rangers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 18:35 - MLB - Texas Rangers vs Houston Astros (MLB | Texas Rangers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Texas%20Rangers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Houston.Astros" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 18:35 - MLB - Texas Rangers vs Houston Astros (MLB | Houston Astros)
