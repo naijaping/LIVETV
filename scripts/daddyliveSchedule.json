@@ -2054,6 +2054,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1551"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1507"
                     }
                 ]
             },
@@ -2074,6 +2078,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1553"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1509"
                     }
                 ]
             },
@@ -2104,6 +2112,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1556"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1507"
                     }
                 ]
             },
@@ -2124,6 +2136,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1558"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1509"
                     }
                 ]
             },
@@ -2148,6 +2164,26 @@
                 ]
             },
             {
+                "time": "10:30",
+                "event": "\ud83c\udfbe WTA Ia\u0219i: \ud83c\uddf0\ud83c\uddff Yulia Putintseva vs \ud83c\uddf7\ud83c\uddfa Alina Charaeva",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "\ud83c\udfbe WTA Ia\u0219i: \ud83c\udded\ud83c\uddfa Anna Bond\u00e1r vs \ud83c\uddf8\ud83c\uddee Tamara Zidan\u0161ek",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
                 "time": "11:30",
                 "event": "\ud83c\udfbe ATP Gstaad: \ud83c\udde9\ud83c\uddea Hendrik Jebens / \ud83c\udde8\ud83c\uddff Mat\u011bj Vocel vs \ud83c\uddf5\ud83c\uddea Ignacio Buse / \ud83c\uddea\ud83c\uddf8 I\u00f1igo Cervantes",
                 "channels": [
@@ -2164,6 +2200,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1562"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1509"
                     }
                 ]
             },
@@ -2184,6 +2224,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1564"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1507"
                     }
                 ]
             },
@@ -2204,6 +2248,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1566"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1509"
                     }
                 ]
             },
@@ -2214,6 +2262,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1567"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1521"
                     }
                 ]
             },
@@ -2224,6 +2276,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1568"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1508"
                     }
                 ]
             },
@@ -2234,6 +2290,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1569"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1522"
                     }
                 ]
             },
@@ -2248,12 +2308,36 @@
                 ]
             },
             {
+                "time": "14:30",
+                "event": "\ud83c\udfbe WTA Hamburg: \ud83c\udde6\ud83c\uddfa Elena Micic vs \ud83c\udde8\ud83c\uddf3 Qinwen Zheng",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "\ud83c\udfbe WTA Ia\u0219i: \ud83c\uddeb\ud83c\uddf7 Clara Burel vs \ud83c\uddeb\ud83c\uddf7 Elsa Jacquemot",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
                 "time": "15:30",
                 "event": "\ud83c\udfbe ATP Gstaad: \ud83c\udde8\ud83c\udded J\u00e9r\u00f4me Kym vs \ud83c\uddec\ud83c\uddf7 Stefanos Tsitsipas",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1571"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1507"
                     }
                 ]
             },
@@ -2264,6 +2348,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1572"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1523"
                     }
                 ]
             },
@@ -2279,11 +2367,25 @@
             },
             {
                 "time": "16:00",
+                "event": "\ud83c\udfbe WTA Ia\u0219i: \ud83c\udde6\ud83c\uddf2 Elina Avanesyan vs \ud83c\udded\ud83c\uddf7 Petra Mar\u010dinko",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
                 "event": "\ud83c\udfbe ATP Umag: \ud83c\uddee\ud83c\uddf9 Flavio Cobolli vs \ud83c\udde6\ud83c\uddf7 Rom\u00e1n Andr\u00e9s Burruchaga",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1574"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1508"
                     }
                 ]
             },
@@ -2294,6 +2396,20 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1575"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1524"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "\ud83c\udfbe WTA Hamburg: \ud83c\uddec\ud83c\udde7 Harriet Dart vs \ud83c\uddec\ud83c\uddf7 Maria Sakkari",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
                     }
                 ]
             },
@@ -2319,11 +2435,35 @@
             },
             {
                 "time": "17:30",
+                "event": "\ud83c\udfbe WTA Hamburg: \ud83c\uddef\ud83c\uddf5 Mai Hontama vs \ud83c\uddfa\ud83c\uddf8 Alycia Parks",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\ud83c\udfbe WTA Hamburg: \ud83c\udde6\ud83c\uddf9 Lilli Tagger vs \ud83c\udde8\ud83c\uddff Sara Bejlek",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
                 "event": "\ud83c\udfbe ATP Umag: \ud83c\uddeb\ud83c\uddf7 Luca Van Assche vs \ud83c\uddeb\ud83c\uddf7 Titouan Droguet",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1578"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1525"
                     }
                 ]
             },
@@ -2334,6 +2474,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1579"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "1508"
                     }
                 ]
             }
