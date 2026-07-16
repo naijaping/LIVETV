@@ -1,1 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="nbalasvegassummerleaguehoustonrocketsvsbrooklynnets" tvg-name="NBA 🏀 | 🏀 NBA Las Vegas Summer League: 🇺🇸 Houston Rockets vs 🇺🇸 Brooklyn Nets (20:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/🇺🇸 Houston Rockets_vs_🇺🇸 Brooklyn Nets.png" group-title="Eventi Live DLHD",NBA 🏀 | 🏀 NBA Las Vegas Summer League: 🇺🇸 Houston Rockets vs 🇺🇸 Brooklyn Nets (20:30)
+https://dlhd.pk/watch.php?id=460
+
