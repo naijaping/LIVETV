@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Football | Lech Poznan vs Gornik Zabrze | 17:00 ()" group-title="Eventi Live STREAMED",Football | Lech Poznan vs Gornik Zabrze | 17:00 ()
-https://embed.st/embed/echo/lech-poznan-vs-gornik-zabrze-football-1589959/1
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBQgYwJCG7b9IPiCkgSIS5cQGTfAror3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp" tvg-name="Rugby | Bradford Bulls vs Wakefield Trinity Wildcats | 19:00 ()" group-title="Eventi Live STREAMED",Rugby | Bradford Bulls vs Wakefield Trinity Wildcats | 19:00 ()
+https://embed.st/embed/echo/bradford-bulls-vs-wakefield-trinity-game-184842/1
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Other | England vs India - Second one-day international | 11:30 ()" group-title="Eventi Live STREAMED",Other | England vs India - Second one-day international | 11:30 ()
 https://embed.st/embed/echo/england-vs-india-second-one-day-international-game-19993637/1
-#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reihB9swMDxDctRwxBCaSuEFfgFgSCn2GyNYFSi6vy9LLPdNaYK5iohBAA.webp" tvg-name="Rugby | Penrith Panthers vs Brisbane Broncos | 09:50 ()" group-title="Eventi Live STREAMED",Rugby | Penrith Panthers vs Brisbane Broncos | 09:50 ()
-https://embed.st/embed/echo/penrith-panthers-vs-brisbane-broncos-game-236363/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVijApOABjB8Q3EAZIgpIFIZCIQIGLgLAkFPsNn1NK7WzBl4RLFltJlowXzFRCCA.webp" tvg-name="Golf | The Open Championship Round 1 | 05:30 (English - Sky Sport 2 NZ)" group-title="Eventi Live STREAMED",Golf | The Open Championship Round 1 | 05:30 (English - Sky Sport 2 NZ)
 https://embed.st/embed/admin/ppv-the-open-championship-round-1/1
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Other | UCI Tour de France | UCI World Tour 🏁 | 11:30 ()" group-title="Eventi Live STREAMED",Other | UCI Tour de France | UCI World Tour 🏁 | 11:30 ()
@@ -17,8 +15,6 @@ https://embed.st/embed/admin/admin-willow-cricket/1
 https://embed.st/embed/admin/admin-tennis-channel/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp" tvg-name="Motor-sports | Rally TV |  (English)" group-title="Eventi Live STREAMED",Motor-sports | Rally TV |  (English)
 https://embed.st/embed/admin/admin-rally-tv/1
-#EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBQgYwJCG7b9IPiCkgSIS5cQGTfAror3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp" tvg-name="Rugby | Bradford Bulls vs Wakefield Trinity Wildcats | 19:00 ()" group-title="Eventi Live STREAMED",Rugby | Bradford Bulls vs Wakefield Trinity Wildcats | 19:00 ()
-https://embed.st/embed/echo/bradford-bulls-vs-wakefield-trinity-game-184842/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvmJgw0sElgheILCFOIjMQyBIgUIaS30wBIuYxRhVKHp-KNqct6a9NpijGFAA.webp" tvg-name="Basketball | Oklahoma City Thunder vs Dallas Mavericks | 20:00 (English - Prime Video)" group-title="Eventi Live STREAMED",Basketball | Oklahoma City Thunder vs Dallas Mavericks | 20:00 (English - Prime Video)
 https://embed.st/embed/admin/ppv-dallas-mavericks-vs-oklahoma-city-thunder/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrxBwQlMDoAMITVhCnEmmEZAkQKEFhZIKD9qPEowqlD0-lG1OW98VmAwT3ExCCA.webp" tvg-name="Basketball | Houston Rockets vs Brooklyn Nets | 20:30 (English - ESPNU)" group-title="Eventi Live STREAMED",Basketball | Houston Rockets vs Brooklyn Nets | 20:30 (English - ESPNU)
