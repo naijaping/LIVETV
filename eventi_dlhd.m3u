@@ -1,16 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
-https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)" tvg-logo="https://64.media.tumblr.com/50a48e418737153a8d63d679805401e7/e60f026605e46d94-04/s1280x1920/b41b52dbb9d8aff63c86acf74e2898f3d4e3c0b6.jpg" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)
-https://dlhd.pk/watch.php?id=262
-
-#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)" tvg-logo="https://i.pinimg.com/originals/7e/3c/bc/7e3cbc86e2cbb1a48966306bb11bfc00.jpg" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (16:00)
-https://dlhd.pk/watch.php?id=850
-
-#EXTINF:-1 tvg-id="formula1moëtampchandonbelgiangrandprixpractice2" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 1 : 🇧🇪 Moët &amp; Chandon Belgian Grand Prix – Practice 2 (15:00)" tvg-logo="https://media.tenor.com/Dhrbmr_t3tEAAAAe/forrest-gump-hello.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 1 : 🇧🇪 Moët &amp; Chandon Belgian Grand Prix – Practice 2 (15:00)
-https://dlhd.pk/watch.php?id=577
-
-#EXTINF:-1 tvg-id="formula1moëtampchandonbelgiangrandprixpractice2" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 1 : 🇧🇪 Moët &amp; Chandon Belgian Grand Prix – Practice 2 (15:00)" tvg-logo="https://images4.alphacoders.com/131/thumb-1920-1311523.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 1 : 🇧🇪 Moët &amp; Chandon Belgian Grand Prix – Practice 2 (15:00)
-https://dlhd.pk/watch.php?id=3047
-
